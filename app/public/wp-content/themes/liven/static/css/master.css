@@ -1,0 +1,31 @@
+﻿@charset "utf-8";
+/* unminified version css */
+/*------------------------------------------------------------------
+Name: Master.css
+
+Project: Liven 
+Version: 1.0
+Author:	Lithemes
+Primary use: Great Business WordPress theme with many new design and functionality.
+
+	#Animation styles in animate.css
+	#All theme main styles in theme.css
+	#Portfolio and testimonial slider styles in slick.css and slick-theme.css (open source)
+	#All Portfolio hover styles in hover.css
+	#Tabs styles in easy-responsive-tabs.css	
+	#Portfolio styles in portfolio.css	
+	#Megamenu styles in megamenu.css	
+	#Responsive megamenu styles in res-menu.css
+-------------------------------------------------------------------*/
+@import url(../css/bootstrap.css);
+@import url(../css/animate.css);
+@import url(../css/theme.css);
+@import url(../css/font-awesome.min.css);
+@import url(../css/bootstrapValidator.css);
+@import url(../css/slick.css);
+@import url(../css/slick-theme.css);
+@import url(../css/hover.css);
+@import url(../css/easy-responsive-tabs.css);
+@import url(../css/portfolio.css);
+@import url(../css/megamenu.css);
+@import url(../css/res-menu.css);

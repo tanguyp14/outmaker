@@ -1,0 +1,1056 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: liven\n"
+"POT-Creation-Date: 2016-10-18 15:45+0530\n"
+"PO-Revision-Date: 2016-10-18 15:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "404"
+msgstr "404"
+
+#: 404.php:12
+msgid "Oops! Page not found"
+msgstr "Упс! Страница не найдена"
+
+#: 404.php:13
+msgid "We're sorry, the page you requested cannot be found."
+msgstr "К сожалению, запрашиваемая Вами страница не может быть найден."
+
+#: 404.php:14
+msgid "You can go back to"
+msgstr "Вы можете вернуться к"
+
+#: 404.php:15
+msgid "go to homepage "
+msgstr "бош саҳифага ўтинг"
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий для &ldquo;%s&rdquo;"
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:75
+msgid "Name *"
+msgstr "Имя *"
+
+#: comments.php:76
+msgid "Email *"
+msgstr "Email *"
+
+#: comments.php:79
+msgid "Comment..."
+msgstr "Комментарий..."
+
+#: functions.php:68
+msgid "Top primary menu"
+msgstr "Верхнее главное меню"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "Колонка"
+
+#: functions.php:122
+msgid "Sidebar of Blog"
+msgstr "Сайдбар блога"
+
+#: functions.php:140
+msgid "Search...."
+msgstr "Поиск..."
+
+#: functions.php:182
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr "<span class=«fn»>%s</span>"
+
+#: functions.php:185
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: functions.php:188
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: functions.php:194
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: functions.php:213
+msgid "Recent Posts"
+msgstr "Недавние публикации"
+
+#: functions.php:253 functions.php:282 templates/content-blog.php:46
+#: templates/content-blog.php:95 templates/content-blog.php:145
+#: templates/content-blog.php:215 templates/content-blog.php:289
+#: templates/content-blog.php:320 templates/single-blog.php:22
+msgid " Comments "
+msgstr "Комментарии"
+
+#: inc/add_default_plugin.php:18
+msgid "Visual Composer"
+msgstr "Массивные аддоны для визуального композитора"
+
+#: inc/add_default_plugin.php:22
+msgid "4.12.1"
+msgstr "4.12.1"
+
+#: inc/add_default_plugin.php:27
+msgid "Liven Extenstion"
+msgstr "Ливень Extenstion"
+
+#: inc/add_default_plugin.php:31
+msgid "1.0"
+msgstr "1.0"
+
+#: inc/add_default_plugin.php:36
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: inc/add_default_plugin.php:40
+msgid "5.2.6"
+msgstr "5.2.6"
+
+#: inc/add_default_plugin.php:45
+msgid "Contact Form 7"
+msgstr "Contact Form 7 (плагин)"
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Установить Требуемые Плагины"
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Установить Плагины"
+
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установленные плагины: %s"
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагинов: %s"
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагином."
+
+#: inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке необходимых плагинов"
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Вернуться в панель управления"
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован"
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действия не выполненны. Плагин %1$s уже активен."
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагин не активен. Для этой темы нужна версия выше %s. Пожалуйста, обновите "
+"плагин"
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Проигнорировать это уведомление"
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Один или несколько важных плагинов необходимо установить, обновить или "
+"активировать."
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору сайта за помощью."
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Этот плагин должен быть обновлен, чтобы быть совместимым с вашей темой."
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Пакет удаленного плагина не содержит папку с необходимым и переименование не "
+"работает."
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Пожалуйста, свяжитесь с поставщиком плагина и попросить их упаковать плагин "
+"в соответствии с правилами для WordPress."
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Пакет удаленного плагина содержит несколько файлов, но они отсутствуют в "
+"папке."
+
+#: inc/class-tgm-plugin-activation.php:1206
+#: inc/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "Другое"
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Обязательно"
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Рекомендовано"
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "Репозитарий Вордпресс"
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Установлено но не активированнo"
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Активный"
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Необходимое обновление не доступно"
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "Неизвестно"
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Минимальная требуемая версия:"
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Источник"
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "Тип"
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Версия"
+
+#: inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "статус"
+
+#: inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Обновить сообщения от автора плагина:"
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Установить"
+
+#: inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Обновить"
+
+#: inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Плагины не были выбраны для установки. Никаких мер не принято."
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Плагины не были выбраны для обновления. Никаких мер не принято."
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "На данный момент нет доступных плагинов для установки."
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Плагины не могут быть обновлены в данный момент."
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Плагины для активации не выбраны"
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "На данный момент нет доступных плагинов для активации."
+
+#: inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась"
+
+#: inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s:</strong> при установке %1$s произошла ошибка."
+
+#: inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалось."
+
+#: inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процесс установки и активации начался. Это может занять некоторое время, "
+"пожалуйста, подождите."
+
+#: inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Отображать детали"
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были успешно завершены"
+
+#: inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс установки начинается. Этот процесс может занять некоторое время, "
+"пожалуйста, будьте терпеливы."
+
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Все установки были успешно завершены"
+
+#: inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/customizer.php:18
+msgid "Liven Theme Option"
+msgstr "Разнообразьте Theme Option"
+
+#: inc/customizer.php:20
+msgid ""
+"The Customizer allows you to preview changes to your site before publishing "
+"them. You can also navigate to different pages on your site to preview them."
+msgstr ""
+"Настройщик позволяет просматривать изменения в свой сайт, прежде чем "
+"опубликовать их. Вы также можете перейти к различным страницам на вашем "
+"сайте, чтобы просмотреть их."
+
+#: inc/customizer.php:28
+msgid "Global Colors"
+msgstr "Глобальные цвета сайта"
+
+#: inc/customizer.php:38
+msgid "Page Background Color"
+msgstr "Цвет фоновой страницы"
+
+#: inc/customizer.php:48 inc/customizer.php:185
+msgid "Font Color"
+msgstr "Цвет шрифта"
+
+#: inc/customizer.php:58
+msgid "Link Color"
+msgstr "Link Color"
+
+#: inc/customizer.php:68
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: inc/customizer.php:78
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: inc/customizer.php:88
+msgid "Button Font Color"
+msgstr "Цвет шрифта кнопки"
+
+#: inc/customizer.php:98
+msgid "Heading Color"
+msgstr "Цвет заголовка"
+
+#: inc/customizer.php:101
+msgid "Default Heading color for h1 to h6"
+msgstr "По умолчанию Заголовок цвета для h1 в h6"
+
+#: inc/customizer.php:113 inc/customizer.php:124
+msgid "Header Toolbar"
+msgstr "Панель шапки"
+
+#: inc/customizer.php:127 inc/customizer.php:300 inc/customizer.php:315
+#: inc/customizer.php:477 inc/customizer.php:503 inc/customizer.php:698
+#: inc/customizer.php:789
+msgid "On"
+msgstr "Вкл"
+
+#: inc/customizer.php:128 inc/customizer.php:301 inc/customizer.php:316
+#: inc/customizer.php:478 inc/customizer.php:504 inc/customizer.php:699
+#: inc/customizer.php:790
+msgid "Off"
+msgstr "Выкл"
+
+#: inc/customizer.php:140
+msgid "Phone Number"
+msgstr "Номер Телефона"
+
+#: inc/customizer.php:142
+msgid "Enter phone number in standard format"
+msgstr "Введите номер телефона в стандартном формате"
+
+#: inc/customizer.php:153
+msgid "Email"
+msgstr "Имейл"
+
+#: inc/customizer.php:155
+msgid "Enter email address in standard format"
+msgstr "Введите адрес электронной почты в стандартном формате"
+
+#: inc/customizer.php:163 inc/customizer.php:462
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/customizer.php:174
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: inc/customizer.php:206
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customizer.php:216
+msgid "Upload Your Logo"
+msgstr "Загрузите логотип"
+
+#: inc/customizer.php:227
+msgid "Select Your Header Style"
+msgstr "Выберите стиль шапки"
+
+#: inc/customizer.php:230 inc/customizer.php:518 inc/customizer.php:639
+msgid "Style 1"
+msgstr "Стиль 1"
+
+#: inc/customizer.php:231 inc/customizer.php:519 inc/customizer.php:640
+msgid "Style 2"
+msgstr "Стиль 2"
+
+#: inc/customizer.php:232 inc/customizer.php:520 inc/customizer.php:641
+msgid "Style 3"
+msgstr "Стиль 3"
+
+#: inc/customizer.php:233 inc/customizer.php:642
+msgid "Style 4"
+msgstr "Стиль 4"
+
+#: inc/customizer.php:234 inc/customizer.php:643
+msgid "Style 5"
+msgstr "Стиль 5"
+
+#: inc/customizer.php:245
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка (header)"
+
+#: inc/customizer.php:255
+msgid "Menu Font Color"
+msgstr "Цвет текста меню"
+
+#: inc/customizer.php:265
+msgid "Menu Font Hover Color"
+msgstr "Цвет шрифта при наведение в главном меню"
+
+#: inc/customizer.php:275
+msgid "Active Menu Font Color"
+msgstr "Цвет активного шрифта"
+
+#: inc/customizer.php:285
+msgid "Menu Background Color"
+msgstr "Цвет фона меню"
+
+#: inc/customizer.php:297
+msgid "Header Searchbar"
+msgstr "Заголовок Searchbar"
+
+#: inc/customizer.php:312
+msgid "Social Icons"
+msgstr "Иконки социальных сетей"
+
+#: inc/customizer.php:330
+msgid "Facebook Link"
+msgstr "Ссылка на страницу Facebook"
+
+#: inc/customizer.php:332
+msgid "Enter your facebook link to show icon."
+msgstr "Введите свою ссылку facebook, чтобы показать значок."
+
+#: inc/customizer.php:342
+msgid "Twitter Link"
+msgstr "Ссылка на профиль в Twitter"
+
+#: inc/customizer.php:344
+msgid "Enter your twitter link to show icon."
+msgstr "Введите свою ссылку щебетать, чтобы показать значок."
+
+#: inc/customizer.php:354
+msgid "Google Plus Link"
+msgstr "Ссылка Google Plus"
+
+#: inc/customizer.php:356
+msgid "Enter your google plus link to show icon."
+msgstr "Введите свой Google Plus ссылку, чтобы показать значок."
+
+#: inc/customizer.php:366
+msgid "LinkedIn Link"
+msgstr "Ссылка на LinkedIn"
+
+#: inc/customizer.php:368
+msgid "Enter your linkedin link to show icon."
+msgstr "Введите вашу ссылку, чтобы показать ш щ э ю значок."
+
+#: inc/customizer.php:377
+msgid "Social Icons Style"
+msgstr "Стиль иконок социальных сетей"
+
+#: inc/customizer.php:380
+msgid "Dark"
+msgstr "Темный"
+
+#: inc/customizer.php:381
+msgid "Light"
+msgstr "Легкий"
+
+#: inc/customizer.php:427
+msgid "Page Title & Breadcrumb Settings"
+msgstr "Название страницы & Breadcrumb Настройки"
+
+#: inc/customizer.php:438
+msgid "Page Title Background"
+msgstr "Название страницы Фон"
+
+#: inc/customizer.php:441
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/customizer.php:442
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/customizer.php:451
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: inc/customizer.php:474
+msgid "Page Title"
+msgstr "Название"
+
+#: inc/customizer.php:480
+msgid ""
+"You can disable page title globally using this option, or you may need to "
+"disable it in a particular page."
+msgstr ""
+"Вы можете отключить заголовок страницы по всему миру с помощью этой опции, "
+"или вам может понадобиться отключить его в той или иной странице."
+
+#: inc/customizer.php:488
+msgid "Page Title Color"
+msgstr "Цвет заголовка страницы"
+
+#: inc/customizer.php:500
+msgid "Breadcrumb"
+msgstr "Хлебные Крошки (Breadcrumb)"
+
+#: inc/customizer.php:506
+msgid ""
+"You can disable breadcrumb navigation globally using this option, or you may "
+"need to disable it in a particular page."
+msgstr ""
+"Вы можете отключить иерархическую навигацию в глобальном масштабе, используя "
+"эту опцию, или может потребоваться отключить его в странице локально."
+
+#: inc/customizer.php:515
+msgid "Select Your Breadcrumb Style"
+msgstr "Выберите свой стиль Breadcrumb"
+
+#: inc/customizer.php:530
+msgid "Breadcrumb Page Color"
+msgstr "Цвет навигационных хлебных крошек"
+
+#: inc/customizer.php:541
+msgid "Breadcrumb Hover Color"
+msgstr "Цвет при наведении ссылки хл. крошек"
+
+#: inc/customizer.php:552
+msgid "Breadcrumb Active Page Color"
+msgstr "Иерархическая Активный Цвет страницы"
+
+#: inc/customizer.php:565
+msgid "Select Breadcrumb Separator"
+msgstr "Выберите Breadcrumb сепаратор"
+
+#: inc/customizer.php:568
+msgid "/"
+msgstr "/"
+
+#: inc/customizer.php:569
+msgid "|"
+msgstr "|"
+
+#: inc/customizer.php:570
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:583
+msgid "Label For Home"
+msgstr "Этикетка для дома"
+
+#: inc/customizer.php:625 templates/breadcrumb.php:43
+#: templates/breadcrumb.php:220 templates/breadcrumb.php:282
+#: templates/breadcrumb.php:356
+msgid "Blog"
+msgstr "Блог"
+
+#: inc/customizer.php:636
+msgid "Select Your Blog Style"
+msgstr "Выберите свой блог Style"
+
+#: inc/customizer.php:652
+msgid "Blog Title Color"
+msgstr "Название Блога Цвета"
+
+#: inc/customizer.php:662
+msgid "Blog Title Hover Color"
+msgstr "Название Блога Наведении Цвет"
+
+#: inc/customizer.php:673
+msgid "Blog Info Color"
+msgstr "Блог Инфо Цвет"
+
+#: inc/customizer.php:683
+msgid "Date Color"
+msgstr "Дата Цвет"
+
+#: inc/customizer.php:695
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: inc/customizer.php:709
+msgid "Blog Sidebar Position"
+msgstr "Сайтбар Блога"
+
+#: inc/customizer.php:712
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer.php:713
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer.php:749
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:775
+msgid "Footer Page"
+msgstr "Нижний колонтитул"
+
+#: inc/customizer.php:786
+msgid "Back To Top"
+msgstr "Вверх"
+
+#: inc/customizer.php:792
+msgid "Using this option you can enable or disable back to top button."
+msgstr "Включение кнопки возвращения на верх сайта."
+
+#: inc/customizer.php:806
+msgid "Theme Optimization"
+msgstr "тема оптимизации"
+
+#: inc/customizer.php:818
+msgid "Minified CSS"
+msgstr "уменьшенная CSS"
+
+#: inc/customizer.php:822
+msgid "Check this option to load minified CSS"
+msgstr "Отметьте эту опцию, чтобы загрузить Минимизированный CSS"
+
+#: inc/customizer.php:831
+msgid "Minified Javascript"
+msgstr "уменьшенная Javascript"
+
+#: inc/customizer.php:835
+msgid "Check this option to load minified Javascript"
+msgstr "Отметьте эту опцию, чтобы загрузить Минимизированный Javascript"
+
+#: inc/enqueue-front-styles.php:23 inc/enqueue-front-styles.php:31
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "на"
+
+#: searchform.php:10 searchform.php:14
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: searchform.php:12
+msgid "Search..."
+msgstr "Поиск..."
+
+#: templates/breadcrumb.php:21
+msgid " / "
+msgstr "/"
+
+#: templates/breadcrumb.php:27 templates/breadcrumb.php:213
+#: templates/breadcrumb.php:275 templates/breadcrumb.php:349
+msgid "Home"
+msgstr "Главная"
+
+#: templates/breadcrumb.php:147 templates/breadcrumb.php:150
+#: templates/breadcrumb.php:153 templates/breadcrumb.php:157
+#: templates/breadcrumb.php:159 templates/breadcrumb.php:163
+msgid " Archives"
+msgstr "Архив"
+
+#: templates/breadcrumb.php:168
+msgid "Author: "
+msgstr "Автор:"
+
+#: templates/breadcrumb.php:171
+msgid "Page"
+msgstr "Страница"
+
+#: templates/breadcrumb.php:175
+msgid "Search results for: "
+msgstr "Результаты поиска для:"
+
+#: templates/breadcrumb.php:179
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: templates/breadcrumb.php:228 templates/breadcrumb.php:290
+#: templates/breadcrumb.php:364 templates/content-search.php:15
+msgid " Search Results For : "
+msgstr "Результаты Поиска для :"
+
+#: templates/content-blog.php:28 templates/content-blog.php:76
+#: templates/content-blog.php:128 templates/content-blog.php:195
+#: templates/content-blog.php:270 templates/content-blog.php:301
+msgid "post-"
+msgstr "Запись"
+
+#: templates/content-blog.php:161 templates/single-blog.php:38
+msgid ", "
+msgstr ","
+
+#: templates/content-none.php:9
+msgid "No results found"
+msgstr "Результаты не найдены"
+
+#: templates/content-search.php:24
+msgid " by "
+msgstr "автор"
+
+#: templates/content-search.php:24
+msgid " on "
+msgstr "на"
+
+#: templates/content-search.php:29 templates/content-search.php:48
+msgid " in "
+msgstr "в"
+
+#: templates/portfolio.php:24
+msgid "Categories"
+msgstr "Категории"
+
+#: templates/portfolio.php:36
+msgid "Description"
+msgstr "Описание"
+
+#: templates/portfolio.php:64
+msgid "Related Portfolio"
+msgstr "Похожее портфолио"
+
+#: templates/single-blog.php:18
+msgid "by "
+msgstr "автор"
+
+#: templates/single-blog.php:18 templates/single-blog.php:19
+msgid " | "
+msgstr "|"
+
+#: templates/single-blog.php:22
+msgid " Comment "
+msgstr "Комментарий"
+
+#. Theme Name of the plugin/theme
+msgid "liven"
+msgstr "оживить"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeforest.net/user/lithemes"
+msgstr "http://themeforest.net/user/lithemes"
+
+#. Description of the plugin/theme
+msgid "Great Business WordPress theme with many new design and functionality."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Lithemes"
+msgstr "Lithemes"
+
+#. Author URI of the plugin/theme
+msgid "https://lithemes.com/"
+msgstr "https://lithemes.com/"

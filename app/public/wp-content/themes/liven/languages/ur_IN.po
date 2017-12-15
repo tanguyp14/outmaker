@@ -1,0 +1,1056 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: liven\n"
+"POT-Creation-Date: 2016-10-18 15:16+0530\n"
+"PO-Revision-Date: 2016-10-18 15:25+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ur_IN\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "404"
+msgstr "404ء"
+
+#: 404.php:12
+msgid "Oops! Page not found"
+msgstr "افوہ! صفحہ نہیں ملا"
+
+#: 404.php:13
+msgid "We're sorry, the page you requested cannot be found."
+msgstr "ہمیں افسوس ہے، آپ کا مطلوبہ صفحہ نہیں مل سکتا ہے."
+
+#: 404.php:14
+msgid "You can go back to"
+msgstr "آپ کو واپس جا سکتے ہیں"
+
+#: 404.php:15
+msgid "go to homepage "
+msgstr "سر ورق پر جانے"
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "تبصرہ بند ہے۔"
+
+#: comments.php:75
+msgid "Name *"
+msgstr "نام"
+
+#: comments.php:76
+msgid "Email *"
+msgstr "ای‌میل"
+
+#: comments.php:79
+msgid "Comment..."
+msgstr "تبصرہ۔۔۔"
+
+#: functions.php:68
+msgid "Top primary menu"
+msgstr "بنیادی مینیو"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "سائڈبار"
+
+#: functions.php:122
+msgid "Sidebar of Blog"
+msgstr "بلاگ کے سائڈبار"
+
+#: functions.php:140
+msgid "Search...."
+msgstr "تلاش"
+
+#: functions.php:182
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr ""
+
+#: functions.php:185
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s کو، بوقت %2$s"
+
+#: functions.php:188
+msgid "(Edit)"
+msgstr "ترمیم کریں"
+
+#: functions.php:194
+msgid "Your comment is awaiting moderation."
+msgstr "آپ کا تبصرہ ادارت کا منتظر ہے۔"
+
+#: functions.php:213
+msgid "Recent Posts"
+msgstr "حالیہ مراسلات"
+
+#: functions.php:253 functions.php:282 templates/content-blog.php:46
+#: templates/content-blog.php:95 templates/content-blog.php:145
+#: templates/content-blog.php:215 templates/content-blog.php:289
+#: templates/content-blog.php:320 templates/single-blog.php:22
+msgid " Comments "
+msgstr "تبصرے"
+
+#: inc/add_default_plugin.php:18
+msgid "Visual Composer"
+msgstr "بصری کمپوزر"
+
+#: inc/add_default_plugin.php:22
+msgid "4.12.1"
+msgstr "4.12.1"
+
+#: inc/add_default_plugin.php:27
+msgid "Liven Extenstion"
+msgstr "بچ نکلنا Extenstion"
+
+#: inc/add_default_plugin.php:31
+msgid "1.0"
+msgstr "1.0"
+
+#: inc/add_default_plugin.php:36
+msgid "Revolution Slider"
+msgstr "انقلاب سلائیڈر"
+
+#: inc/add_default_plugin.php:40
+msgid "5.2.6"
+msgstr "5.2.6"
+
+#: inc/add_default_plugin.php:45
+msgid "Contact Form 7"
+msgstr "فارم سے رابطہ کریں 7"
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "مطلوبہ پلگ ان انسٹال"
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "پلگ ان انسٹال"
+
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "پلگ ان نصب ہو رہا ہے: %s"
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "کچھ پلگ ان API کے ساتھ غلط ہو گیا."
+
+#: inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "ضرورت پلگ ان انسٹالر پر واپس جائیں"
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "ڈیش بورڈ پر واپس جائیں"
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "پلگ ان کامیابی کے ساتھ فعال."
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "یہ نوٹس مسترد کریں۔"
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"انسٹال، اپ ڈیٹ یا چالو کرنے کے لئے ایک یا ایک سے زیادہ کی ضرورت ہے یا سفارش "
+"کی پلگ ان ہیں."
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "مدد کے لئے اس ویب سائٹ کے منتظم سے رابطہ کریں."
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"یہ پلگ ان اپنے تھیم کے ساتھ ہم آہنگ کرنے کے لئے اپ ڈیٹ کیا جائے کی ضرورت."
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "اپ ڈیٹ کی ضرورت ہے"
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"ریموٹ پلگ ان پیکج کے مطلوبہ slug اور نام تبدیل کرنے سے کام نہیں کیا کے ساتھ "
+"ایک فولڈر پر مشتمل نہیں ہے."
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"پلگ ان فراہم رابطہ کریں اور ورڈپریس ہدایات کے مطابق ان پلگ ان پیکج کے لئے ان "
+"سے براہ کرم دریافت کریں."
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"ریموٹ پلگ ان پیکج ایک سے زیادہ فائل پر مشتمل ہوتا ہے، لیکن فائلوں کو ایک "
+"فولڈر میں پیک نہیں کر رہے ہیں."
+
+#: inc/class-tgm-plugin-activation.php:1206
+#: inc/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "اور"
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "درکار"
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "سفارش کردہ:"
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "ورڈپریس مخزن"
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "بیرونی منبع"
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "پری پیکیجڈ"
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "اپلی کیشن کو انسٹال نہیں کیا گیا"
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "نصب لیکن چالو نہیں"
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "فعال"
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "مطلوب اپ ڈیٹ دستیاب نہیں"
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "اپ ڈیٹ کی ضرورت"
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "اپ ڈیٹ کی سفارش"
+
+#: inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "نا معلوم"
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "نصب ورژن:"
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "کم از کم مطلوبہ ورژن:"
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "دستیاب ورژن:"
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "نصب کرنے کے لئے کوئی پلگ ان، اپ ڈیٹ یا چالو کرنے کے."
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "پلگ‌ان"
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Source"
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "نوعیت"
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "ورژن"
+
+#: inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "حالت"
+
+#: inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "پلگ ان مصنف کی طرف سے پیغام کو اپ ڈیٹ کریں:"
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "نصب کریں"
+
+#: inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "تجدید کریں"
+
+#: inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "ایکٹیویٹ"
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "کوئی پلگ ان نصب کرنے کے لئے منتخب کیا گیا. کوئی کارروائی نہیں کی."
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "کوئی پلگ ان کو اپ ڈیٹ کرنے کا انتخاب کیا گیا. کوئی کارروائی نہیں کی."
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "کوئی پلگ ان اس وقت نصب کرنے کے لئے دستیاب ہیں."
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "کوئی پلگ ان اس وقت اپ ڈیٹ کیا جا کرنے کے لئے دستیاب ہیں."
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "کوئی پلگ ان کو چالو کرنے کا انتخاب کیا گیا. کوئی کارروائی نہیں کی."
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "کوئی پلگ ان اس وقت چالو ہو جائے کے لئے دستیاب ہیں."
+
+#: inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "پلگ ان چالو ناکام رہے."
+
+#: inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"تنصیب اور چالو کرنے کے عمل شروع کر رہا ہے. یہ عمل کچھ میزبان پر میں کچھ وقت "
+"لگ سکتا ہے، تو براہ مہربانی صبر."
+
+#: inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "تفصیلات دکھائیں"
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "چھپائیں تفصیلات"
+
+#: inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "تمام تنصیبات اور activations مکمل ہو چکے ہیں."
+
+#: inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"تنصیب کا عمل شروع کر رہا ہے. یہ عمل کچھ میزبان پر میں کچھ وقت لگ سکتا ہے، تو "
+"براہ مہربانی صبر."
+
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "تمام تنصیبات مکمل ہو چکے ہیں."
+
+#: inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Liven Theme Option"
+msgstr "تھیم اختیار بچ نکلنا"
+
+#: inc/customizer.php:20
+msgid ""
+"The Customizer allows you to preview changes to your site before publishing "
+"them. You can also navigate to different pages on your site to preview them."
+msgstr ""
+"Customizer کے آپ ان کو شائع کرنے سے پہلے آپ کی سائٹ پر تبدیلیاں دیکھ کرنے کی "
+"اجازت دیتا. آپ بھی ان کو پریویو کرنے کے لئے آپ کی ویب سائٹ پر مختلف صفحات پر "
+"تشریف لے کر سکتے ہیں."
+
+#: inc/customizer.php:28
+msgid "Global Colors"
+msgstr "گلوبل رنگ"
+
+#: inc/customizer.php:38
+msgid "Page Background Color"
+msgstr "صفحہ پس منظر کا رنگ"
+
+#: inc/customizer.php:48 inc/customizer.php:185
+msgid "Font Color"
+msgstr "فونٹ کا رنگ"
+
+#: inc/customizer.php:58
+msgid "Link Color"
+msgstr "روابط کا رنگ"
+
+#: inc/customizer.php:68
+msgid "Link Hover Color"
+msgstr "<strong>ربط ہوَر رنگ</strong>"
+
+#: inc/customizer.php:78
+msgid "Button Color"
+msgstr "بٹن رنگ"
+
+#: inc/customizer.php:88
+msgid "Button Font Color"
+msgstr "بٹن فونٹ کا رنگ"
+
+#: inc/customizer.php:98
+msgid "Heading Color"
+msgstr "سرخی رنگ"
+
+#: inc/customizer.php:101
+msgid "Default Heading color for h1 to h6"
+msgstr "پہلے سے طے شدہ H6 کرنے H1 کے لئے رنگ سرخی"
+
+#: inc/customizer.php:113 inc/customizer.php:124
+msgid "Header Toolbar"
+msgstr "ہیڈر ٹول بار"
+
+#: inc/customizer.php:127 inc/customizer.php:300 inc/customizer.php:315
+#: inc/customizer.php:477 inc/customizer.php:503 inc/customizer.php:698
+#: inc/customizer.php:789
+msgid "On"
+msgstr "کو"
+
+#: inc/customizer.php:128 inc/customizer.php:301 inc/customizer.php:316
+#: inc/customizer.php:478 inc/customizer.php:504 inc/customizer.php:699
+#: inc/customizer.php:790
+msgid "Off"
+msgstr "بند"
+
+#: inc/customizer.php:140
+msgid "Phone Number"
+msgstr "فون نمبر"
+
+#: inc/customizer.php:142
+msgid "Enter phone number in standard format"
+msgstr "معیاری فارمیٹ میں فون نمبر درج کریں"
+
+#: inc/customizer.php:153
+msgid "Email"
+msgstr "ای‌میل"
+
+#: inc/customizer.php:155
+msgid "Enter email address in standard format"
+msgstr "معیاری فارمیٹ میں ای میل ایڈریس درج"
+
+#: inc/customizer.php:163 inc/customizer.php:462
+msgid "Background Color"
+msgstr "پس منظر کا رنگ"
+
+#: inc/customizer.php:174
+msgid "Icon Color"
+msgstr "آئکن رنگ"
+
+#: inc/customizer.php:206
+msgid "Header"
+msgstr "<strong>ہیڈر</strong>"
+
+#: inc/customizer.php:216
+msgid "Upload Your Logo"
+msgstr "آپ کی علامت اپ لوڈ کریں"
+
+#: inc/customizer.php:227
+msgid "Select Your Header Style"
+msgstr "آپ کے ہیڈر سٹائل کو منتخب کریں"
+
+#: inc/customizer.php:230 inc/customizer.php:518 inc/customizer.php:639
+msgid "Style 1"
+msgstr "ہالی ووڈ 1"
+
+#: inc/customizer.php:231 inc/customizer.php:519 inc/customizer.php:640
+msgid "Style 2"
+msgstr "2 انداز"
+
+#: inc/customizer.php:232 inc/customizer.php:520 inc/customizer.php:641
+msgid "Style 3"
+msgstr "انداز 3"
+
+#: inc/customizer.php:233 inc/customizer.php:642
+msgid "Style 4"
+msgstr "ہالی ووڈ 4"
+
+#: inc/customizer.php:234 inc/customizer.php:643
+msgid "Style 5"
+msgstr "ہالی ووڈ 5"
+
+#: inc/customizer.php:245
+msgid "Header Background Color"
+msgstr "ہیڈر پس منظر کا رنگ"
+
+#: inc/customizer.php:255
+msgid "Menu Font Color"
+msgstr "مینو فونٹ کا رنگ"
+
+#: inc/customizer.php:265
+msgid "Menu Font Hover Color"
+msgstr "مینو فونٹ ہور رنگ"
+
+#: inc/customizer.php:275
+msgid "Active Menu Font Color"
+msgstr "فعال مینو رنگ فانٹ"
+
+#: inc/customizer.php:285
+msgid "Menu Background Color"
+msgstr "مینو پس منظر کا رنگ"
+
+#: inc/customizer.php:297
+msgid "Header Searchbar"
+msgstr "ہیڈر Searchbar"
+
+#: inc/customizer.php:312
+msgid "Social Icons"
+msgstr "سوشل آئکن"
+
+#: inc/customizer.php:330
+msgid "Facebook Link"
+msgstr "فیس بک لنک"
+
+#: inc/customizer.php:332
+msgid "Enter your facebook link to show icon."
+msgstr "آئکن کو دکھانے کے لئے اپنے فیس بک کے لنک درج کریں."
+
+#: inc/customizer.php:342
+msgid "Twitter Link"
+msgstr "ٹویٹر لنک"
+
+#: inc/customizer.php:344
+msgid "Enter your twitter link to show icon."
+msgstr "آئکن کو ظاہر کرنے کے لئے آپ کے ٹویٹر لنک درج کریں."
+
+#: inc/customizer.php:354
+msgid "Google Plus Link"
+msgstr "گوگل پلس لنک"
+
+#: inc/customizer.php:356
+msgid "Enter your google plus link to show icon."
+msgstr "آئکن کو دکھانے کے لئے آپ گوگل پلس لنک درج کریں."
+
+#: inc/customizer.php:366
+msgid "LinkedIn Link"
+msgstr "لنکڈ لنک"
+
+#: inc/customizer.php:368
+msgid "Enter your linkedin link to show icon."
+msgstr "آئکن کو دکھانے کے لئے آپ لنکڈ لنک درج کریں."
+
+#: inc/customizer.php:377
+msgid "Social Icons Style"
+msgstr "سماجی شبیہیں انداز"
+
+#: inc/customizer.php:380
+msgid "Dark"
+msgstr "تاریک"
+
+#: inc/customizer.php:381
+msgid "Light"
+msgstr "روشی ، ہلکا"
+
+#: inc/customizer.php:427
+msgid "Page Title & Breadcrumb Settings"
+msgstr "صفحہ کے عنوان اور breadcrumb کی ترتیبات"
+
+#: inc/customizer.php:438
+msgid "Page Title Background"
+msgstr "صفحہ کے عنوان پس منظر"
+
+#: inc/customizer.php:441
+msgid "Image"
+msgstr "تصویر"
+
+#: inc/customizer.php:442
+msgid "Color"
+msgstr "رنگ"
+
+#: inc/customizer.php:451
+msgid "Background Image"
+msgstr "پس منظر کی تصویر"
+
+#: inc/customizer.php:474
+msgid "Page Title"
+msgstr "صفحہ کے عنوان"
+
+#: inc/customizer.php:480
+msgid ""
+"You can disable page title globally using this option, or you may need to "
+"disable it in a particular page."
+msgstr ""
+"آپ اس اختیار کو استعمال کرتے ہوئے عالمی سطح پر صفحہ کے عنوان کو غیر فعال کر "
+"سکتے ہیں، یا آپ کو ایک مخصوص صفحے میں اسے غیر فعال کرنے کی ضرورت ہو سکتی ہے."
+
+#: inc/customizer.php:488
+msgid "Page Title Color"
+msgstr "صفحہ کے عنوان رنگ"
+
+#: inc/customizer.php:500
+msgid "Breadcrumb"
+msgstr "breadcrumb کی"
+
+#: inc/customizer.php:506
+msgid ""
+"You can disable breadcrumb navigation globally using this option, or you may "
+"need to disable it in a particular page."
+msgstr ""
+"آپ اس اختیار کو استعمال کرتے ہوئے عالمی سطح breadcrumb نیویگیشن غیر فعال "
+"کرسکتے ہیں، یا آپ کو ایک مخصوص صفحے میں اسے غیر فعال کرنے کی ضرورت ہو سکتی "
+"ہے."
+
+#: inc/customizer.php:515
+msgid "Select Your Breadcrumb Style"
+msgstr "آپ کے breadcrumb انداز کریں"
+
+#: inc/customizer.php:530
+msgid "Breadcrumb Page Color"
+msgstr "breadcrumb کی پیج رنگین"
+
+#: inc/customizer.php:541
+msgid "Breadcrumb Hover Color"
+msgstr "breadcrumb کی ہور رنگ"
+
+#: inc/customizer.php:552
+msgid "Breadcrumb Active Page Color"
+msgstr "breadcrumb کی فعال صفحہ ست"
+
+#: inc/customizer.php:565
+msgid "Select Breadcrumb Separator"
+msgstr "breadcrumb کی جداکار کریں"
+
+#: inc/customizer.php:568
+msgid "/"
+msgstr "/"
+
+#: inc/customizer.php:569
+msgid "|"
+msgstr "|"
+
+#: inc/customizer.php:570
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:583
+msgid "Label For Home"
+msgstr "ہوم کے لئے لیبل"
+
+#: inc/customizer.php:625 templates/breadcrumb.php:43
+#: templates/breadcrumb.php:220 templates/breadcrumb.php:282
+#: templates/breadcrumb.php:356
+msgid "Blog"
+msgstr "بلاگ"
+
+#: inc/customizer.php:636
+msgid "Select Your Blog Style"
+msgstr "آپ کا بلاگ انداز کریں"
+
+#: inc/customizer.php:652
+msgid "Blog Title Color"
+msgstr "بلاگ کے عنوان رنگ"
+
+#: inc/customizer.php:662
+msgid "Blog Title Hover Color"
+msgstr "بلاگ کے عنوان ہور رنگ"
+
+#: inc/customizer.php:673
+msgid "Blog Info Color"
+msgstr "بلاگ معلومات رنگ"
+
+#: inc/customizer.php:683
+msgid "Date Color"
+msgstr "تاریخ کے رنگ"
+
+#: inc/customizer.php:695
+msgid "Blog Sidebar"
+msgstr "بلاگ سائڈبار"
+
+#: inc/customizer.php:709
+msgid "Blog Sidebar Position"
+msgstr "بلاگ سائڈبار مقام"
+
+#: inc/customizer.php:712
+msgid "Left"
+msgstr "دائیں"
+
+#: inc/customizer.php:713
+msgid "Right"
+msgstr "بائیں"
+
+#: inc/customizer.php:749
+msgid "Footer"
+msgstr "فوٹر"
+
+#: inc/customizer.php:775
+msgid "Footer Page"
+msgstr "فوٹر پیج"
+
+#: inc/customizer.php:786
+msgid "Back To Top"
+msgstr "اوپر کی طرف واپس"
+
+#: inc/customizer.php:792
+msgid "Using this option you can enable or disable back to top button."
+msgstr ""
+"آپ کو فعال یا غیر فعال کرسکتے ہیں واپس اوپر بٹن اس اختیار کو استعمال کرتے "
+"ہوئے."
+
+#: inc/customizer.php:806
+msgid "Theme Optimization"
+msgstr "موضوع کی اصلاح"
+
+#: inc/customizer.php:818
+msgid "Minified CSS"
+msgstr "Minified سی ایس ایس"
+
+#: inc/customizer.php:822
+msgid "Check this option to load minified CSS"
+msgstr "minified سی ایس ایس لوڈ کرنے کے لئے اس اختیار کو چیک کریں"
+
+#: inc/customizer.php:831
+msgid "Minified Javascript"
+msgstr "جاوا سکرپٹ Minified"
+
+#: inc/customizer.php:835
+msgid "Check this option to load minified Javascript"
+msgstr "Minified جاوا اسکرپٹ لوڈ کرنے کے لئے اس اختیار کو چیک کریں"
+
+#: inc/enqueue-front-styles.php:23 inc/enqueue-front-styles.php:31
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "کو"
+
+#: searchform.php:10 searchform.php:14
+msgid "Search for:"
+msgstr "تلاشِ"
+
+#: searchform.php:12
+msgid "Search..."
+msgstr "تلاش..."
+
+#: templates/breadcrumb.php:21
+msgid " / "
+msgstr "/"
+
+#: templates/breadcrumb.php:27 templates/breadcrumb.php:213
+#: templates/breadcrumb.php:275 templates/breadcrumb.php:349
+msgid "Home"
+msgstr "گھر"
+
+#: templates/breadcrumb.php:147 templates/breadcrumb.php:150
+#: templates/breadcrumb.php:153 templates/breadcrumb.php:157
+#: templates/breadcrumb.php:159 templates/breadcrumb.php:163
+msgid " Archives"
+msgstr "محفوظات"
+
+#: templates/breadcrumb.php:168
+msgid "Author: "
+msgstr "مصنف"
+
+#: templates/breadcrumb.php:171
+msgid "Page"
+msgstr "پیج"
+
+#: templates/breadcrumb.php:175
+msgid "Search results for: "
+msgstr "تلاش کے نتائج برائے"
+
+#: templates/breadcrumb.php:179
+msgid "Error 404"
+msgstr "خرابی 404"
+
+#: templates/breadcrumb.php:228 templates/breadcrumb.php:290
+#: templates/breadcrumb.php:364 templates/content-search.php:15
+msgid " Search Results For : "
+msgstr "تلاش کے نتائج برائے"
+
+#: templates/content-blog.php:28 templates/content-blog.php:76
+#: templates/content-blog.php:128 templates/content-blog.php:195
+#: templates/content-blog.php:270 templates/content-blog.php:301
+msgid "post-"
+msgstr "مراسلہ"
+
+#: templates/content-blog.php:161 templates/single-blog.php:38
+msgid ", "
+msgstr ","
+
+#: templates/content-none.php:9
+msgid "No results found"
+msgstr "کوئی نتیجہ نہیں"
+
+#: templates/content-search.php:24
+msgid " by "
+msgstr ""
+
+#: templates/content-search.php:24
+msgid " on "
+msgstr "کو"
+
+#: templates/content-search.php:29 templates/content-search.php:48
+msgid " in "
+msgstr "زمرہ:"
+
+#: templates/portfolio.php:24
+msgid "Categories"
+msgstr "اقسام"
+
+#: templates/portfolio.php:36
+msgid "Description"
+msgstr "Description"
+
+#: templates/portfolio.php:64
+msgid "Related Portfolio"
+msgstr "متعلقہ پورٹ فولیو"
+
+#: templates/single-blog.php:18
+msgid "by "
+msgstr ""
+
+#: templates/single-blog.php:18 templates/single-blog.php:19
+msgid " | "
+msgstr "|"
+
+#: templates/single-blog.php:22
+msgid " Comment "
+msgstr "Comment"
+
+#. Theme Name of the plugin/theme
+msgid "liven"
+msgstr "بچ نکلنا"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeforest.net/user/lithemes"
+msgstr "http://themeforest.net/user/lithemes"
+
+#. Description of the plugin/theme
+msgid "Great Business WordPress theme with many new design and functionality."
+msgstr "بہت سے نئے ڈیزائن اور فعالیت کے ساتھ عظیم بزنس ورڈپریس تھیم."
+
+#. Author of the plugin/theme
+msgid "Lithemes"
+msgstr "Lithemes"
+
+#. Author URI of the plugin/theme
+msgid "https://lithemes.com/"
+msgstr "https://lithemes.com/"

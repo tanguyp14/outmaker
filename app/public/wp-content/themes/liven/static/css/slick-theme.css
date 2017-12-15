@@ -1,0 +1,141 @@
+﻿@charset "UTF-8";
+.slick-dots, .slick-next, .slick-prev {
+	position: absolute;
+	display: block;
+	padding: 0
+}
+.slick-dots li, .slick-dots li button {
+	cursor: pointer;
+	height: 20px;
+	width: 20px
+}
+.slick-dots li button:before, .slick-next:before, .slick-prev:before {
+	font-family: FontAwesome;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale
+}
+.slick-next, .slick-prev {
+	font-size: 0;
+	line-height: 0;
+	top: 50%;
+	width: 50px;
+	height: 50px;
+	margin-top: -10px;
+	cursor: pointer;
+	color: inherit;
+	border: none;
+	outline: 0;
+	background: #009cff
+}
+.slick-next:focus, .slick-next:hover, .slick-prev:focus, .slick-prev:hover {
+	color: inherit;
+	outline: 0;
+	background: #000
+}
+.slick-next:focus:before, .slick-next:hover:before, .slick-prev:focus:before, .slick-prev:hover:before {
+	opacity: 1
+}
+.slick-next.slick-disabled:before, .slick-prev.slick-disabled:before {
+	opacity: .25
+}
+.slick-next:before, .slick-prev:before {
+	font-size: 20px;
+	line-height: 1;
+	opacity: 1;
+	color: #FFF
+}
+.slick-prev {
+	left: 0
+}
+[dir=rtl] .slick-prev {
+	right: 0;
+	left: auto
+}
+.slick-prev:before, [dir=rtl] .slick-prev:before {
+	content: "\f053"
+}
+.slick-next {
+	right: 0
+}
+[dir=rtl] .slick-next {
+	right: auto;
+	left: 0
+}
+.slick-next:before, [dir=rtl] .slick-next:before {
+	content: "\f054"
+}
+.slick-dots {
+	bottom: -50px;
+	width: 100%;
+	list-style: none;
+	text-align: center
+}
+.slick-dots li {
+	position: relative;
+	display: inline-block;
+	margin: 0 5px;
+	padding: 0
+}
+.slick-dots li button {
+	font-size: 0;
+	line-height: 0;
+	display: block;
+	padding: 5px;
+	border: 0;
+	outline: 0;
+	background: 0 0
+}
+.slick-dots li button:focus, .slick-dots li button:hover {
+	outline: 0
+}
+.slick-dots li button:before {
+	font-size: 14px;
+	line-height: 20px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 20px;
+	height: 20px;
+	content: "\f111";
+	text-align: center;
+	color: #ccc
+}
+.slick-dots li button:focus:before, .slick-dots li button:hover:before, .slick-dots li.slick-active button:before {
+	opacity: 1;
+	color: #009cff
+}
+.fixslider .slick-next, .fixslider .slick-prev {
+	background: rgba(0,0,0,.5)
+}
+.fixslider .slick-next:focus, .fixslider .slick-next:hover, .fixslider .slick-prev:focus, .fixslider .slick-prev:hover {
+	background: #009cff
+}
+.halfwidthleft .slick-next, .halfwidthleft .slick-prev {
+	background: rgba(0,0,0,.5)
+}
+.halfwidthleft .slick-next:focus, .halfwidthleft .slick-next:hover, .halfwidthleft .slick-prev:focus, .halfwidthleft .slick-prev:hover {
+	background: #009cff
+}
+.caption {
+	bottom: 0;
+	position: absolute;
+	width: 20%
+}
+.captiontext {
+	padding: 30px;
+	background: rgba(0,0,0,.8);
+	color: #fff;
+	width: 100%
+}
+.caption h3 {
+	color: #fff
+}
+.portfolioslider {
+	margin-bottom: 50px
+}
+.portfolioslider .slick-next, .portfolioslider .slick-prev {
+	background: rgba(0,0,0,.5)
+}
+.portfolioslider .slick-next:focus, .portfolioslider .slick-next:hover, .portfolioslider .slick-prev:focus, .portfolioslider .slick-prev:hover {
+	background: #009cff
+}

@@ -1,0 +1,1058 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: liven\n"
+"POT-Creation-Date: 2016-10-18 15:38+0530\n"
+"PO-Revision-Date: 2016-10-18 15:44+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ta_IN\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "404"
+msgstr "404"
+
+#: 404.php:12
+msgid "Oops! Page not found"
+msgstr "பக்கம் கிடைக்கவில்லை"
+
+#: 404.php:13
+msgid "We're sorry, the page you requested cannot be found."
+msgstr "மன்னிக்கவும், நீங்கள் கோரிய பக்கம் கிடைக்கவில்லை முடியாது."
+
+#: 404.php:14
+msgid "You can go back to"
+msgstr "நீங்கள் திரும்பி செல்ல முடியும்"
+
+#: 404.php:15
+msgid "go to homepage "
+msgstr "முகப்பு சென்றால்"
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "\"%s\" பதில் ஒன்"
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "கருத்துகளுக்கு இனி வாய்ப்பில்லை"
+
+#: comments.php:75
+msgid "Name *"
+msgstr "பெயர்"
+
+#: comments.php:76
+msgid "Email *"
+msgstr "மின்னஞ்சல்"
+
+#: comments.php:79
+msgid "Comment..."
+msgstr "கருத்துரை"
+
+#: functions.php:68
+msgid "Top primary menu"
+msgstr "சிறந்த முதன்மை பட்டி"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "பக்கப்பட்டி"
+
+#: functions.php:122
+msgid "Sidebar of Blog"
+msgstr "வலைப்பதிவு பக்கப்பட்டி"
+
+#: functions.php:140
+msgid "Search...."
+msgstr "தேடு"
+
+#: functions.php:182
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr ""
+
+#: functions.php:185
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:188
+msgid "(Edit)"
+msgstr "தொகு"
+
+#: functions.php:194
+msgid "Your comment is awaiting moderation."
+msgstr "உங்கள் கருத்துரை காத்திருக்கிறது உள்ளது."
+
+#: functions.php:213
+msgid "Recent Posts"
+msgstr "அண்மைய இடுகைகள்"
+
+#: functions.php:253 functions.php:282 templates/content-blog.php:46
+#: templates/content-blog.php:95 templates/content-blog.php:145
+#: templates/content-blog.php:215 templates/content-blog.php:289
+#: templates/content-blog.php:320 templates/single-blog.php:22
+msgid " Comments "
+msgstr "பின்னூட்டங்கள்"
+
+#: inc/add_default_plugin.php:18
+msgid "Visual Composer"
+msgstr "இசையமைப்பாளர்"
+
+#: inc/add_default_plugin.php:22
+msgid "4.12.1"
+msgstr "4.12.1"
+
+#: inc/add_default_plugin.php:27
+msgid "Liven Extenstion"
+msgstr "தரத்தை மேம்படுத்த extenstion"
+
+#: inc/add_default_plugin.php:31
+msgid "1.0"
+msgstr "1.0"
+
+#: inc/add_default_plugin.php:36
+msgid "Revolution Slider"
+msgstr "புரட்சி ஸ்லைடர்"
+
+#: inc/add_default_plugin.php:40
+msgid "5.2.6"
+msgstr "5.2.6"
+
+#: inc/add_default_plugin.php:45
+msgid "Contact Form 7"
+msgstr "தொடர்பு படிவம் 7"
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "தேவையான கூடுதல் நிறுவ"
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "கூடுதல் நிறுவ"
+
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "நிறுவுதல் நீட்சியை%s:"
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "புதுப்பிக்கிறது நீட்சியை%s:"
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "ஏதாவது சொருகி ஏபிஐ தவறு நடந்துள்ளது."
+
+#: inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "தேவையான கூடுதல் நிறுவி திரும்பு"
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "டாஷ்போர்டுக்குச் செல்"
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "நீட்சியை வெற்றிகரமாக செயல்படுத்தப்பட்டது."
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "எந்த நடவடிக்கையும் எடுக்கப்படவில்லை. நீட்சியை%1$s ஏற்கனவே தீவிரமாக இருந்தது."
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"கூடுதல் இணைப்பை செயல்படுத்தப்படுகிறது. %s உயர் பதிப்பு இந்த தீம் தேவைப்படுகிறது. "
+"சொருகி மேம்படுத்த கொள்ளவும்."
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "இந்த அறிவிப்பு நிராகரி"
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"நிறுவ, புதுப்பிக்க அல்லது செயல்படுத்த ஒன்று அல்லது அதற்கு மேற்பட்ட தேவையான அல்லது "
+"பரிந்துரைக்கப்பட்ட கூடுதல் உள்ளன."
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "உதவி இந்த தளத்தின் நிர்வாகியைத் தொடர்பு கொள்ளவும்."
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "இந்த சொருகி உங்கள் தீம் இணக்கமாக புதுப்பிக்க வேண்டும்."
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "புதுப்பிப்பு தேவை"
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"தொலை சொருகி தொகுப்பு விரும்பிய ஸ்ல மற்றும் பெயர் மாற்றுவது வேலை செய்யவில்லை ஒரு "
+"கோப்புறையை கொண்டிருக்கும் இல்லை."
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"சொருகி வழங்குநர் தொடர்பு மற்றும் வேர்ட்பிரஸ் வழிகாட்டுதல்களை ஏற்ப தங்கள் சொருகி "
+"தொகுப்பு கூறவும்."
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"தொலை சொருகி தொகுப்பு ஒன்றுக்கு மேற்பட்ட கோப்புகளை கொண்டுள்ளது, ஆனால் கோப்புகளை "
+"ஒரு கோப்புறையை தொகுக்கப்பட்டன இல்லை."
+
+#: inc/class-tgm-plugin-activation.php:1206
+#: inc/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "மற்றும்"
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "தேவையான"
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "பரிந்துரைக்கப்படுகிறது"
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "வேர்ட்பிரஸ் களஞ்சியமாக"
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "வெளி மூலம்"
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "முன் பேக்கேஜ்"
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "நிறுவப்படாத"
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "நிறுவப்பட்ட ஆனால் செயல்படுத்தியிருக்கவில்லை"
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "இயக்கத்தில் ulladhaa"
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "தேவைப்படும் புதுப்பிப்பு கிடைக்கிறது இல்லை"
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "மேம்படுத்தல் தேவைப்படுகிறது"
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "மேம்படுத்தல் பரிந்துரைக்கப்படுகிறது"
+
+#: inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "தெரியாதது"
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "நிறுவப்பட்ட பதிப்பு:"
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "குறைந்தபட்ச தேவையான பதிப்பு:"
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "கிடைக்கும் பதிப்பு:"
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "நிறுவ எந்த கூடுதல், புதுப்பிக்க அல்லது செயல்படுத்த."
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "சொருகு"
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "tharavu"
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "வகை"
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "பதிப்பு"
+
+#: inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "நிலை"
+
+#: inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "%2$s ஐ நிறுவு"
+
+#: inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "சொருகி ஆசிரியர் இருந்து செய்தி மேம்படுத்தவும்:"
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "நிறுவவும்"
+
+#: inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "புதுப்பி"
+
+#: inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "செயல்படுத்து"
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"எந்த கூடுதல் நிறுவ வேண்டிய தேர்வு செய்யப்பட்டனர். எந்த நடவடிக்கையும் எடுக்கப்படவில்லை."
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"எந்த கூடுதல் புதுப்பிக்கப்படும் தேர்வு செய்யப்பட்டனர். எந்த நடவடிக்கையும் எடுக்கப்படவில்லை."
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "எந்த கூடுதல் இந்த நேரத்தில் நிறுவ வேண்டிய கிடைக்கின்றன."
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "எந்த கூடுதல் இந்த நேரத்தில் புதுப்பிக்கப்படும் கிடைக்கும்."
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"எந்த கூடுதல் செயல்படுத்தப்படுகிறது தேர்வு செய்யப்பட்டனர். எந்த நடவடிக்கையும் "
+"எடுக்கப்படவில்லை."
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "எந்த கூடுதல் இந்த நேரத்தில் இயக்கப்பட உள்ளன."
+
+#: inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "சொருகி செயல்படுத்தும் தோல்வி."
+
+#: inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s இன் நிறுவல் தோல்வி அடைந்தது."
+
+#: inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"நிறுவல் மற்றும் செயல்படுத்தும் தொடங்கி உள்ளது. இந்த செயல்முறை சில புரவலன்களில் சிறிது "
+"நேரம் ஆகலாம், மிகவும் பொறுமையாக இருக்க தயவு செய்து."
+
+#: inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "விவரங்களை காட்டு"
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "விவரங்களை மறை"
+
+#: inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "அனைத்து நிறுவல்கள் மற்றும் செயலாக்கங்களை நிறைவடைந்துள்ளன."
+
+#: inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"நிறுவல் செயல்முறை தொடங்கி உள்ளது. இந்த செயல்முறை சில புரவலன்களில் சிறிது நேரம் "
+"ஆகலாம், மிகவும் பொறுமையாக இருக்க தயவு செய்து."
+
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "அனைத்து நிறுவல் நிறைவடைந்துள்ளன."
+
+#: inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Liven Theme Option"
+msgstr "தீம் தேர்வு தரத்தை மேம்படுத்த"
+
+#: inc/customizer.php:20
+msgid ""
+"The Customizer allows you to preview changes to your site before publishing "
+"them. You can also navigate to different pages on your site to preview them."
+msgstr ""
+"Customizer நீங்கள் அவற்றை வெளியிடும் முன் உங்கள் தளத்தில் மாற்றங்களை முன்னோட்டத்தை "
+"அனுமதிக்கிறது. நீங்கள் அவர்களை முன்னோட்டம் உங்கள் தளத்தில் வெவ்வேறு பக்கங்களில் செல்லவும் "
+"முடியும்."
+
+#: inc/customizer.php:28
+msgid "Global Colors"
+msgstr "உலக நிறங்களை"
+
+#: inc/customizer.php:38
+msgid "Page Background Color"
+msgstr "பின்னணி வண்ணம்"
+
+#: inc/customizer.php:48 inc/customizer.php:185
+msgid "Font Color"
+msgstr "எழுத்துரு நிறம்"
+
+#: inc/customizer.php:58
+msgid "Link Color"
+msgstr "இணைப்பு கலர்"
+
+#: inc/customizer.php:68
+msgid "Link Hover Color"
+msgstr "வண்ணம்"
+
+#: inc/customizer.php:78
+msgid "Button Color"
+msgstr "பட்டன் கலர்"
+
+#: inc/customizer.php:88
+msgid "Button Font Color"
+msgstr "பட்டன் எழுத்துரு வண்ணம்"
+
+#: inc/customizer.php:98
+msgid "Heading Color"
+msgstr "கலர் தலைப்பு"
+
+#: inc/customizer.php:101
+msgid "Default Heading color for h1 to h6"
+msgstr "இயல்புநிலை H6 செய்ய H1 தலைப்பு நிறம்"
+
+#: inc/customizer.php:113 inc/customizer.php:124
+msgid "Header Toolbar"
+msgstr "தலைப்பு கருவிப்பட்டை"
+
+#: inc/customizer.php:127 inc/customizer.php:300 inc/customizer.php:315
+#: inc/customizer.php:477 inc/customizer.php:503 inc/customizer.php:698
+#: inc/customizer.php:789
+msgid "On"
+msgstr "revise"
+
+#: inc/customizer.php:128 inc/customizer.php:301 inc/customizer.php:316
+#: inc/customizer.php:478 inc/customizer.php:504 inc/customizer.php:699
+#: inc/customizer.php:790
+msgid "Off"
+msgstr "இனிய"
+
+#: inc/customizer.php:140
+msgid "Phone Number"
+msgstr "தொலைபேசி இலக்கம்"
+
+#: inc/customizer.php:142
+msgid "Enter phone number in standard format"
+msgstr "நிலையான அளவில் தொலைபேசி எண்ணை சேர்க்கவும்"
+
+#: inc/customizer.php:153
+msgid "Email"
+msgstr "மின்னஞ்சல்"
+
+#: inc/customizer.php:155
+msgid "Enter email address in standard format"
+msgstr "நிலையான அளவில் மின்னஞ்சல் முகவரியை உள்ளிடவும்"
+
+#: inc/customizer.php:163 inc/customizer.php:462
+msgid "Background Color"
+msgstr "பின்னணி வண்ணம்"
+
+#: inc/customizer.php:174
+msgid "Icon Color"
+msgstr "icon கலர்"
+
+#: inc/customizer.php:206
+msgid "Header"
+msgstr "தலைப்பு"
+
+#: inc/customizer.php:216
+msgid "Upload Your Logo"
+msgstr "உங்கள் லோகோ பதிவேற்ற"
+
+#: inc/customizer.php:227
+msgid "Select Your Header Style"
+msgstr "உங்கள் தலைப்பு உடை தேர்வு"
+
+#: inc/customizer.php:230 inc/customizer.php:518 inc/customizer.php:639
+msgid "Style 1"
+msgstr "உடை 1"
+
+#: inc/customizer.php:231 inc/customizer.php:519 inc/customizer.php:640
+msgid "Style 2"
+msgstr "உடை 2"
+
+#: inc/customizer.php:232 inc/customizer.php:520 inc/customizer.php:641
+msgid "Style 3"
+msgstr "உடை 3"
+
+#: inc/customizer.php:233 inc/customizer.php:642
+msgid "Style 4"
+msgstr "உடை 4"
+
+#: inc/customizer.php:234 inc/customizer.php:643
+msgid "Style 5"
+msgstr "உடை 5"
+
+#: inc/customizer.php:245
+msgid "Header Background Color"
+msgstr "வண்ணம்"
+
+#: inc/customizer.php:255
+msgid "Menu Font Color"
+msgstr "பட்டி எழுத்துரு வண்ணம்"
+
+#: inc/customizer.php:265
+msgid "Menu Font Hover Color"
+msgstr "பட்டி எழுத்துரு வண்ணம்"
+
+#: inc/customizer.php:275
+msgid "Active Menu Font Color"
+msgstr "செயலில் பட்டி எழுத்துரு வண்ணம்"
+
+#: inc/customizer.php:285
+msgid "Menu Background Color"
+msgstr "பின்னணி வண்ணம்"
+
+#: inc/customizer.php:297
+msgid "Header Searchbar"
+msgstr "தலைப்பு searchbar"
+
+#: inc/customizer.php:312
+msgid "Social Icons"
+msgstr "சமூக சின்னங்கள்"
+
+#: inc/customizer.php:330
+msgid "Facebook Link"
+msgstr "facebook இணைப்பு"
+
+#: inc/customizer.php:332
+msgid "Enter your facebook link to show icon."
+msgstr "சின்னத்தை காட்ட உங்கள் facebook இணைப்பு உள்ளிடவும்."
+
+#: inc/customizer.php:342
+msgid "Twitter Link"
+msgstr "ட்விட்டர் இணைப்பு"
+
+#: inc/customizer.php:344
+msgid "Enter your twitter link to show icon."
+msgstr "சின்னத்தை காட்ட உங்கள் ட்விட்டர் இணைப்பு உள்ளிடவும்."
+
+#: inc/customizer.php:354
+msgid "Google Plus Link"
+msgstr "கூகுள் பிளஸ் இணைப்பு"
+
+#: inc/customizer.php:356
+msgid "Enter your google plus link to show icon."
+msgstr "சின்னத்தை காட்ட உங்கள் கூகுள் பிளஸ் இணைப்பு உள்ளிடவும்."
+
+#: inc/customizer.php:366
+msgid "LinkedIn Link"
+msgstr "சென்டர் இணைப்பு"
+
+#: inc/customizer.php:368
+msgid "Enter your linkedin link to show icon."
+msgstr "சின்னத்தை காட்ட உங்கள் உரிமைகள் இணைப்பு உள்ளிடவும்."
+
+#: inc/customizer.php:377
+msgid "Social Icons Style"
+msgstr "சமூக சின்னங்கள் உடை"
+
+#: inc/customizer.php:380
+msgid "Dark"
+msgstr "இருள்"
+
+#: inc/customizer.php:381
+msgid "Light"
+msgstr "ஒளி"
+
+#: inc/customizer.php:427
+msgid "Page Title & Breadcrumb Settings"
+msgstr "பக்கம் தலைப்பு & ப்ரெட்க்ரம்ப் அமைப்புகள்"
+
+#: inc/customizer.php:438
+msgid "Page Title Background"
+msgstr "பக்கம் தலைப்பு பின்னணி"
+
+#: inc/customizer.php:441
+msgid "Image"
+msgstr ""
+
+#: inc/customizer.php:442
+msgid "Color"
+msgstr "நிறம்"
+
+#: inc/customizer.php:451
+msgid "Background Image"
+msgstr "பின்புல படம்"
+
+#: inc/customizer.php:474
+msgid "Page Title"
+msgstr "பக்கம் தலைப்பு"
+
+#: inc/customizer.php:480
+msgid ""
+"You can disable page title globally using this option, or you may need to "
+"disable it in a particular page."
+msgstr ""
+"நீங்கள் இந்த விருப்பத்தை பயன்படுத்தி உலகளவில் பக்கம் தலைப்பு முடக்க முடியும், அல்லது நீங்கள் "
+"ஒரு குறிப்பிட்ட பக்கம் அதை முடக்க வேண்டும்."
+
+#: inc/customizer.php:488
+msgid "Page Title Color"
+msgstr "பக்கம் தலைப்பு வண்ணம்"
+
+#: inc/customizer.php:500
+msgid "Breadcrumb"
+msgstr "ப்ரெட்க்ரம்ப்"
+
+#: inc/customizer.php:506
+msgid ""
+"You can disable breadcrumb navigation globally using this option, or you may "
+"need to disable it in a particular page."
+msgstr ""
+"நீங்கள் இந்த விருப்பத்தை பயன்படுத்தி உலகளவில் பிரெட்க்ரம்ப் வழிசெலுத்தல் முடக்க முடியும், "
+"அல்லது நீங்கள் ஒரு குறிப்பிட்ட பக்கம் அதை முடக்க வேண்டும்."
+
+#: inc/customizer.php:515
+msgid "Select Your Breadcrumb Style"
+msgstr "உங்கள் ப்ரெட்க்ரம்ப் உடை தேர்வு"
+
+#: inc/customizer.php:530
+msgid "Breadcrumb Page Color"
+msgstr "ப்ரெட்க்ரம்ப் பக்க வண்ணம்"
+
+#: inc/customizer.php:541
+msgid "Breadcrumb Hover Color"
+msgstr "ப்ரெட்க்ரம்ப் வண்ணம்"
+
+#: inc/customizer.php:552
+msgid "Breadcrumb Active Page Color"
+msgstr "ப்ரெட்க்ரம்ப் செயலில் பக்க வண்ணம்"
+
+#: inc/customizer.php:565
+msgid "Select Breadcrumb Separator"
+msgstr "ப்ரெட்க்ரம்ப் பிரிப்பான் தேர்ந்தெடுக்கவும்"
+
+#: inc/customizer.php:568
+msgid "/"
+msgstr "/"
+
+#: inc/customizer.php:569
+msgid "|"
+msgstr "|"
+
+#: inc/customizer.php:570
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:583
+msgid "Label For Home"
+msgstr "முகப்பு லேபிள்"
+
+#: inc/customizer.php:625 templates/breadcrumb.php:43
+#: templates/breadcrumb.php:220 templates/breadcrumb.php:282
+#: templates/breadcrumb.php:356
+msgid "Blog"
+msgstr "வலைப்பதிவு"
+
+#: inc/customizer.php:636
+msgid "Select Your Blog Style"
+msgstr "உங்கள் வலைப்பதிவு உடை தேர்வு"
+
+#: inc/customizer.php:652
+msgid "Blog Title Color"
+msgstr "தலைப்பு வண்ணம் வலைப்பதிவு"
+
+#: inc/customizer.php:662
+msgid "Blog Title Hover Color"
+msgstr "தலைப்பு வண்ணம் வலைப்பதிவு"
+
+#: inc/customizer.php:673
+msgid "Blog Info Color"
+msgstr "வலைப்பதிவு தகவல் கலர்"
+
+#: inc/customizer.php:683
+msgid "Date Color"
+msgstr "தேதி கலர்"
+
+#: inc/customizer.php:695
+msgid "Blog Sidebar"
+msgstr "வலைப்பதிவு பக்கப்பட்டி"
+
+#: inc/customizer.php:709
+msgid "Blog Sidebar Position"
+msgstr "வலைப்பதிவு பக்கப்பட்டி நிலை"
+
+#: inc/customizer.php:712
+msgid "Left"
+msgstr "இடது"
+
+#: inc/customizer.php:713
+msgid "Right"
+msgstr "வலது"
+
+#: inc/customizer.php:749
+msgid "Footer"
+msgstr "அடிக்குறிப்பு"
+
+#: inc/customizer.php:775
+msgid "Footer Page"
+msgstr "அடிக்குறிப்பு பக்கம்"
+
+#: inc/customizer.php:786
+msgid "Back To Top"
+msgstr "மீண்டும் மேலே"
+
+#: inc/customizer.php:792
+msgid "Using this option you can enable or disable back to top button."
+msgstr "இந்த விருப்பத்தை நீங்கள் இயக்கினால் அல்லது மேல் பட்டன் முடக்க முடியும் பயன்படுத்தி."
+
+#: inc/customizer.php:806
+msgid "Theme Optimization"
+msgstr "தீம் தேர்வுமுறை"
+
+#: inc/customizer.php:818
+msgid "Minified CSS"
+msgstr "minified CSS"
+
+#: inc/customizer.php:822
+msgid "Check this option to load minified CSS"
+msgstr "Minified CSS ஏற்ற இந்த தேர்வை சரிபார்க்கவும்"
+
+#: inc/customizer.php:831
+msgid "Minified Javascript"
+msgstr "minified ஜாவா"
+
+#: inc/customizer.php:835
+msgid "Check this option to load minified Javascript"
+msgstr "Minified ஜாவா ஏற்ற இந்த தேர்வை சரிபார்க்கவும்"
+
+#: inc/enqueue-front-styles.php:23 inc/enqueue-front-styles.php:31
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "revise"
+
+#: searchform.php:10 searchform.php:14
+msgid "Search for:"
+msgstr "தேடல்"
+
+#: searchform.php:12
+msgid "Search..."
+msgstr "தேடு..."
+
+#: templates/breadcrumb.php:21
+msgid " / "
+msgstr "/"
+
+#: templates/breadcrumb.php:27 templates/breadcrumb.php:213
+#: templates/breadcrumb.php:275 templates/breadcrumb.php:349
+msgid "Home"
+msgstr "Home"
+
+#: templates/breadcrumb.php:147 templates/breadcrumb.php:150
+#: templates/breadcrumb.php:153 templates/breadcrumb.php:157
+#: templates/breadcrumb.php:159 templates/breadcrumb.php:163
+msgid " Archives"
+msgstr "காப்பகங்கள்"
+
+#: templates/breadcrumb.php:168
+msgid "Author: "
+msgstr ""
+
+#: templates/breadcrumb.php:171
+msgid "Page"
+msgstr "பக்கம்"
+
+#: templates/breadcrumb.php:175
+msgid "Search results for: "
+msgstr "தேடல் முடிவுகள்"
+
+#: templates/breadcrumb.php:179
+msgid "Error 404"
+msgstr "பிழை 404"
+
+#: templates/breadcrumb.php:228 templates/breadcrumb.php:290
+#: templates/breadcrumb.php:364 templates/content-search.php:15
+msgid " Search Results For : "
+msgstr "தேடல் முடிவுகள்"
+
+#: templates/content-blog.php:28 templates/content-blog.php:76
+#: templates/content-blog.php:128 templates/content-blog.php:195
+#: templates/content-blog.php:270 templates/content-blog.php:301
+msgid "post-"
+msgstr ""
+
+#: templates/content-blog.php:161 templates/single-blog.php:38
+msgid ", "
+msgstr ","
+
+#: templates/content-none.php:9
+msgid "No results found"
+msgstr "முடிவுகள் எதுவும் இல்லை"
+
+#: templates/content-search.php:24
+msgid " by "
+msgstr "odu"
+
+#: templates/content-search.php:24
+msgid " on "
+msgstr "revise"
+
+#: templates/content-search.php:29 templates/content-search.php:48
+msgid " in "
+msgstr "ssup"
+
+#: templates/portfolio.php:24
+msgid "Categories"
+msgstr "வகைகள்"
+
+#: templates/portfolio.php:36
+msgid "Description"
+msgstr "விபரம்"
+
+#: templates/portfolio.php:64
+msgid "Related Portfolio"
+msgstr "தொடர்பான சேவை"
+
+#: templates/single-blog.php:18
+msgid "by "
+msgstr "odu"
+
+#: templates/single-blog.php:18 templates/single-blog.php:19
+msgid " | "
+msgstr "|"
+
+#: templates/single-blog.php:22
+msgid " Comment "
+msgstr "கருத்துரை"
+
+#. Theme Name of the plugin/theme
+msgid "liven"
+msgstr "தரத்தை மேம்படுத்த"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeforest.net/user/lithemes"
+msgstr "http://themeforest.net/user/lithemes"
+
+#. Description of the plugin/theme
+msgid "Great Business WordPress theme with many new design and functionality."
+msgstr "பல புதிய வடிவமைப்பு மற்றும் செயல்பாடு பெரும் வணிக வேர்ட்பிரஸ் தீம்."
+
+#. Author of the plugin/theme
+msgid "Lithemes"
+msgstr "Lithemes"
+
+#. Author URI of the plugin/theme
+msgid "https://lithemes.com/"
+msgstr "https://lithemes.com/"

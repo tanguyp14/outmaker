@@ -1,0 +1,460 @@
+.homepageportfolio2 span, .homepageportfolio3 span, .hvrlink span, .info h4, .portfolio3 span {
+	color: #fff
+}
+.homepageportfolio2, .homepageportfolio3, .portfolio1, .portfolio2, .portfolio3, .portfolio4, .portfolio5, .view {
+	text-align: center
+}
+.homepageportfolio2 img, .homepageportfolio3 img, .portfolio1 img, .portfolio2 img, .portfolio3 img, .portfolio4 img, .portfolio5 img, .view img {
+	max-width: 100%
+}
+.view {
+	float: left;
+	overflow: hidden;
+	position: relative;
+	cursor: pointer;
+	width: 795px;
+	height: 540px
+}
+.view .content, .view .mask {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	overflow: hidden;
+	top: 0;
+	left: 0
+}
+.view img {
+	display: block;
+	position: relative
+}
+.blog2-img .mask-blog, .team2-img .mask-team {
+	-webkit-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-ms-transition: all .4s ease-in-out;
+	position: absolute;
+	background: rgba(0,0,0,.75)
+}
+.view .info {
+	display: inline-block;
+	text-decoration: none;
+	padding: 0;
+	width: auto;
+	margin: 212px 0
+}
+.blog2-img h4, .team2-img h4 {
+	margin-bottom: 0
+}
+.info h4 {
+	margin-top: 30px;
+	font-size:26px;
+}
+.blog2-img .mask-blog {
+	opacity: 0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-moz-transition: all .4s ease-in-out;
+	transition: all .4s ease-in-out;
+	width: 100%;
+	height: auto;
+	padding: 15px;
+	overflow: hidden;
+	bottom: 3px;
+	left: 0
+}
+.portfolio1 .mask-img, .team2-img .mask-team {
+	-moz-transition: all .4s ease-in-out;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	overflow: hidden
+}
+.blog2-img:hover .mask-blog {
+	opacity: 1;
+	background: rgba(0,0,0,.75)
+}
+.team2-img img {
+	width: 100%
+}
+.team2-img .mask-team {
+	opacity: 0;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	transition: all .4s ease-in-out;
+	cursor: pointer
+}
+.team2-img:hover .mask-team {
+	opacity: 1;
+	background: rgba(0,0,0,.75)
+}
+.team2-img h4 {
+	margin-top: 80px;
+}
+.portfolio1 {
+	position: relative
+}
+.portfolio1 .mask-img {
+	opacity: 0;
+	background: rgba(0,0,0,.85);
+	-webkit-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-ms-transition: all .4s ease-in-out;
+	transition: all .4s ease-in-out;
+	position: absolute
+}
+.portfolio1:hover .mask-img {
+	opacity: 1;
+	background: rgba(0,0,0,.75)
+}
+.zoomicon {
+	margin-top: 100px
+}
+.portfolio2 {
+	position: relative;
+	overflow: hidden
+}
+.portfolio2 .mask-img {
+	opacity: 0;
+	background: rgba(0,0,0,.85);
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	-ms-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+	width: 100%;
+	padding: 20px;
+	position: absolute;
+	bottom: -88px
+}
+.portfolio3 .mask-img, .portfolio4 .mask-img {
+	-webkit-transition: all .4s ease-in-out;
+	-moz-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-ms-transition: all .4s ease-in-out;
+	height: 100%;
+	overflow: hidden;
+	top: 0;
+	width: 100%
+}
+.portfolio2:hover .mask-img {
+	opacity: 1;
+	bottom: 0;
+	background: rgba(0,0,0,.75)
+}
+.portfolio3 {
+	position: relative
+}
+.portfolio3 .mask-img {
+	opacity: 0;
+	background: rgba(0,0,0,.85);
+	transition: all .4s ease-in-out;
+	position: absolute
+}
+.portfolio3:hover .mask-img {
+	opacity: 1;
+	background: rgba(0,0,0,.75)
+}
+.zoomicn {
+	margin-top: 105px;
+	margin-bottom: 20px
+}
+.portfolio3 h4 {
+	margin-bottom: 10px
+}
+.portfolio4 {
+	position: relative
+}
+.portfolio4 .mask-img {
+	opacity: 0;
+	background: rgba(0,0,0,.9);
+	transition: all .4s ease-in-out;
+	position: absolute;
+	text-align: center
+}
+.homepageportfolio2 .mask-img, .portfolio5 .mask-img {
+	-webkit-transition: all .4s ease-in-out;
+	-moz-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-ms-transition: all .4s ease-in-out
+}
+.portfolio4:hover .mask-img {
+	opacity: 1
+}
+.hvrlink {
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	margin-top: -60px
+}
+.homepageportfolio2 .mask-img, .homepageportfolio3 .mask-img, .portfolio5 .mask-img {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	top: 0
+}
+.hvrlink h4 {
+	margin: 10px 0
+}
+.homepageportfolio2 h4, .homepageportfolio3 h4 {
+	margin-bottom: 10px
+}
+.portfolio5 {
+	position: relative
+}
+.portfolio5 .mask-img {
+	opacity: 0;
+	background: rgba(0,0,0,.75);
+	transition: all .4s ease-in-out;
+	position: absolute
+}
+.portfolio5:hover .mask-img {
+	opacity: 1
+}
+.homepageportfolio2 {
+	position: relative;
+	width: 100%
+}
+.homepageportfolio2 .mask-img {
+	opacity: 0;
+	background: rgba(0,156,255,.8);
+	transition: all .4s ease-in-out;
+	position: absolute
+}
+.homepageportfolio2:hover .mask-img {
+	opacity: 1
+}
+.homepageportfolio3 {
+	position: relative;
+	width: 100%
+}
+.homepageportfolio3 .mask-img {
+	opacity: 0;
+	background: rgba(0,0,0,.75);
+	-webkit-transition: all .4s ease-in-out;
+	-moz-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	-ms-transition: all .4s ease-in-out;
+	transition: all .4s ease-in-out;
+	position: absolute
+}
+.homepageportfolio3:hover .mask-img {
+	opacity: 1
+}
+@media (min-width:2300px) and (max-width:2560px) {
+.zoomicn {
+	margin-top: 170px
+}
+}
+@media (min-width:1500px) and (max-width:1680px) {
+.zoomicn {
+	margin-top: 80px
+}
+}
+@media (min-width:1367px) and (max-width:1480px) {
+.zoomicn {
+	margin-top: 65px
+}
+.blog2-img .mask-blog {
+	bottom: 0
+}
+.homepageportfolio2 .zoomicn, .homepageportfolio3 .zoomicn {
+	margin-top: 68px;
+	margin-bottom: 10px
+}
+}
+@media (min-width:1280px) and (max-width:1366px) {
+.zoomicn {
+	margin-top: 90px
+}
+.blog2-img .mask-blog {
+	bottom: 0
+}
+.homepageportfolio2 .zoomicn, .homepageportfolio3 .zoomicn {
+	margin-top: 58px;
+	margin-bottom: 10px
+}
+}
+@media (max-width:1024px) {
+.team2-img h4 {
+	margin-top: 45px
+}
+.zoomicon {
+	margin-top: 75px
+}
+.zoomicn {
+	margin-bottom: 10px;
+	margin-top: 65px
+}
+.blog2-img .mask-blog {
+	bottom: 0
+}
+}
+@media (max-width:980px) {
+.zoomicn {
+	margin-top: 110px
+}
+.zoomicon {
+	margin-top: 90px
+}
+.team2-img h4 {
+	margin-top: 20px
+}
+.view .info {
+	margin: 250px 0
+}
+.view {
+	width: 100%;
+	height: auto
+}
+}
+@media (min-width:800px) and (max-width:959px) {
+.team2-img h4 {
+	margin-top: 30px
+}
+.zoomicn {
+	margin-top: 75px
+}
+.zoomicon {
+	margin-top: 85px
+}
+.view .info {
+	margin: 168px 0
+}
+}
+@media (max-width:768px) {
+.team2-img h4 {
+	margin-top: 30px
+}
+.zoomicon {
+	margin-top: 96px
+}
+.zoomicn {
+	margin-top: 75px
+}
+.view .info {
+	margin: 168px 0
+}
+}
+@media (max-width:736px){
+.homepageportfolio3 .zoomicn {
+	margin-top: 200px;
+}	
+.homepageportfolio2 .zoomicn {
+	margin-top: 200px;
+}
+}
+@media (min-width:641px) and (max-width:699px){
+.homepageportfolio3 .zoomicn {
+	margin-top: 175px
+}	
+.homepageportfolio2 .zoomicn {
+	margin-top: 175px
+}
+.zoomicn {
+    margin-top: 65px;
+}
+}
+@media (min-width:600px) and (max-width:640px) {
+.blog2-img .mask-blog {
+	bottom: 60px
+}
+.team2-img h4 {
+	margin-top: 170px
+}
+.zoomicon {
+	margin-top: 53px
+}
+.zoomicn {
+	margin-top: 55px;
+	margin-bottom: 5px
+}
+.homepageportfolio3 .zoomicn {
+	margin-top: 170px
+}
+.homepageportfolio2 .zoomicn {
+	margin-top: 170px
+}
+.view .info {
+	margin: 110px 0
+}
+}
+@media (max-width:533px) {
+.homepageportfolio3 .zoomicn {
+	margin-top: 130px
+}
+.homepageportfolio2 .zoomicn {
+	margin-top: 130px
+}	
+}
+	
+@media (max-width:480px) {
+.view {
+	width: 100%;
+	height: auto
+}
+.view .info {
+	margin: 110px 0;
+}
+.team2-img h4 {
+	margin-top: 80px;
+}
+.zoomicon {
+	margin-top: 120px;
+}
+.zoomicn {
+	margin-top: 110px;
+}
+.info h4 {
+	margin: 15px 0;
+}
+}
+@media (max-width:479px) {
+.team2-img h4 {
+	margin-top: 70px;
+}	
+.zoomicon {
+	margin-top: 110px;
+}
+.zoomicn {
+	margin-top: 60px;
+	margin-bottom: 5px;
+}
+.view .info {
+	margin: 80px 0;
+}
+.info h4 {
+	margin: 10px 0;
+}
+}
+@media (max-width:414px) {
+.zoomicn {
+ 	margin-top: 95px;
+}
+.homepageportfolio3 .zoomicn {
+	margin-top: 95px;
+}
+.homepageportfolio2 .zoomicn {
+	margin-top: 95px;
+}	
+}
+@media (max-width:360px) {
+.zoomicon {
+	margin-top: 92px
+}
+}
+@media (max-width:320px) {
+.team2-img h4 {
+	margin-top: 60px
+}
+.zoomicon {
+	margin-top: 80px
+}
+.zoomicn {
+	margin-top: 60px;
+	margin-bottom: 5px
+}
+.view .info {
+	margin: 60px 0
+}
+}

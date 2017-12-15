@@ -1,0 +1,4498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Liven Extenstion\n"
+"POT-Creation-Date: 2016-10-19 11:28+0530\n"
+"PO-Revision-Date: 2016-10-19 11:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: liven-extensions.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fi_FI\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom-post-types/clients-post-type.php:5
+msgctxt "Post Type General Name"
+msgid "Clients"
+msgstr "Asiakkaat"
+
+#: custom-post-types/clients-post-type.php:6
+msgctxt "Post Type Singular Name"
+msgid "Clients"
+msgstr "Asiakkaat"
+
+#: custom-post-types/clients-post-type.php:7
+#: include-element/liven_clients.php:135
+msgid "Clients"
+msgstr "Asiakkaat"
+
+#: custom-post-types/clients-post-type.php:8
+msgid "Parent Clients"
+msgstr "Vanhemman asiakkaiden"
+
+#: custom-post-types/clients-post-type.php:9
+msgid "All Clients"
+msgstr "Kaikki asiakkaat"
+
+#: custom-post-types/clients-post-type.php:10
+msgid "View Clients"
+msgstr "Katso asiakkaiden"
+
+#: custom-post-types/clients-post-type.php:11
+msgid "Add New Clients"
+msgstr "Lisää uusia asiakkaita"
+
+#: custom-post-types/clients-post-type.php:12
+#: custom-post-types/portfolio-post-type.php:39
+#: custom-post-types/tabs-post-type.php:13
+#: custom-post-types/team-post-type.php:12
+#: custom-post-types/testimonial-post-type.php:12
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: custom-post-types/clients-post-type.php:13
+msgid "Edit Clients"
+msgstr "Muokkaa asiakkaat"
+
+#: custom-post-types/clients-post-type.php:14
+msgid "Update Clients"
+msgstr "Päivitä asiakkaita"
+
+#: custom-post-types/clients-post-type.php:15
+msgid "Search Clients"
+msgstr "Etsi asiakkaita"
+
+#: custom-post-types/clients-post-type.php:16
+#: custom-post-types/portfolio-post-type.php:43
+#: custom-post-types/tabs-post-type.php:17
+#: custom-post-types/team-post-type.php:16
+#: custom-post-types/testimonial-post-type.php:16
+msgid "Not Found"
+msgstr "Ei löytynyt."
+
+#: custom-post-types/clients-post-type.php:17
+#: custom-post-types/portfolio-post-type.php:44
+#: custom-post-types/tabs-post-type.php:18
+#: custom-post-types/team-post-type.php:17
+#: custom-post-types/testimonial-post-type.php:17
+msgid "Not found in Trash"
+msgstr "Ei löytynyt roskakorista"
+
+#: custom-post-types/clients-post-type.php:21
+msgid "liven_clients"
+msgstr "liven_clients"
+
+#: custom-post-types/clients-post-type.php:22
+msgid "Clients "
+msgstr "Asiakkaat"
+
+#: custom-post-types/portfolio-post-type.php:4
+msgctxt "liven"
+msgid "Portfolio Categories"
+msgstr "Portfolio kategoriat"
+
+#: custom-post-types/portfolio-post-type.php:5
+msgctxt "liven"
+msgid "Portfolio Category"
+msgstr "Portfolio kategoria"
+
+#: custom-post-types/portfolio-post-type.php:6
+msgid "Search Portfolio Categories"
+msgstr "Etsi portfolio-kategorioita"
+
+#: custom-post-types/portfolio-post-type.php:7
+msgid "All Portfolio Categories"
+msgstr "Kaikki portfolio kategoriat"
+
+#: custom-post-types/portfolio-post-type.php:8
+msgid "Parent Portfolio Category"
+msgstr "Portfolio pääluokan"
+
+#: custom-post-types/portfolio-post-type.php:9
+msgid "Parent Portfolio Category:"
+msgstr "Portfolio Pääluokka:"
+
+#: custom-post-types/portfolio-post-type.php:10
+msgid "Edit Portfolio Category"
+msgstr "Muokkaa portfoliokategoriaa"
+
+#: custom-post-types/portfolio-post-type.php:11
+msgid "Update Portfolio Category"
+msgstr "Päivitä Salkku luokka"
+
+#: custom-post-types/portfolio-post-type.php:12
+msgid "Add New Portfolio Category"
+msgstr "Lisää uusi Portfolio luokka"
+
+#: custom-post-types/portfolio-post-type.php:13
+msgid "New Portfolio Category Name"
+msgstr "Uuden salkun luokkanimi"
+
+#: custom-post-types/portfolio-post-type.php:14
+msgid "Portfolio Category"
+msgstr "Portfolio kategoria"
+
+#: custom-post-types/portfolio-post-type.php:32
+msgctxt "Post Type General Name"
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: custom-post-types/portfolio-post-type.php:33
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: custom-post-types/portfolio-post-type.php:34
+#: include-element/liven_portfolio.php:714
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: custom-post-types/portfolio-post-type.php:35
+msgid "Parent Portfolio"
+msgstr "Ylemmän tason avainsana"
+
+#: custom-post-types/portfolio-post-type.php:36
+msgid "All Portfolios"
+msgstr "Kaikkia salkkuja"
+
+#: custom-post-types/portfolio-post-type.php:37
+msgid "View Portfolio"
+msgstr "Näytä portfolio"
+
+#: custom-post-types/portfolio-post-type.php:38
+msgid "Add New Portfolio"
+msgstr "Lisää uusi salkun kohde"
+
+#: custom-post-types/portfolio-post-type.php:40
+msgid "Edit Portfolio"
+msgstr "Muokkaa portfoliota"
+
+#: custom-post-types/portfolio-post-type.php:41
+msgid "Update Portfolio"
+msgstr "Päivitä portfolio"
+
+#: custom-post-types/portfolio-post-type.php:42
+msgid "Search Portfolio"
+msgstr "Hae salkusta"
+
+#: custom-post-types/portfolio-post-type.php:48
+msgid "portfolio"
+msgstr "vastuualue"
+
+#: custom-post-types/portfolio-post-type.php:49
+msgid "Portfolio "
+msgstr "Portfolio"
+
+#: custom-post-types/portfolio-post-type.php:101
+msgid "Link:"
+msgstr "Linkitä:"
+
+#: custom-post-types/tabs-post-type.php:6
+msgctxt "Post Type General Name"
+msgid "Tabs"
+msgstr "Välilehdet"
+
+#: custom-post-types/tabs-post-type.php:7
+msgctxt "Post Type Singular Name"
+msgid "Tab"
+msgstr "Välilehti"
+
+#: custom-post-types/tabs-post-type.php:8 include-element/liven_tabs.php:96
+msgid "Tabs"
+msgstr "Välilehdet"
+
+#: custom-post-types/tabs-post-type.php:9
+msgid "Parent Tab"
+msgstr "Vanhemman välilehti"
+
+#: custom-post-types/tabs-post-type.php:10
+msgid "All Tabs"
+msgstr "Kaikki välilehdet"
+
+#: custom-post-types/tabs-post-type.php:11
+msgid "View Tab"
+msgstr "Näytä-välilehti"
+
+#: custom-post-types/tabs-post-type.php:12
+msgid "Add New Tab"
+msgstr "Lisää uusi välilehti"
+
+#: custom-post-types/tabs-post-type.php:14
+msgid "Edit Tab"
+msgstr "Muokkaa-välilehteen"
+
+#: custom-post-types/tabs-post-type.php:15
+msgid "Update Tab"
+msgstr "Päivitä välilehti"
+
+#: custom-post-types/tabs-post-type.php:16
+msgid "Search Tab"
+msgstr "Etsi-välilehti"
+
+#: custom-post-types/tabs-post-type.php:22
+msgid "liven_tabs"
+msgstr "liven_tabs"
+
+#: custom-post-types/tabs-post-type.php:23
+msgid "Tab"
+msgstr "Välilehti"
+
+#: custom-post-types/team-post-type.php:5
+msgctxt "Post Type General Name"
+msgid "Team Member"
+msgstr "Ryhmän jäsen"
+
+#: custom-post-types/team-post-type.php:6
+msgctxt "Post Type Singular Name"
+msgid "Team Member"
+msgstr "Ryhmän jäsen"
+
+#: custom-post-types/team-post-type.php:7
+#: include-element/liven_team_member.php:187
+msgid "Team Members"
+msgstr "tiimin jäsenet"
+
+#: custom-post-types/team-post-type.php:8
+msgid "Parent Team Member"
+msgstr "Ylemmän tason ryhmän jäsen"
+
+#: custom-post-types/team-post-type.php:9
+msgid "All Team Members"
+msgstr "tiimin jäsenet"
+
+#: custom-post-types/team-post-type.php:10
+msgid "View Team Member"
+msgstr "Ryhmän jäsen"
+
+#: custom-post-types/team-post-type.php:11
+msgid "Add New Team Member"
+msgstr "Lisää uusi tiimin jäsen"
+
+#: custom-post-types/team-post-type.php:13
+msgid "Edit Team Member"
+msgstr "Ryhmän jäsen"
+
+#: custom-post-types/team-post-type.php:14
+msgid "Update Team Member"
+msgstr "Päivitä jäsen"
+
+#: custom-post-types/team-post-type.php:15
+msgid "Search Team Member"
+msgstr "Hae jäseniä"
+
+#: custom-post-types/team-post-type.php:21
+msgid "liven_team"
+msgstr "liven_team"
+
+#: custom-post-types/team-post-type.php:22
+msgid "Team Member "
+msgstr "Ryhmän jäsen"
+
+#: custom-post-types/team-post-type.php:78
+#: custom-post-types/testimonial-post-type.php:74
+msgid "Designation:"
+msgstr "Titteli"
+
+#: custom-post-types/team-post-type.php:81
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: custom-post-types/team-post-type.php:84
+msgid "Twitter:"
+msgstr "Twitter"
+
+#: custom-post-types/team-post-type.php:87
+msgid "Google Plus:"
+msgstr "Google Plus"
+
+#: custom-post-types/team-post-type.php:90
+msgid "LinkedIn:"
+msgstr "Linkedin"
+
+#: custom-post-types/testimonial-post-type.php:5
+msgctxt "Post Type General Name"
+msgid "Testimonial"
+msgstr "Asiakaskommentti"
+
+#: custom-post-types/testimonial-post-type.php:6
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr "Asiakaskommentti"
+
+#: custom-post-types/testimonial-post-type.php:7
+#: include-element/liven_testimonial.php:440
+msgid "Testimonials"
+msgstr "Asiakkaiden mielipiteitä"
+
+#: custom-post-types/testimonial-post-type.php:8
+msgid "Parent Testimonial"
+msgstr "Vanhemman suosittelu"
+
+#: custom-post-types/testimonial-post-type.php:9
+msgid "All Testimonials"
+msgstr "Kaikki suositukset"
+
+#: custom-post-types/testimonial-post-type.php:10
+msgid "View Testimonial"
+msgstr "Näytä suosituksen tiedot"
+
+#: custom-post-types/testimonial-post-type.php:11
+msgid "Add New Testimonial"
+msgstr "Lisää uusi suositus"
+
+#: custom-post-types/testimonial-post-type.php:13
+msgid "Edit Testimonial"
+msgstr "Muokkaa suositusta"
+
+#: custom-post-types/testimonial-post-type.php:14
+msgid "Update Testimonial"
+msgstr "Päivitä suositusta"
+
+#: custom-post-types/testimonial-post-type.php:15
+msgid "Search Testimonial"
+msgstr "Etsi suosituksista"
+
+#: custom-post-types/testimonial-post-type.php:21
+msgid "liven_testimonial"
+msgstr "liven_testimonial"
+
+#: custom-post-types/testimonial-post-type.php:22
+msgid "Testimonial "
+msgstr "Asiakaskommentti"
+
+#: include-element/liven_accordian.php:99
+msgid "Liven Accordian"
+msgstr "Elävöittää haitarinsoitto"
+
+#: include-element/liven_accordian.php:105
+#: include-element/liven_alert_box.php:29 include-element/liven_box.php:99
+#: include-element/liven_button.php:96 include-element/liven_clients.php:120
+#: include-element/liven_contact_form.php:49
+#: include-element/liven_counter.php:64
+#: include-element/liven_diamond_services.php:136
+#: include-element/liven_gogle_map.php:32
+#: include-element/liven_icon_box.php:84
+#: include-element/liven_icon_box2.php:85 include-element/liven_list.php:104
+#: include-element/liven_paralax_with_content.php:155
+#: include-element/liven_popup.php:90 include-element/liven_portfolio.php:681
+#: include-element/liven_post_type_list.php:122
+#: include-element/liven_pricing_table.php:182
+#: include-element/liven_pricing_table.php:231
+#: include-element/liven_pricing_table_mc.php:113
+#: include-element/liven_pricing_table_mc.php:227
+#: include-element/liven_progressbar.php:77
+#: include-element/liven_revslider.php:78 include-element/liven_section.php:57
+#: include-element/liven_service.php:79 include-element/liven_slider.php:145
+#: include-element/liven_social_icons.php:63
+#: include-element/liven_table.php:50 include-element/liven_tabs.php:81
+#: include-element/liven_tag_cloud.php:78
+#: include-element/liven_team_member.php:182
+#: include-element/liven_testimonial.php:385
+#: include-element/liven_text_block.php:62
+msgid "Liven Extensions"
+msgstr "Elävöittää laajennukset"
+
+#: include-element/liven_accordian.php:109
+msgid "Accordian Display Style"
+msgstr "Haitarinsoitto tyyli"
+
+#: include-element/liven_accordian.php:113
+#: include-element/liven_diamond_services.php:145
+#: include-element/liven_paralax_with_content.php:164
+#: include-element/liven_portfolio.php:701
+#: include-element/liven_revslider.php:88 include-element/liven_service.php:88
+#: include-element/liven_team_member.php:215
+#: include-element/liven_testimonial.php:405
+#: include-element/liven_testimonial.php:419
+msgid "Style 1"
+msgstr "Tyyli 1"
+
+#: include-element/liven_accordian.php:114
+#: include-element/liven_diamond_services.php:146
+#: include-element/liven_paralax_with_content.php:165
+#: include-element/liven_portfolio.php:702
+#: include-element/liven_revslider.php:89 include-element/liven_service.php:89
+#: include-element/liven_team_member.php:216
+#: include-element/liven_testimonial.php:406
+#: include-element/liven_testimonial.php:420
+msgid "Style 2"
+msgstr "Tyyli 2"
+
+#: include-element/liven_accordian.php:119
+msgid "Accordian"
+msgstr "Accordian"
+
+#: include-element/liven_accordian.php:123
+msgid "Accordian Title 1"
+msgstr "Accordian osasto 1"
+
+#: include-element/liven_accordian.php:127
+msgid "Accordian Title 2"
+msgstr "Accordian osasto 2"
+
+#: include-element/liven_accordian.php:134
+msgid "Accordian Title"
+msgstr "Accordian otsikko"
+
+#: include-element/liven_accordian.php:136
+msgid "Enter individual accordian name."
+msgstr "Yksittäisten accordian nimi."
+
+#: include-element/liven_accordian.php:142
+msgid "Accordian Content"
+msgstr "Accordian sisältöä"
+
+#: include-element/liven_accordian.php:150
+#: include-element/liven_alert_box.php:53 include-element/liven_box.php:123
+#: include-element/liven_button.php:146 include-element/liven_clients.php:237
+#: include-element/liven_contact_form.php:63
+#: include-element/liven_counter.php:150
+#: include-element/liven_diamond_services.php:191
+#: include-element/liven_icon_box.php:131
+#: include-element/liven_icon_box2.php:141 include-element/liven_list.php:272
+#: include-element/liven_paralax_with_content.php:211
+#: include-element/liven_popup.php:114 include-element/liven_portfolio.php:746
+#: include-element/liven_post_type_list.php:152
+#: include-element/liven_pricing_table.php:307
+#: include-element/liven_pricing_table_mc.php:123
+#: include-element/liven_progressbar.php:158
+#: include-element/liven_section.php:131 include-element/liven_service.php:167
+#: include-element/liven_slider.php:252
+#: include-element/liven_social_icons.php:94
+#: include-element/liven_table.php:147 include-element/liven_tabs.php:111
+#: include-element/liven_tag_cloud.php:132
+#: include-element/liven_team_member.php:263
+#: include-element/liven_testimonial.php:473
+#: include-element/liven_text_block.php:177
+msgid "Apply Animation?"
+msgstr "Sovelletaan animaatio?"
+
+#: include-element/liven_accordian.php:155
+#: include-element/liven_alert_box.php:58 include-element/liven_box.php:128
+#: include-element/liven_button.php:152 include-element/liven_clients.php:242
+#: include-element/liven_contact_form.php:68
+#: include-element/liven_counter.php:155
+#: include-element/liven_diamond_services.php:196
+#: include-element/liven_icon_box.php:136
+#: include-element/liven_icon_box2.php:146 include-element/liven_list.php:277
+#: include-element/liven_paralax_with_content.php:216
+#: include-element/liven_popup.php:119 include-element/liven_portfolio.php:751
+#: include-element/liven_post_type_list.php:157
+#: include-element/liven_pricing_table.php:312
+#: include-element/liven_pricing_table_mc.php:128
+#: include-element/liven_progressbar.php:163
+#: include-element/liven_section.php:136 include-element/liven_service.php:172
+#: include-element/liven_slider.php:257
+#: include-element/liven_social_icons.php:99
+#: include-element/liven_table.php:152 include-element/liven_tabs.php:116
+#: include-element/liven_tag_cloud.php:137
+#: include-element/liven_team_member.php:268
+#: include-element/liven_testimonial.php:478
+#: include-element/liven_text_block.php:182
+msgid "CSS Animation"
+msgstr "CSS Animaatio"
+
+#: include-element/liven_accordian.php:156
+#: include-element/liven_alert_box.php:59 include-element/liven_box.php:129
+#: include-element/liven_button.php:153 include-element/liven_clients.php:243
+#: include-element/liven_contact_form.php:69
+#: include-element/liven_counter.php:140 include-element/liven_counter.php:156
+#: include-element/liven_diamond_services.php:197
+#: include-element/liven_icon_box.php:137
+#: include-element/liven_icon_box2.php:147 include-element/liven_list.php:278
+#: include-element/liven_paralax_with_content.php:217
+#: include-element/liven_popup.php:120 include-element/liven_portfolio.php:752
+#: include-element/liven_post_type_list.php:158
+#: include-element/liven_pricing_table.php:313
+#: include-element/liven_pricing_table_mc.php:129
+#: include-element/liven_progressbar.php:164
+#: include-element/liven_section.php:137 include-element/liven_service.php:173
+#: include-element/liven_slider.php:258
+#: include-element/liven_social_icons.php:100
+#: include-element/liven_table.php:153 include-element/liven_tabs.php:117
+#: include-element/liven_tag_cloud.php:138
+#: include-element/liven_team_member.php:269
+#: include-element/liven_testimonial.php:479
+#: include-element/liven_text_block.php:183
+msgid ""
+"Select type of animation for element to be animated when it \"enters\" the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+"Valitse tyyppi animaation elementin animoitu kun se \"siirtyy\" selaimet "
+"näkymän (Huom: toimii vain nykyaikaisissa selaimissa)."
+
+#: include-element/liven_accordian.php:164
+#: include-element/liven_alert_box.php:67 include-element/liven_box.php:137
+#: include-element/liven_button.php:162 include-element/liven_clients.php:251
+#: include-element/liven_contact_form.php:77
+#: include-element/liven_counter.php:164
+#: include-element/liven_diamond_services.php:205
+#: include-element/liven_icon_box.php:141
+#: include-element/liven_icon_box2.php:151 include-element/liven_list.php:286
+#: include-element/liven_paralax_with_content.php:225
+#: include-element/liven_popup.php:128 include-element/liven_portfolio.php:760
+#: include-element/liven_post_type_list.php:166
+#: include-element/liven_pricing_table.php:321
+#: include-element/liven_pricing_table_mc.php:133
+#: include-element/liven_progressbar.php:172
+#: include-element/liven_section.php:141 include-element/liven_service.php:181
+#: include-element/liven_slider.php:266
+#: include-element/liven_social_icons.php:104
+#: include-element/liven_table.php:161 include-element/liven_tabs.php:125
+#: include-element/liven_tag_cloud.php:142
+#: include-element/liven_team_member.php:277
+#: include-element/liven_testimonial.php:487
+#: include-element/liven_text_block.php:187
+msgid "Bounce"
+msgstr "Pomppiminen"
+
+#: include-element/liven_accordian.php:165
+#: include-element/liven_alert_box.php:68 include-element/liven_box.php:138
+#: include-element/liven_button.php:163 include-element/liven_clients.php:252
+#: include-element/liven_contact_form.php:78
+#: include-element/liven_counter.php:165
+#: include-element/liven_diamond_services.php:206
+#: include-element/liven_icon_box.php:142
+#: include-element/liven_icon_box2.php:152 include-element/liven_list.php:287
+#: include-element/liven_paralax_with_content.php:226
+#: include-element/liven_popup.php:129 include-element/liven_portfolio.php:761
+#: include-element/liven_post_type_list.php:167
+#: include-element/liven_pricing_table.php:322
+#: include-element/liven_pricing_table_mc.php:134
+#: include-element/liven_progressbar.php:173
+#: include-element/liven_section.php:142 include-element/liven_service.php:182
+#: include-element/liven_slider.php:267
+#: include-element/liven_social_icons.php:105
+#: include-element/liven_table.php:162 include-element/liven_tabs.php:126
+#: include-element/liven_tag_cloud.php:143
+#: include-element/liven_team_member.php:278
+#: include-element/liven_testimonial.php:488
+#: include-element/liven_text_block.php:188
+msgid "Flash"
+msgstr "Vilkkuva"
+
+#: include-element/liven_accordian.php:166
+#: include-element/liven_alert_box.php:69 include-element/liven_box.php:139
+#: include-element/liven_button.php:164 include-element/liven_clients.php:253
+#: include-element/liven_contact_form.php:79
+#: include-element/liven_counter.php:166
+#: include-element/liven_diamond_services.php:207
+#: include-element/liven_icon_box.php:143
+#: include-element/liven_icon_box2.php:153 include-element/liven_list.php:288
+#: include-element/liven_paralax_with_content.php:227
+#: include-element/liven_popup.php:130 include-element/liven_portfolio.php:762
+#: include-element/liven_post_type_list.php:168
+#: include-element/liven_pricing_table.php:323
+#: include-element/liven_pricing_table_mc.php:135
+#: include-element/liven_progressbar.php:174
+#: include-element/liven_section.php:143 include-element/liven_service.php:183
+#: include-element/liven_slider.php:268
+#: include-element/liven_social_icons.php:106
+#: include-element/liven_table.php:163 include-element/liven_tabs.php:127
+#: include-element/liven_tag_cloud.php:144
+#: include-element/liven_team_member.php:279
+#: include-element/liven_testimonial.php:489
+#: include-element/liven_text_block.php:189
+msgid "Pulse"
+msgstr "Sykkivä"
+
+#: include-element/liven_accordian.php:167
+#: include-element/liven_alert_box.php:70 include-element/liven_box.php:140
+#: include-element/liven_button.php:165 include-element/liven_clients.php:254
+#: include-element/liven_contact_form.php:80
+#: include-element/liven_counter.php:167
+#: include-element/liven_diamond_services.php:208
+#: include-element/liven_icon_box.php:144
+#: include-element/liven_icon_box2.php:154 include-element/liven_list.php:289
+#: include-element/liven_paralax_with_content.php:228
+#: include-element/liven_popup.php:131 include-element/liven_portfolio.php:763
+#: include-element/liven_post_type_list.php:169
+#: include-element/liven_pricing_table.php:324
+#: include-element/liven_pricing_table_mc.php:136
+#: include-element/liven_progressbar.php:175
+#: include-element/liven_section.php:144 include-element/liven_service.php:184
+#: include-element/liven_slider.php:269
+#: include-element/liven_social_icons.php:107
+#: include-element/liven_table.php:164 include-element/liven_tabs.php:128
+#: include-element/liven_tag_cloud.php:145
+#: include-element/liven_team_member.php:280
+#: include-element/liven_testimonial.php:490
+#: include-element/liven_text_block.php:190
+msgid "Rubber Band"
+msgstr "Kuminauha"
+
+#: include-element/liven_accordian.php:168
+#: include-element/liven_alert_box.php:71 include-element/liven_box.php:141
+#: include-element/liven_button.php:166 include-element/liven_clients.php:255
+#: include-element/liven_contact_form.php:81
+#: include-element/liven_counter.php:168
+#: include-element/liven_diamond_services.php:209
+#: include-element/liven_icon_box.php:145
+#: include-element/liven_icon_box2.php:155 include-element/liven_list.php:290
+#: include-element/liven_paralax_with_content.php:229
+#: include-element/liven_popup.php:132 include-element/liven_portfolio.php:764
+#: include-element/liven_post_type_list.php:170
+#: include-element/liven_pricing_table.php:325
+#: include-element/liven_pricing_table_mc.php:137
+#: include-element/liven_progressbar.php:176
+#: include-element/liven_section.php:145 include-element/liven_service.php:185
+#: include-element/liven_slider.php:270
+#: include-element/liven_social_icons.php:108
+#: include-element/liven_table.php:165 include-element/liven_tabs.php:129
+#: include-element/liven_tag_cloud.php:146
+#: include-element/liven_team_member.php:281
+#: include-element/liven_testimonial.php:491
+#: include-element/liven_text_block.php:191
+msgid "Shake"
+msgstr "Ravistus"
+
+#: include-element/liven_accordian.php:169
+#: include-element/liven_alert_box.php:72 include-element/liven_box.php:142
+#: include-element/liven_button.php:167 include-element/liven_clients.php:256
+#: include-element/liven_contact_form.php:82
+#: include-element/liven_counter.php:169
+#: include-element/liven_diamond_services.php:210
+#: include-element/liven_icon_box.php:146
+#: include-element/liven_icon_box2.php:156 include-element/liven_list.php:291
+#: include-element/liven_paralax_with_content.php:230
+#: include-element/liven_popup.php:133 include-element/liven_portfolio.php:765
+#: include-element/liven_post_type_list.php:171
+#: include-element/liven_pricing_table.php:326
+#: include-element/liven_pricing_table_mc.php:138
+#: include-element/liven_progressbar.php:177
+#: include-element/liven_section.php:146 include-element/liven_service.php:186
+#: include-element/liven_slider.php:271
+#: include-element/liven_social_icons.php:109
+#: include-element/liven_table.php:166 include-element/liven_tabs.php:130
+#: include-element/liven_tag_cloud.php:147
+#: include-element/liven_team_member.php:282
+#: include-element/liven_testimonial.php:492
+#: include-element/liven_text_block.php:192
+msgid "Swing"
+msgstr "Keinuva"
+
+#: include-element/liven_accordian.php:170
+#: include-element/liven_alert_box.php:73 include-element/liven_box.php:143
+#: include-element/liven_button.php:168 include-element/liven_clients.php:257
+#: include-element/liven_contact_form.php:83
+#: include-element/liven_counter.php:170
+#: include-element/liven_diamond_services.php:211
+#: include-element/liven_icon_box.php:147
+#: include-element/liven_icon_box2.php:157 include-element/liven_list.php:292
+#: include-element/liven_paralax_with_content.php:231
+#: include-element/liven_popup.php:134 include-element/liven_portfolio.php:766
+#: include-element/liven_post_type_list.php:172
+#: include-element/liven_pricing_table.php:327
+#: include-element/liven_pricing_table_mc.php:139
+#: include-element/liven_progressbar.php:178
+#: include-element/liven_section.php:147 include-element/liven_service.php:187
+#: include-element/liven_slider.php:272
+#: include-element/liven_social_icons.php:110
+#: include-element/liven_table.php:167 include-element/liven_tabs.php:131
+#: include-element/liven_tag_cloud.php:148
+#: include-element/liven_team_member.php:283
+#: include-element/liven_testimonial.php:493
+#: include-element/liven_text_block.php:193
+msgid "Tada"
+msgstr "Tadaa"
+
+#: include-element/liven_accordian.php:171
+#: include-element/liven_alert_box.php:74 include-element/liven_box.php:144
+#: include-element/liven_button.php:169 include-element/liven_clients.php:258
+#: include-element/liven_contact_form.php:84
+#: include-element/liven_counter.php:171
+#: include-element/liven_diamond_services.php:212
+#: include-element/liven_icon_box.php:148
+#: include-element/liven_icon_box2.php:158 include-element/liven_list.php:293
+#: include-element/liven_paralax_with_content.php:232
+#: include-element/liven_popup.php:135 include-element/liven_portfolio.php:767
+#: include-element/liven_post_type_list.php:173
+#: include-element/liven_pricing_table.php:328
+#: include-element/liven_pricing_table_mc.php:140
+#: include-element/liven_progressbar.php:179
+#: include-element/liven_section.php:148 include-element/liven_service.php:188
+#: include-element/liven_slider.php:273
+#: include-element/liven_social_icons.php:111
+#: include-element/liven_table.php:168 include-element/liven_tabs.php:132
+#: include-element/liven_tag_cloud.php:149
+#: include-element/liven_team_member.php:284
+#: include-element/liven_testimonial.php:494
+#: include-element/liven_text_block.php:194
+msgid "Wobble"
+msgstr "Vaappuva"
+
+#: include-element/liven_accordian.php:172
+#: include-element/liven_alert_box.php:75 include-element/liven_box.php:145
+#: include-element/liven_button.php:170 include-element/liven_clients.php:259
+#: include-element/liven_contact_form.php:85
+#: include-element/liven_counter.php:172
+#: include-element/liven_diamond_services.php:213
+#: include-element/liven_icon_box.php:149
+#: include-element/liven_icon_box2.php:159 include-element/liven_list.php:294
+#: include-element/liven_paralax_with_content.php:233
+#: include-element/liven_popup.php:136 include-element/liven_portfolio.php:768
+#: include-element/liven_post_type_list.php:174
+#: include-element/liven_pricing_table.php:329
+#: include-element/liven_pricing_table_mc.php:141
+#: include-element/liven_progressbar.php:180
+#: include-element/liven_section.php:149 include-element/liven_service.php:189
+#: include-element/liven_slider.php:274
+#: include-element/liven_social_icons.php:112
+#: include-element/liven_table.php:169 include-element/liven_tabs.php:133
+#: include-element/liven_tag_cloud.php:150
+#: include-element/liven_team_member.php:285
+#: include-element/liven_testimonial.php:495
+#: include-element/liven_text_block.php:195
+msgid "Bounce In"
+msgstr "Pomppii sisään"
+
+#: include-element/liven_accordian.php:173
+#: include-element/liven_alert_box.php:76 include-element/liven_box.php:146
+#: include-element/liven_button.php:171 include-element/liven_clients.php:260
+#: include-element/liven_contact_form.php:86
+#: include-element/liven_counter.php:173
+#: include-element/liven_diamond_services.php:214
+#: include-element/liven_icon_box.php:150
+#: include-element/liven_icon_box2.php:160 include-element/liven_list.php:295
+#: include-element/liven_paralax_with_content.php:234
+#: include-element/liven_popup.php:137 include-element/liven_portfolio.php:769
+#: include-element/liven_post_type_list.php:175
+#: include-element/liven_pricing_table.php:330
+#: include-element/liven_pricing_table_mc.php:142
+#: include-element/liven_progressbar.php:181
+#: include-element/liven_section.php:150 include-element/liven_service.php:190
+#: include-element/liven_slider.php:275
+#: include-element/liven_social_icons.php:113
+#: include-element/liven_table.php:170 include-element/liven_tabs.php:134
+#: include-element/liven_tag_cloud.php:151
+#: include-element/liven_team_member.php:286
+#: include-element/liven_testimonial.php:496
+#: include-element/liven_text_block.php:196
+msgid "Bounce In Down"
+msgstr "Pomppii alas"
+
+#: include-element/liven_accordian.php:174
+#: include-element/liven_alert_box.php:77 include-element/liven_box.php:147
+#: include-element/liven_button.php:172 include-element/liven_clients.php:261
+#: include-element/liven_contact_form.php:87
+#: include-element/liven_counter.php:174
+#: include-element/liven_diamond_services.php:215
+#: include-element/liven_icon_box.php:151
+#: include-element/liven_icon_box2.php:161 include-element/liven_list.php:296
+#: include-element/liven_paralax_with_content.php:235
+#: include-element/liven_popup.php:138 include-element/liven_portfolio.php:770
+#: include-element/liven_post_type_list.php:176
+#: include-element/liven_pricing_table.php:331
+#: include-element/liven_pricing_table_mc.php:143
+#: include-element/liven_progressbar.php:182
+#: include-element/liven_section.php:151 include-element/liven_service.php:191
+#: include-element/liven_slider.php:276
+#: include-element/liven_social_icons.php:114
+#: include-element/liven_table.php:171 include-element/liven_tabs.php:135
+#: include-element/liven_tag_cloud.php:152
+#: include-element/liven_team_member.php:287
+#: include-element/liven_testimonial.php:497
+#: include-element/liven_text_block.php:197
+msgid "Bounde In Left"
+msgstr "Bounde vasemmassa"
+
+#: include-element/liven_accordian.php:175
+#: include-element/liven_alert_box.php:78 include-element/liven_box.php:148
+#: include-element/liven_button.php:173 include-element/liven_clients.php:262
+#: include-element/liven_contact_form.php:88
+#: include-element/liven_counter.php:175
+#: include-element/liven_diamond_services.php:216
+#: include-element/liven_icon_box.php:152
+#: include-element/liven_icon_box2.php:162 include-element/liven_list.php:297
+#: include-element/liven_paralax_with_content.php:236
+#: include-element/liven_popup.php:139 include-element/liven_portfolio.php:771
+#: include-element/liven_post_type_list.php:177
+#: include-element/liven_pricing_table.php:332
+#: include-element/liven_pricing_table_mc.php:144
+#: include-element/liven_progressbar.php:183
+#: include-element/liven_section.php:152 include-element/liven_service.php:192
+#: include-element/liven_slider.php:277
+#: include-element/liven_social_icons.php:115
+#: include-element/liven_table.php:172 include-element/liven_tabs.php:136
+#: include-element/liven_tag_cloud.php:153
+#: include-element/liven_team_member.php:288
+#: include-element/liven_testimonial.php:498
+#: include-element/liven_text_block.php:198
+msgid "Bounce In Right"
+msgstr "Pomppii oikealle"
+
+#: include-element/liven_accordian.php:176
+#: include-element/liven_alert_box.php:79 include-element/liven_box.php:149
+#: include-element/liven_button.php:174 include-element/liven_clients.php:263
+#: include-element/liven_contact_form.php:89
+#: include-element/liven_counter.php:176
+#: include-element/liven_diamond_services.php:217
+#: include-element/liven_icon_box.php:153
+#: include-element/liven_icon_box2.php:163 include-element/liven_list.php:298
+#: include-element/liven_paralax_with_content.php:237
+#: include-element/liven_popup.php:140 include-element/liven_portfolio.php:772
+#: include-element/liven_post_type_list.php:178
+#: include-element/liven_pricing_table.php:333
+#: include-element/liven_pricing_table_mc.php:145
+#: include-element/liven_progressbar.php:184
+#: include-element/liven_section.php:153 include-element/liven_service.php:193
+#: include-element/liven_slider.php:278
+#: include-element/liven_social_icons.php:116
+#: include-element/liven_table.php:173 include-element/liven_tabs.php:137
+#: include-element/liven_tag_cloud.php:154
+#: include-element/liven_team_member.php:289
+#: include-element/liven_testimonial.php:499
+#: include-element/liven_text_block.php:199
+msgid "Bounce In Up"
+msgstr "Pomppii ylös"
+
+#: include-element/liven_accordian.php:177
+#: include-element/liven_alert_box.php:80 include-element/liven_box.php:150
+#: include-element/liven_button.php:175 include-element/liven_clients.php:264
+#: include-element/liven_contact_form.php:90
+#: include-element/liven_counter.php:177
+#: include-element/liven_diamond_services.php:218
+#: include-element/liven_icon_box.php:154
+#: include-element/liven_icon_box2.php:164 include-element/liven_list.php:299
+#: include-element/liven_paralax_with_content.php:238
+#: include-element/liven_popup.php:141 include-element/liven_portfolio.php:773
+#: include-element/liven_post_type_list.php:179
+#: include-element/liven_pricing_table.php:334
+#: include-element/liven_pricing_table_mc.php:146
+#: include-element/liven_progressbar.php:185
+#: include-element/liven_section.php:154 include-element/liven_service.php:194
+#: include-element/liven_slider.php:279
+#: include-element/liven_social_icons.php:117
+#: include-element/liven_table.php:174 include-element/liven_tabs.php:138
+#: include-element/liven_tag_cloud.php:155
+#: include-element/liven_team_member.php:290
+#: include-element/liven_testimonial.php:500
+#: include-element/liven_text_block.php:200
+msgid "Bounce Out"
+msgstr "Pompi pois"
+
+#: include-element/liven_accordian.php:178
+#: include-element/liven_alert_box.php:81 include-element/liven_box.php:151
+#: include-element/liven_button.php:176 include-element/liven_clients.php:265
+#: include-element/liven_contact_form.php:91
+#: include-element/liven_counter.php:178
+#: include-element/liven_diamond_services.php:219
+#: include-element/liven_icon_box.php:155
+#: include-element/liven_icon_box2.php:165 include-element/liven_list.php:300
+#: include-element/liven_paralax_with_content.php:239
+#: include-element/liven_popup.php:142 include-element/liven_portfolio.php:774
+#: include-element/liven_post_type_list.php:180
+#: include-element/liven_pricing_table.php:335
+#: include-element/liven_pricing_table_mc.php:147
+#: include-element/liven_progressbar.php:186
+#: include-element/liven_section.php:155 include-element/liven_service.php:195
+#: include-element/liven_slider.php:280
+#: include-element/liven_social_icons.php:118
+#: include-element/liven_table.php:175 include-element/liven_tabs.php:139
+#: include-element/liven_tag_cloud.php:156
+#: include-element/liven_team_member.php:291
+#: include-element/liven_testimonial.php:501
+#: include-element/liven_text_block.php:201
+msgid "Bounce Out Down"
+msgstr "Pompi pois"
+
+#: include-element/liven_accordian.php:179
+#: include-element/liven_alert_box.php:82 include-element/liven_box.php:152
+#: include-element/liven_button.php:177 include-element/liven_clients.php:266
+#: include-element/liven_contact_form.php:92
+#: include-element/liven_counter.php:179
+#: include-element/liven_diamond_services.php:220
+#: include-element/liven_icon_box.php:156
+#: include-element/liven_icon_box2.php:166 include-element/liven_list.php:301
+#: include-element/liven_paralax_with_content.php:240
+#: include-element/liven_popup.php:143 include-element/liven_portfolio.php:775
+#: include-element/liven_post_type_list.php:181
+#: include-element/liven_pricing_table.php:336
+#: include-element/liven_pricing_table_mc.php:148
+#: include-element/liven_progressbar.php:187
+#: include-element/liven_section.php:156 include-element/liven_service.php:196
+#: include-element/liven_slider.php:281
+#: include-element/liven_social_icons.php:119
+#: include-element/liven_table.php:176 include-element/liven_tabs.php:140
+#: include-element/liven_tag_cloud.php:157
+#: include-element/liven_team_member.php:292
+#: include-element/liven_testimonial.php:502
+#: include-element/liven_text_block.php:202
+msgid "Bounce Out Left"
+msgstr "Pompi pois"
+
+#: include-element/liven_accordian.php:180
+#: include-element/liven_alert_box.php:83 include-element/liven_box.php:153
+#: include-element/liven_button.php:178 include-element/liven_clients.php:267
+#: include-element/liven_contact_form.php:93
+#: include-element/liven_counter.php:180
+#: include-element/liven_diamond_services.php:221
+#: include-element/liven_icon_box.php:157
+#: include-element/liven_icon_box2.php:167 include-element/liven_list.php:302
+#: include-element/liven_paralax_with_content.php:241
+#: include-element/liven_popup.php:144 include-element/liven_portfolio.php:776
+#: include-element/liven_post_type_list.php:182
+#: include-element/liven_pricing_table.php:337
+#: include-element/liven_pricing_table_mc.php:149
+#: include-element/liven_progressbar.php:188
+#: include-element/liven_section.php:157 include-element/liven_service.php:197
+#: include-element/liven_slider.php:282
+#: include-element/liven_social_icons.php:120
+#: include-element/liven_table.php:177 include-element/liven_tabs.php:141
+#: include-element/liven_tag_cloud.php:158
+#: include-element/liven_team_member.php:293
+#: include-element/liven_testimonial.php:503
+#: include-element/liven_text_block.php:203
+msgid "Bounce Out Right"
+msgstr "Bounce, oikea"
+
+#: include-element/liven_accordian.php:181
+#: include-element/liven_alert_box.php:84 include-element/liven_box.php:154
+#: include-element/liven_button.php:179 include-element/liven_clients.php:268
+#: include-element/liven_contact_form.php:94
+#: include-element/liven_counter.php:181
+#: include-element/liven_diamond_services.php:222
+#: include-element/liven_icon_box.php:158
+#: include-element/liven_icon_box2.php:168 include-element/liven_list.php:303
+#: include-element/liven_paralax_with_content.php:242
+#: include-element/liven_popup.php:145 include-element/liven_portfolio.php:777
+#: include-element/liven_post_type_list.php:183
+#: include-element/liven_pricing_table.php:338
+#: include-element/liven_pricing_table_mc.php:150
+#: include-element/liven_progressbar.php:189
+#: include-element/liven_section.php:158 include-element/liven_service.php:198
+#: include-element/liven_slider.php:283
+#: include-element/liven_social_icons.php:121
+#: include-element/liven_table.php:178 include-element/liven_tabs.php:142
+#: include-element/liven_tag_cloud.php:159
+#: include-element/liven_team_member.php:294
+#: include-element/liven_testimonial.php:504
+#: include-element/liven_text_block.php:204
+msgid "Bounce Out Up"
+msgstr "Pompi pois"
+
+#: include-element/liven_accordian.php:182
+#: include-element/liven_alert_box.php:85 include-element/liven_box.php:155
+#: include-element/liven_button.php:180 include-element/liven_clients.php:269
+#: include-element/liven_contact_form.php:95
+#: include-element/liven_counter.php:182
+#: include-element/liven_diamond_services.php:223
+#: include-element/liven_icon_box.php:159
+#: include-element/liven_icon_box2.php:169 include-element/liven_list.php:304
+#: include-element/liven_paralax_with_content.php:243
+#: include-element/liven_popup.php:146 include-element/liven_portfolio.php:778
+#: include-element/liven_post_type_list.php:184
+#: include-element/liven_pricing_table.php:339
+#: include-element/liven_pricing_table_mc.php:151
+#: include-element/liven_progressbar.php:190
+#: include-element/liven_section.php:159 include-element/liven_service.php:199
+#: include-element/liven_slider.php:284
+#: include-element/liven_social_icons.php:122
+#: include-element/liven_table.php:179 include-element/liven_tabs.php:143
+#: include-element/liven_tag_cloud.php:160
+#: include-element/liven_team_member.php:295
+#: include-element/liven_testimonial.php:505
+#: include-element/liven_text_block.php:205
+msgid "Fade In"
+msgstr "Häivytä"
+
+#: include-element/liven_accordian.php:183
+#: include-element/liven_alert_box.php:86 include-element/liven_box.php:156
+#: include-element/liven_button.php:181 include-element/liven_clients.php:270
+#: include-element/liven_contact_form.php:96
+#: include-element/liven_counter.php:183
+#: include-element/liven_diamond_services.php:224
+#: include-element/liven_icon_box.php:160
+#: include-element/liven_icon_box2.php:170 include-element/liven_list.php:305
+#: include-element/liven_paralax_with_content.php:244
+#: include-element/liven_popup.php:147 include-element/liven_portfolio.php:779
+#: include-element/liven_post_type_list.php:185
+#: include-element/liven_pricing_table.php:340
+#: include-element/liven_pricing_table_mc.php:152
+#: include-element/liven_progressbar.php:191
+#: include-element/liven_section.php:160 include-element/liven_service.php:200
+#: include-element/liven_slider.php:285
+#: include-element/liven_social_icons.php:123
+#: include-element/liven_table.php:180 include-element/liven_tabs.php:144
+#: include-element/liven_tag_cloud.php:161
+#: include-element/liven_team_member.php:296
+#: include-element/liven_testimonial.php:506
+#: include-element/liven_text_block.php:206
+msgid "Fade In Down"
+msgstr "Häivytä sisään alas"
+
+#: include-element/liven_accordian.php:184
+#: include-element/liven_alert_box.php:87 include-element/liven_box.php:157
+#: include-element/liven_button.php:182 include-element/liven_clients.php:271
+#: include-element/liven_contact_form.php:97
+#: include-element/liven_counter.php:184
+#: include-element/liven_diamond_services.php:225
+#: include-element/liven_icon_box.php:161
+#: include-element/liven_icon_box2.php:171 include-element/liven_list.php:306
+#: include-element/liven_paralax_with_content.php:245
+#: include-element/liven_popup.php:148 include-element/liven_portfolio.php:780
+#: include-element/liven_post_type_list.php:186
+#: include-element/liven_pricing_table.php:341
+#: include-element/liven_pricing_table_mc.php:153
+#: include-element/liven_progressbar.php:192
+#: include-element/liven_section.php:161 include-element/liven_service.php:201
+#: include-element/liven_slider.php:286
+#: include-element/liven_social_icons.php:124
+#: include-element/liven_table.php:181 include-element/liven_tabs.php:145
+#: include-element/liven_tag_cloud.php:162
+#: include-element/liven_team_member.php:297
+#: include-element/liven_testimonial.php:507
+#: include-element/liven_text_block.php:207
+msgid "Fade In Down Big"
+msgstr "Häivytä sisään alas"
+
+#: include-element/liven_accordian.php:185
+#: include-element/liven_alert_box.php:88 include-element/liven_box.php:158
+#: include-element/liven_button.php:183 include-element/liven_clients.php:272
+#: include-element/liven_contact_form.php:98
+#: include-element/liven_counter.php:185
+#: include-element/liven_diamond_services.php:226
+#: include-element/liven_icon_box.php:162
+#: include-element/liven_icon_box2.php:172 include-element/liven_list.php:307
+#: include-element/liven_paralax_with_content.php:246
+#: include-element/liven_popup.php:149 include-element/liven_portfolio.php:781
+#: include-element/liven_post_type_list.php:187
+#: include-element/liven_pricing_table.php:342
+#: include-element/liven_pricing_table_mc.php:154
+#: include-element/liven_progressbar.php:193
+#: include-element/liven_section.php:162 include-element/liven_service.php:202
+#: include-element/liven_slider.php:287
+#: include-element/liven_social_icons.php:125
+#: include-element/liven_table.php:182 include-element/liven_tabs.php:146
+#: include-element/liven_tag_cloud.php:163
+#: include-element/liven_team_member.php:298
+#: include-element/liven_testimonial.php:508
+#: include-element/liven_text_block.php:208
+msgid "Fade In Left"
+msgstr "Häivytä sisään vasen"
+
+#: include-element/liven_accordian.php:186
+#: include-element/liven_alert_box.php:89 include-element/liven_box.php:159
+#: include-element/liven_button.php:184 include-element/liven_clients.php:273
+#: include-element/liven_contact_form.php:99
+#: include-element/liven_counter.php:186
+#: include-element/liven_diamond_services.php:227
+#: include-element/liven_icon_box.php:163
+#: include-element/liven_icon_box2.php:173 include-element/liven_list.php:308
+#: include-element/liven_paralax_with_content.php:247
+#: include-element/liven_popup.php:150 include-element/liven_portfolio.php:782
+#: include-element/liven_post_type_list.php:188
+#: include-element/liven_pricing_table.php:343
+#: include-element/liven_pricing_table_mc.php:155
+#: include-element/liven_progressbar.php:194
+#: include-element/liven_section.php:163 include-element/liven_service.php:203
+#: include-element/liven_slider.php:288
+#: include-element/liven_social_icons.php:126
+#: include-element/liven_table.php:183 include-element/liven_tabs.php:147
+#: include-element/liven_tag_cloud.php:164
+#: include-element/liven_team_member.php:299
+#: include-element/liven_testimonial.php:509
+#: include-element/liven_text_block.php:209
+msgid "Fade In Left Big"
+msgstr "Häivytä sisään vasen"
+
+#: include-element/liven_accordian.php:187
+#: include-element/liven_alert_box.php:90 include-element/liven_box.php:160
+#: include-element/liven_button.php:185 include-element/liven_clients.php:274
+#: include-element/liven_contact_form.php:100
+#: include-element/liven_counter.php:187
+#: include-element/liven_diamond_services.php:228
+#: include-element/liven_icon_box.php:164
+#: include-element/liven_icon_box2.php:174 include-element/liven_list.php:309
+#: include-element/liven_paralax_with_content.php:248
+#: include-element/liven_popup.php:151 include-element/liven_portfolio.php:783
+#: include-element/liven_post_type_list.php:189
+#: include-element/liven_pricing_table.php:344
+#: include-element/liven_pricing_table_mc.php:156
+#: include-element/liven_progressbar.php:195
+#: include-element/liven_section.php:164 include-element/liven_service.php:204
+#: include-element/liven_slider.php:289
+#: include-element/liven_social_icons.php:127
+#: include-element/liven_table.php:184 include-element/liven_tabs.php:148
+#: include-element/liven_tag_cloud.php:165
+#: include-element/liven_team_member.php:300
+#: include-element/liven_testimonial.php:510
+#: include-element/liven_text_block.php:210
+msgid "Fade In Right"
+msgstr "Häivytä sisään oikea"
+
+#: include-element/liven_accordian.php:188
+#: include-element/liven_alert_box.php:91 include-element/liven_box.php:161
+#: include-element/liven_button.php:186 include-element/liven_clients.php:275
+#: include-element/liven_contact_form.php:101
+#: include-element/liven_counter.php:188
+#: include-element/liven_diamond_services.php:229
+#: include-element/liven_icon_box.php:165
+#: include-element/liven_icon_box2.php:175 include-element/liven_list.php:310
+#: include-element/liven_paralax_with_content.php:249
+#: include-element/liven_popup.php:152 include-element/liven_portfolio.php:784
+#: include-element/liven_post_type_list.php:190
+#: include-element/liven_pricing_table.php:345
+#: include-element/liven_pricing_table_mc.php:157
+#: include-element/liven_progressbar.php:196
+#: include-element/liven_section.php:165 include-element/liven_service.php:205
+#: include-element/liven_slider.php:290
+#: include-element/liven_social_icons.php:128
+#: include-element/liven_table.php:185 include-element/liven_tabs.php:149
+#: include-element/liven_tag_cloud.php:166
+#: include-element/liven_team_member.php:301
+#: include-element/liven_testimonial.php:511
+#: include-element/liven_text_block.php:211
+msgid "Fade In Right Big"
+msgstr "Häivytä sisään oikea"
+
+#: include-element/liven_accordian.php:189
+#: include-element/liven_alert_box.php:92 include-element/liven_box.php:162
+#: include-element/liven_button.php:187 include-element/liven_clients.php:276
+#: include-element/liven_contact_form.php:102
+#: include-element/liven_counter.php:189
+#: include-element/liven_diamond_services.php:230
+#: include-element/liven_icon_box.php:166
+#: include-element/liven_icon_box2.php:176 include-element/liven_list.php:311
+#: include-element/liven_paralax_with_content.php:250
+#: include-element/liven_popup.php:153 include-element/liven_portfolio.php:785
+#: include-element/liven_post_type_list.php:191
+#: include-element/liven_pricing_table.php:346
+#: include-element/liven_pricing_table_mc.php:158
+#: include-element/liven_progressbar.php:197
+#: include-element/liven_section.php:166 include-element/liven_service.php:206
+#: include-element/liven_slider.php:291
+#: include-element/liven_social_icons.php:129
+#: include-element/liven_table.php:186 include-element/liven_tabs.php:150
+#: include-element/liven_tag_cloud.php:167
+#: include-element/liven_team_member.php:302
+#: include-element/liven_testimonial.php:512
+#: include-element/liven_text_block.php:212
+msgid "Fade In Up"
+msgstr "Häivytä sisään ylös"
+
+#: include-element/liven_accordian.php:190
+#: include-element/liven_alert_box.php:93 include-element/liven_box.php:163
+#: include-element/liven_button.php:188 include-element/liven_clients.php:277
+#: include-element/liven_contact_form.php:103
+#: include-element/liven_counter.php:190
+#: include-element/liven_diamond_services.php:231
+#: include-element/liven_icon_box.php:167
+#: include-element/liven_icon_box2.php:177 include-element/liven_list.php:312
+#: include-element/liven_paralax_with_content.php:251
+#: include-element/liven_popup.php:154 include-element/liven_portfolio.php:786
+#: include-element/liven_post_type_list.php:192
+#: include-element/liven_pricing_table.php:347
+#: include-element/liven_pricing_table_mc.php:159
+#: include-element/liven_progressbar.php:198
+#: include-element/liven_section.php:167 include-element/liven_service.php:207
+#: include-element/liven_slider.php:292
+#: include-element/liven_social_icons.php:130
+#: include-element/liven_table.php:187 include-element/liven_tabs.php:151
+#: include-element/liven_tag_cloud.php:168
+#: include-element/liven_team_member.php:303
+#: include-element/liven_testimonial.php:513
+#: include-element/liven_text_block.php:213
+msgid "Fade In Up Big"
+msgstr "Häivytä sisään ylös"
+
+#: include-element/liven_accordian.php:191
+#: include-element/liven_alert_box.php:94 include-element/liven_box.php:164
+#: include-element/liven_button.php:189 include-element/liven_clients.php:278
+#: include-element/liven_contact_form.php:104
+#: include-element/liven_counter.php:191
+#: include-element/liven_diamond_services.php:232
+#: include-element/liven_icon_box.php:168
+#: include-element/liven_icon_box2.php:178 include-element/liven_list.php:313
+#: include-element/liven_paralax_with_content.php:252
+#: include-element/liven_popup.php:155 include-element/liven_portfolio.php:787
+#: include-element/liven_post_type_list.php:193
+#: include-element/liven_pricing_table.php:348
+#: include-element/liven_pricing_table_mc.php:160
+#: include-element/liven_progressbar.php:199
+#: include-element/liven_section.php:168 include-element/liven_service.php:208
+#: include-element/liven_slider.php:293
+#: include-element/liven_social_icons.php:131
+#: include-element/liven_table.php:188 include-element/liven_tabs.php:152
+#: include-element/liven_tag_cloud.php:169
+#: include-element/liven_team_member.php:304
+#: include-element/liven_testimonial.php:514
+#: include-element/liven_text_block.php:214
+msgid "Fade Out"
+msgstr "Häivytä pois"
+
+#: include-element/liven_accordian.php:192
+#: include-element/liven_alert_box.php:95 include-element/liven_box.php:165
+#: include-element/liven_button.php:190 include-element/liven_clients.php:279
+#: include-element/liven_contact_form.php:105
+#: include-element/liven_counter.php:192
+#: include-element/liven_diamond_services.php:233
+#: include-element/liven_icon_box.php:169
+#: include-element/liven_icon_box2.php:179 include-element/liven_list.php:314
+#: include-element/liven_paralax_with_content.php:253
+#: include-element/liven_popup.php:156 include-element/liven_portfolio.php:788
+#: include-element/liven_post_type_list.php:194
+#: include-element/liven_pricing_table.php:349
+#: include-element/liven_pricing_table_mc.php:161
+#: include-element/liven_progressbar.php:200
+#: include-element/liven_section.php:169 include-element/liven_service.php:209
+#: include-element/liven_slider.php:294
+#: include-element/liven_social_icons.php:132
+#: include-element/liven_table.php:189 include-element/liven_tabs.php:153
+#: include-element/liven_tag_cloud.php:170
+#: include-element/liven_team_member.php:305
+#: include-element/liven_testimonial.php:515
+#: include-element/liven_text_block.php:215
+msgid "Fade Out Down"
+msgstr "Häivytä alas"
+
+#: include-element/liven_accordian.php:193
+#: include-element/liven_alert_box.php:96 include-element/liven_box.php:166
+#: include-element/liven_button.php:191 include-element/liven_clients.php:280
+#: include-element/liven_contact_form.php:106
+#: include-element/liven_counter.php:193
+#: include-element/liven_diamond_services.php:234
+#: include-element/liven_icon_box.php:170
+#: include-element/liven_icon_box2.php:180 include-element/liven_list.php:315
+#: include-element/liven_paralax_with_content.php:254
+#: include-element/liven_popup.php:157 include-element/liven_portfolio.php:789
+#: include-element/liven_post_type_list.php:195
+#: include-element/liven_pricing_table.php:350
+#: include-element/liven_pricing_table_mc.php:162
+#: include-element/liven_progressbar.php:201
+#: include-element/liven_section.php:170 include-element/liven_service.php:210
+#: include-element/liven_slider.php:295
+#: include-element/liven_social_icons.php:133
+#: include-element/liven_table.php:190 include-element/liven_tabs.php:154
+#: include-element/liven_tag_cloud.php:171
+#: include-element/liven_team_member.php:306
+#: include-element/liven_testimonial.php:516
+#: include-element/liven_text_block.php:216
+msgid "Fade Out Down Big"
+msgstr "Häivytä alas"
+
+#: include-element/liven_accordian.php:194
+#: include-element/liven_alert_box.php:97 include-element/liven_box.php:167
+#: include-element/liven_button.php:192 include-element/liven_clients.php:281
+#: include-element/liven_contact_form.php:107
+#: include-element/liven_counter.php:194
+#: include-element/liven_diamond_services.php:235
+#: include-element/liven_icon_box.php:171
+#: include-element/liven_icon_box2.php:181 include-element/liven_list.php:316
+#: include-element/liven_paralax_with_content.php:255
+#: include-element/liven_popup.php:158 include-element/liven_portfolio.php:790
+#: include-element/liven_post_type_list.php:196
+#: include-element/liven_pricing_table.php:351
+#: include-element/liven_pricing_table_mc.php:163
+#: include-element/liven_progressbar.php:202
+#: include-element/liven_section.php:171 include-element/liven_service.php:211
+#: include-element/liven_slider.php:296
+#: include-element/liven_social_icons.php:134
+#: include-element/liven_table.php:191 include-element/liven_tabs.php:155
+#: include-element/liven_tag_cloud.php:172
+#: include-element/liven_team_member.php:307
+#: include-element/liven_testimonial.php:517
+#: include-element/liven_text_block.php:217
+msgid "Fade Out Left"
+msgstr "Häivytä vasemmalle"
+
+#: include-element/liven_accordian.php:195
+#: include-element/liven_alert_box.php:98 include-element/liven_box.php:168
+#: include-element/liven_button.php:193 include-element/liven_clients.php:282
+#: include-element/liven_contact_form.php:108
+#: include-element/liven_counter.php:195
+#: include-element/liven_diamond_services.php:236
+#: include-element/liven_icon_box.php:172
+#: include-element/liven_icon_box2.php:182 include-element/liven_list.php:317
+#: include-element/liven_paralax_with_content.php:256
+#: include-element/liven_popup.php:159 include-element/liven_portfolio.php:791
+#: include-element/liven_post_type_list.php:197
+#: include-element/liven_pricing_table.php:352
+#: include-element/liven_pricing_table_mc.php:164
+#: include-element/liven_progressbar.php:203
+#: include-element/liven_section.php:172 include-element/liven_service.php:212
+#: include-element/liven_slider.php:297
+#: include-element/liven_social_icons.php:135
+#: include-element/liven_table.php:192 include-element/liven_tabs.php:156
+#: include-element/liven_tag_cloud.php:173
+#: include-element/liven_team_member.php:308
+#: include-element/liven_testimonial.php:518
+#: include-element/liven_text_block.php:218
+msgid "Fade Out Left Big"
+msgstr "Häivytä vasemmalle"
+
+#: include-element/liven_accordian.php:196
+#: include-element/liven_alert_box.php:99 include-element/liven_box.php:169
+#: include-element/liven_button.php:194 include-element/liven_clients.php:283
+#: include-element/liven_contact_form.php:109
+#: include-element/liven_counter.php:196
+#: include-element/liven_diamond_services.php:237
+#: include-element/liven_icon_box.php:173
+#: include-element/liven_icon_box2.php:183 include-element/liven_list.php:318
+#: include-element/liven_paralax_with_content.php:257
+#: include-element/liven_popup.php:160 include-element/liven_portfolio.php:792
+#: include-element/liven_post_type_list.php:198
+#: include-element/liven_pricing_table.php:353
+#: include-element/liven_pricing_table_mc.php:165
+#: include-element/liven_progressbar.php:204
+#: include-element/liven_section.php:173 include-element/liven_service.php:213
+#: include-element/liven_slider.php:298
+#: include-element/liven_social_icons.php:136
+#: include-element/liven_table.php:193 include-element/liven_tabs.php:157
+#: include-element/liven_tag_cloud.php:174
+#: include-element/liven_team_member.php:309
+#: include-element/liven_testimonial.php:519
+#: include-element/liven_text_block.php:219
+msgid "Fade Out Right"
+msgstr "Häivytä oikealle"
+
+#: include-element/liven_accordian.php:197
+#: include-element/liven_alert_box.php:100 include-element/liven_box.php:170
+#: include-element/liven_button.php:195 include-element/liven_clients.php:284
+#: include-element/liven_contact_form.php:110
+#: include-element/liven_counter.php:197
+#: include-element/liven_diamond_services.php:238
+#: include-element/liven_icon_box.php:174
+#: include-element/liven_icon_box2.php:184 include-element/liven_list.php:319
+#: include-element/liven_paralax_with_content.php:258
+#: include-element/liven_popup.php:161 include-element/liven_portfolio.php:793
+#: include-element/liven_post_type_list.php:199
+#: include-element/liven_pricing_table.php:354
+#: include-element/liven_pricing_table_mc.php:166
+#: include-element/liven_progressbar.php:205
+#: include-element/liven_section.php:174 include-element/liven_service.php:214
+#: include-element/liven_slider.php:299
+#: include-element/liven_social_icons.php:137
+#: include-element/liven_table.php:194 include-element/liven_tabs.php:158
+#: include-element/liven_tag_cloud.php:175
+#: include-element/liven_team_member.php:310
+#: include-element/liven_testimonial.php:520
+#: include-element/liven_text_block.php:220
+msgid "Fade Out Right Big"
+msgstr "Häivytä oikealle"
+
+#: include-element/liven_accordian.php:198
+#: include-element/liven_alert_box.php:101 include-element/liven_box.php:171
+#: include-element/liven_button.php:196 include-element/liven_clients.php:285
+#: include-element/liven_contact_form.php:111
+#: include-element/liven_counter.php:198
+#: include-element/liven_diamond_services.php:239
+#: include-element/liven_icon_box.php:175
+#: include-element/liven_icon_box2.php:185 include-element/liven_list.php:320
+#: include-element/liven_paralax_with_content.php:259
+#: include-element/liven_popup.php:162 include-element/liven_portfolio.php:794
+#: include-element/liven_post_type_list.php:200
+#: include-element/liven_pricing_table.php:355
+#: include-element/liven_pricing_table_mc.php:167
+#: include-element/liven_progressbar.php:206
+#: include-element/liven_section.php:175 include-element/liven_service.php:215
+#: include-element/liven_slider.php:300
+#: include-element/liven_social_icons.php:138
+#: include-element/liven_table.php:195 include-element/liven_tabs.php:159
+#: include-element/liven_tag_cloud.php:176
+#: include-element/liven_team_member.php:311
+#: include-element/liven_testimonial.php:521
+#: include-element/liven_text_block.php:221
+msgid "Fade Out Up"
+msgstr "Häivytä ylös"
+
+#: include-element/liven_accordian.php:199
+#: include-element/liven_alert_box.php:102 include-element/liven_box.php:172
+#: include-element/liven_button.php:197 include-element/liven_clients.php:286
+#: include-element/liven_contact_form.php:112
+#: include-element/liven_counter.php:199
+#: include-element/liven_diamond_services.php:240
+#: include-element/liven_icon_box.php:176
+#: include-element/liven_icon_box2.php:186 include-element/liven_list.php:321
+#: include-element/liven_paralax_with_content.php:260
+#: include-element/liven_popup.php:163 include-element/liven_portfolio.php:795
+#: include-element/liven_post_type_list.php:201
+#: include-element/liven_pricing_table.php:356
+#: include-element/liven_pricing_table_mc.php:168
+#: include-element/liven_progressbar.php:207
+#: include-element/liven_section.php:176 include-element/liven_service.php:216
+#: include-element/liven_slider.php:301
+#: include-element/liven_social_icons.php:139
+#: include-element/liven_table.php:196 include-element/liven_tabs.php:160
+#: include-element/liven_tag_cloud.php:177
+#: include-element/liven_team_member.php:312
+#: include-element/liven_testimonial.php:522
+#: include-element/liven_text_block.php:222
+msgid "Fade Out Up Big"
+msgstr "Häivytä ylös"
+
+#: include-element/liven_accordian.php:200
+#: include-element/liven_alert_box.php:103 include-element/liven_box.php:173
+#: include-element/liven_button.php:198 include-element/liven_clients.php:287
+#: include-element/liven_contact_form.php:113
+#: include-element/liven_counter.php:200
+#: include-element/liven_diamond_services.php:241
+#: include-element/liven_icon_box.php:177
+#: include-element/liven_icon_box2.php:187 include-element/liven_list.php:322
+#: include-element/liven_paralax_with_content.php:261
+#: include-element/liven_popup.php:164 include-element/liven_portfolio.php:796
+#: include-element/liven_post_type_list.php:202
+#: include-element/liven_pricing_table.php:357
+#: include-element/liven_pricing_table_mc.php:169
+#: include-element/liven_progressbar.php:208
+#: include-element/liven_section.php:177 include-element/liven_service.php:217
+#: include-element/liven_slider.php:302
+#: include-element/liven_social_icons.php:140
+#: include-element/liven_table.php:197 include-element/liven_tabs.php:161
+#: include-element/liven_tag_cloud.php:178
+#: include-element/liven_team_member.php:313
+#: include-element/liven_testimonial.php:523
+#: include-element/liven_text_block.php:223
+msgid "Flip In X"
+msgstr "Kääntyy esiin X"
+
+#: include-element/liven_accordian.php:201
+#: include-element/liven_alert_box.php:104 include-element/liven_box.php:174
+#: include-element/liven_button.php:199 include-element/liven_clients.php:288
+#: include-element/liven_contact_form.php:114
+#: include-element/liven_counter.php:201
+#: include-element/liven_diamond_services.php:242
+#: include-element/liven_icon_box.php:178
+#: include-element/liven_icon_box2.php:188 include-element/liven_list.php:323
+#: include-element/liven_paralax_with_content.php:262
+#: include-element/liven_popup.php:165 include-element/liven_portfolio.php:797
+#: include-element/liven_post_type_list.php:203
+#: include-element/liven_pricing_table.php:358
+#: include-element/liven_pricing_table_mc.php:170
+#: include-element/liven_progressbar.php:209
+#: include-element/liven_section.php:178 include-element/liven_service.php:218
+#: include-element/liven_slider.php:303
+#: include-element/liven_social_icons.php:141
+#: include-element/liven_table.php:198 include-element/liven_tabs.php:162
+#: include-element/liven_tag_cloud.php:179
+#: include-element/liven_team_member.php:314
+#: include-element/liven_testimonial.php:524
+#: include-element/liven_text_block.php:224
+msgid "Flip In Y"
+msgstr "Kääntyy esiin Y"
+
+#: include-element/liven_accordian.php:202
+#: include-element/liven_alert_box.php:105 include-element/liven_box.php:175
+#: include-element/liven_button.php:200 include-element/liven_clients.php:289
+#: include-element/liven_contact_form.php:115
+#: include-element/liven_counter.php:202
+#: include-element/liven_diamond_services.php:243
+#: include-element/liven_icon_box.php:179
+#: include-element/liven_icon_box2.php:189 include-element/liven_list.php:324
+#: include-element/liven_paralax_with_content.php:263
+#: include-element/liven_popup.php:166 include-element/liven_portfolio.php:798
+#: include-element/liven_post_type_list.php:204
+#: include-element/liven_pricing_table.php:359
+#: include-element/liven_pricing_table_mc.php:171
+#: include-element/liven_progressbar.php:210
+#: include-element/liven_section.php:179 include-element/liven_service.php:219
+#: include-element/liven_slider.php:304
+#: include-element/liven_social_icons.php:142
+#: include-element/liven_table.php:199 include-element/liven_tabs.php:163
+#: include-element/liven_tag_cloud.php:180
+#: include-element/liven_team_member.php:315
+#: include-element/liven_testimonial.php:525
+#: include-element/liven_text_block.php:225
+msgid "Flip Out X"
+msgstr "Kääntää pois X"
+
+#: include-element/liven_accordian.php:203
+#: include-element/liven_alert_box.php:106 include-element/liven_box.php:176
+#: include-element/liven_button.php:201 include-element/liven_clients.php:290
+#: include-element/liven_contact_form.php:116
+#: include-element/liven_counter.php:203
+#: include-element/liven_diamond_services.php:244
+#: include-element/liven_icon_box.php:180
+#: include-element/liven_icon_box2.php:190 include-element/liven_list.php:325
+#: include-element/liven_paralax_with_content.php:264
+#: include-element/liven_popup.php:167 include-element/liven_portfolio.php:799
+#: include-element/liven_post_type_list.php:205
+#: include-element/liven_pricing_table.php:360
+#: include-element/liven_pricing_table_mc.php:172
+#: include-element/liven_progressbar.php:211
+#: include-element/liven_section.php:180 include-element/liven_service.php:220
+#: include-element/liven_slider.php:305
+#: include-element/liven_social_icons.php:143
+#: include-element/liven_table.php:200 include-element/liven_tabs.php:164
+#: include-element/liven_tag_cloud.php:181
+#: include-element/liven_team_member.php:316
+#: include-element/liven_testimonial.php:526
+#: include-element/liven_text_block.php:226
+msgid "Flip Out Y"
+msgstr "Kääntää pois Y"
+
+#: include-element/liven_accordian.php:204
+#: include-element/liven_alert_box.php:107 include-element/liven_box.php:177
+#: include-element/liven_button.php:202 include-element/liven_clients.php:291
+#: include-element/liven_contact_form.php:117
+#: include-element/liven_counter.php:204
+#: include-element/liven_diamond_services.php:245
+#: include-element/liven_icon_box.php:181
+#: include-element/liven_icon_box2.php:191 include-element/liven_list.php:326
+#: include-element/liven_paralax_with_content.php:265
+#: include-element/liven_popup.php:168 include-element/liven_portfolio.php:800
+#: include-element/liven_post_type_list.php:206
+#: include-element/liven_pricing_table.php:361
+#: include-element/liven_pricing_table_mc.php:173
+#: include-element/liven_progressbar.php:212
+#: include-element/liven_section.php:181 include-element/liven_service.php:221
+#: include-element/liven_slider.php:306
+#: include-element/liven_social_icons.php:144
+#: include-element/liven_table.php:201 include-element/liven_tabs.php:165
+#: include-element/liven_tag_cloud.php:182
+#: include-element/liven_team_member.php:317
+#: include-element/liven_testimonial.php:527
+#: include-element/liven_text_block.php:227
+msgid "Light Speed In"
+msgstr "Valon nopeudella sisään"
+
+#: include-element/liven_accordian.php:205
+#: include-element/liven_alert_box.php:108 include-element/liven_box.php:178
+#: include-element/liven_button.php:203 include-element/liven_clients.php:292
+#: include-element/liven_contact_form.php:118
+#: include-element/liven_counter.php:205
+#: include-element/liven_diamond_services.php:246
+#: include-element/liven_icon_box.php:182
+#: include-element/liven_icon_box2.php:192 include-element/liven_list.php:327
+#: include-element/liven_paralax_with_content.php:266
+#: include-element/liven_popup.php:169 include-element/liven_portfolio.php:801
+#: include-element/liven_post_type_list.php:207
+#: include-element/liven_pricing_table.php:362
+#: include-element/liven_pricing_table_mc.php:174
+#: include-element/liven_progressbar.php:213
+#: include-element/liven_section.php:182 include-element/liven_service.php:222
+#: include-element/liven_slider.php:307
+#: include-element/liven_social_icons.php:145
+#: include-element/liven_table.php:202 include-element/liven_tabs.php:166
+#: include-element/liven_tag_cloud.php:183
+#: include-element/liven_team_member.php:318
+#: include-element/liven_testimonial.php:528
+#: include-element/liven_text_block.php:228
+msgid "Light Speed Out"
+msgstr "Valon nopeudella"
+
+#: include-element/liven_accordian.php:206
+#: include-element/liven_alert_box.php:109 include-element/liven_box.php:179
+#: include-element/liven_button.php:204 include-element/liven_clients.php:293
+#: include-element/liven_contact_form.php:119
+#: include-element/liven_counter.php:206
+#: include-element/liven_diamond_services.php:247
+#: include-element/liven_icon_box.php:183
+#: include-element/liven_icon_box2.php:193 include-element/liven_list.php:328
+#: include-element/liven_paralax_with_content.php:267
+#: include-element/liven_popup.php:170 include-element/liven_portfolio.php:802
+#: include-element/liven_post_type_list.php:208
+#: include-element/liven_pricing_table.php:363
+#: include-element/liven_pricing_table_mc.php:175
+#: include-element/liven_progressbar.php:214
+#: include-element/liven_section.php:183 include-element/liven_service.php:223
+#: include-element/liven_slider.php:308
+#: include-element/liven_social_icons.php:146
+#: include-element/liven_table.php:203 include-element/liven_tabs.php:167
+#: include-element/liven_tag_cloud.php:184
+#: include-element/liven_team_member.php:319
+#: include-element/liven_testimonial.php:529
+#: include-element/liven_text_block.php:229
+msgid "Rotate In"
+msgstr "Kierähtää esiin"
+
+#: include-element/liven_accordian.php:207
+#: include-element/liven_alert_box.php:110 include-element/liven_box.php:180
+#: include-element/liven_button.php:205 include-element/liven_clients.php:294
+#: include-element/liven_contact_form.php:120
+#: include-element/liven_counter.php:207
+#: include-element/liven_diamond_services.php:248
+#: include-element/liven_icon_box.php:184
+#: include-element/liven_icon_box2.php:194 include-element/liven_list.php:329
+#: include-element/liven_paralax_with_content.php:268
+#: include-element/liven_popup.php:171 include-element/liven_portfolio.php:803
+#: include-element/liven_post_type_list.php:209
+#: include-element/liven_pricing_table.php:364
+#: include-element/liven_pricing_table_mc.php:176
+#: include-element/liven_progressbar.php:215
+#: include-element/liven_section.php:184 include-element/liven_service.php:224
+#: include-element/liven_slider.php:309
+#: include-element/liven_social_icons.php:147
+#: include-element/liven_table.php:204 include-element/liven_tabs.php:168
+#: include-element/liven_tag_cloud.php:185
+#: include-element/liven_team_member.php:320
+#: include-element/liven_testimonial.php:530
+#: include-element/liven_text_block.php:230
+msgid "Rotate In Down Left"
+msgstr "Kierähtää esiin alas vasemmalle"
+
+#: include-element/liven_accordian.php:208
+#: include-element/liven_alert_box.php:111 include-element/liven_box.php:181
+#: include-element/liven_button.php:206 include-element/liven_clients.php:295
+#: include-element/liven_contact_form.php:121
+#: include-element/liven_counter.php:208
+#: include-element/liven_diamond_services.php:249
+#: include-element/liven_icon_box.php:185
+#: include-element/liven_icon_box2.php:195 include-element/liven_list.php:330
+#: include-element/liven_paralax_with_content.php:269
+#: include-element/liven_popup.php:172 include-element/liven_portfolio.php:804
+#: include-element/liven_post_type_list.php:210
+#: include-element/liven_pricing_table.php:365
+#: include-element/liven_pricing_table_mc.php:177
+#: include-element/liven_progressbar.php:216
+#: include-element/liven_section.php:185 include-element/liven_service.php:225
+#: include-element/liven_slider.php:310
+#: include-element/liven_social_icons.php:148
+#: include-element/liven_table.php:205 include-element/liven_tabs.php:169
+#: include-element/liven_tag_cloud.php:186
+#: include-element/liven_team_member.php:321
+#: include-element/liven_testimonial.php:531
+#: include-element/liven_text_block.php:231
+msgid "Rotate In Down Right"
+msgstr "Kierähtää esiin alas oikealle"
+
+#: include-element/liven_accordian.php:209
+#: include-element/liven_alert_box.php:112 include-element/liven_box.php:182
+#: include-element/liven_button.php:207 include-element/liven_clients.php:296
+#: include-element/liven_contact_form.php:122
+#: include-element/liven_counter.php:209
+#: include-element/liven_diamond_services.php:250
+#: include-element/liven_icon_box.php:186
+#: include-element/liven_icon_box2.php:196 include-element/liven_list.php:331
+#: include-element/liven_paralax_with_content.php:270
+#: include-element/liven_popup.php:173 include-element/liven_portfolio.php:805
+#: include-element/liven_post_type_list.php:211
+#: include-element/liven_pricing_table.php:366
+#: include-element/liven_pricing_table_mc.php:178
+#: include-element/liven_progressbar.php:217
+#: include-element/liven_section.php:186 include-element/liven_service.php:226
+#: include-element/liven_slider.php:311
+#: include-element/liven_social_icons.php:149
+#: include-element/liven_table.php:206 include-element/liven_tabs.php:170
+#: include-element/liven_tag_cloud.php:187
+#: include-element/liven_team_member.php:322
+#: include-element/liven_testimonial.php:532
+#: include-element/liven_text_block.php:232
+msgid "Rotate In Up Left"
+msgstr "Kierähtää esiin ylös vasemmalle"
+
+#: include-element/liven_accordian.php:210
+#: include-element/liven_alert_box.php:113 include-element/liven_box.php:183
+#: include-element/liven_button.php:208 include-element/liven_clients.php:297
+#: include-element/liven_contact_form.php:123
+#: include-element/liven_counter.php:210
+#: include-element/liven_diamond_services.php:251
+#: include-element/liven_icon_box.php:187
+#: include-element/liven_icon_box2.php:197 include-element/liven_list.php:332
+#: include-element/liven_paralax_with_content.php:271
+#: include-element/liven_popup.php:174 include-element/liven_portfolio.php:806
+#: include-element/liven_post_type_list.php:212
+#: include-element/liven_pricing_table.php:367
+#: include-element/liven_pricing_table_mc.php:179
+#: include-element/liven_progressbar.php:218
+#: include-element/liven_section.php:187 include-element/liven_service.php:227
+#: include-element/liven_slider.php:312
+#: include-element/liven_social_icons.php:150
+#: include-element/liven_table.php:207 include-element/liven_tabs.php:171
+#: include-element/liven_tag_cloud.php:188
+#: include-element/liven_team_member.php:323
+#: include-element/liven_testimonial.php:533
+#: include-element/liven_text_block.php:233
+msgid "Rotate In Up Right"
+msgstr "Kierähtää esiin ylös oikealle"
+
+#: include-element/liven_accordian.php:211
+#: include-element/liven_alert_box.php:114 include-element/liven_box.php:184
+#: include-element/liven_button.php:209 include-element/liven_clients.php:298
+#: include-element/liven_contact_form.php:124
+#: include-element/liven_counter.php:211
+#: include-element/liven_diamond_services.php:252
+#: include-element/liven_icon_box.php:188
+#: include-element/liven_icon_box2.php:198 include-element/liven_list.php:333
+#: include-element/liven_paralax_with_content.php:272
+#: include-element/liven_popup.php:175 include-element/liven_portfolio.php:807
+#: include-element/liven_post_type_list.php:213
+#: include-element/liven_pricing_table.php:368
+#: include-element/liven_pricing_table_mc.php:180
+#: include-element/liven_progressbar.php:219
+#: include-element/liven_section.php:188 include-element/liven_service.php:228
+#: include-element/liven_slider.php:313
+#: include-element/liven_social_icons.php:151
+#: include-element/liven_table.php:208 include-element/liven_tabs.php:172
+#: include-element/liven_tag_cloud.php:189
+#: include-element/liven_team_member.php:324
+#: include-element/liven_testimonial.php:534
+#: include-element/liven_text_block.php:234
+msgid "Rotate Out"
+msgstr "Käännä pois"
+
+#: include-element/liven_accordian.php:212
+#: include-element/liven_alert_box.php:115 include-element/liven_box.php:185
+#: include-element/liven_button.php:210 include-element/liven_clients.php:299
+#: include-element/liven_contact_form.php:125
+#: include-element/liven_counter.php:212
+#: include-element/liven_diamond_services.php:253
+#: include-element/liven_icon_box.php:189
+#: include-element/liven_icon_box2.php:199 include-element/liven_list.php:334
+#: include-element/liven_paralax_with_content.php:273
+#: include-element/liven_popup.php:176 include-element/liven_portfolio.php:808
+#: include-element/liven_post_type_list.php:214
+#: include-element/liven_pricing_table.php:369
+#: include-element/liven_pricing_table_mc.php:181
+#: include-element/liven_progressbar.php:220
+#: include-element/liven_section.php:189 include-element/liven_service.php:229
+#: include-element/liven_slider.php:314
+#: include-element/liven_social_icons.php:152
+#: include-element/liven_table.php:209 include-element/liven_tabs.php:173
+#: include-element/liven_tag_cloud.php:190
+#: include-element/liven_team_member.php:325
+#: include-element/liven_testimonial.php:535
+#: include-element/liven_text_block.php:235
+msgid "Rotate Out Down Left"
+msgstr "Käännä pois alas vasemmalle"
+
+#: include-element/liven_accordian.php:213
+#: include-element/liven_alert_box.php:116 include-element/liven_box.php:186
+#: include-element/liven_button.php:211 include-element/liven_clients.php:300
+#: include-element/liven_contact_form.php:126
+#: include-element/liven_counter.php:213
+#: include-element/liven_diamond_services.php:254
+#: include-element/liven_icon_box.php:190
+#: include-element/liven_icon_box2.php:200 include-element/liven_list.php:335
+#: include-element/liven_paralax_with_content.php:274
+#: include-element/liven_popup.php:177 include-element/liven_portfolio.php:809
+#: include-element/liven_post_type_list.php:215
+#: include-element/liven_pricing_table.php:370
+#: include-element/liven_pricing_table_mc.php:182
+#: include-element/liven_progressbar.php:221
+#: include-element/liven_section.php:190 include-element/liven_service.php:230
+#: include-element/liven_slider.php:315
+#: include-element/liven_social_icons.php:153
+#: include-element/liven_table.php:210 include-element/liven_tabs.php:174
+#: include-element/liven_tag_cloud.php:191
+#: include-element/liven_team_member.php:326
+#: include-element/liven_testimonial.php:536
+#: include-element/liven_text_block.php:236
+msgid "Rotate Out Down Right"
+msgstr "Käännä pois alas oikealle"
+
+#: include-element/liven_accordian.php:214
+#: include-element/liven_alert_box.php:117 include-element/liven_box.php:187
+#: include-element/liven_button.php:212 include-element/liven_clients.php:301
+#: include-element/liven_contact_form.php:127
+#: include-element/liven_counter.php:214
+#: include-element/liven_diamond_services.php:255
+#: include-element/liven_icon_box.php:191
+#: include-element/liven_icon_box2.php:201 include-element/liven_list.php:336
+#: include-element/liven_paralax_with_content.php:275
+#: include-element/liven_popup.php:178 include-element/liven_portfolio.php:810
+#: include-element/liven_post_type_list.php:216
+#: include-element/liven_pricing_table.php:371
+#: include-element/liven_pricing_table_mc.php:183
+#: include-element/liven_progressbar.php:222
+#: include-element/liven_section.php:191 include-element/liven_service.php:231
+#: include-element/liven_slider.php:316
+#: include-element/liven_social_icons.php:154
+#: include-element/liven_table.php:211 include-element/liven_tabs.php:175
+#: include-element/liven_tag_cloud.php:192
+#: include-element/liven_team_member.php:327
+#: include-element/liven_testimonial.php:537
+#: include-element/liven_text_block.php:237
+msgid "Rotate Out Up Left"
+msgstr "Käännä pois ylös vasemmalle"
+
+#: include-element/liven_accordian.php:215
+#: include-element/liven_alert_box.php:118 include-element/liven_box.php:188
+#: include-element/liven_button.php:213 include-element/liven_clients.php:302
+#: include-element/liven_contact_form.php:128
+#: include-element/liven_counter.php:215
+#: include-element/liven_diamond_services.php:256
+#: include-element/liven_icon_box.php:192
+#: include-element/liven_icon_box2.php:202 include-element/liven_list.php:337
+#: include-element/liven_paralax_with_content.php:276
+#: include-element/liven_popup.php:179 include-element/liven_portfolio.php:811
+#: include-element/liven_post_type_list.php:217
+#: include-element/liven_pricing_table.php:372
+#: include-element/liven_pricing_table_mc.php:184
+#: include-element/liven_progressbar.php:223
+#: include-element/liven_section.php:192 include-element/liven_service.php:232
+#: include-element/liven_slider.php:317
+#: include-element/liven_social_icons.php:155
+#: include-element/liven_table.php:212 include-element/liven_tabs.php:176
+#: include-element/liven_tag_cloud.php:193
+#: include-element/liven_team_member.php:328
+#: include-element/liven_testimonial.php:538
+#: include-element/liven_text_block.php:238
+msgid "Rotate Out Up Right"
+msgstr "Kierrä oikealle ylös"
+
+#: include-element/liven_accordian.php:216
+#: include-element/liven_alert_box.php:119 include-element/liven_box.php:189
+#: include-element/liven_button.php:214 include-element/liven_clients.php:303
+#: include-element/liven_contact_form.php:129
+#: include-element/liven_counter.php:216
+#: include-element/liven_diamond_services.php:257
+#: include-element/liven_icon_box.php:193
+#: include-element/liven_icon_box2.php:203 include-element/liven_list.php:338
+#: include-element/liven_paralax_with_content.php:277
+#: include-element/liven_popup.php:180 include-element/liven_portfolio.php:812
+#: include-element/liven_post_type_list.php:218
+#: include-element/liven_pricing_table.php:373
+#: include-element/liven_pricing_table_mc.php:185
+#: include-element/liven_progressbar.php:224
+#: include-element/liven_section.php:193 include-element/liven_service.php:233
+#: include-element/liven_slider.php:318
+#: include-element/liven_social_icons.php:156
+#: include-element/liven_table.php:213 include-element/liven_tabs.php:177
+#: include-element/liven_tag_cloud.php:194
+#: include-element/liven_team_member.php:329
+#: include-element/liven_testimonial.php:539
+#: include-element/liven_text_block.php:239
+msgid "Slide In Down"
+msgstr "Liu'uta alas"
+
+#: include-element/liven_accordian.php:217
+#: include-element/liven_alert_box.php:120 include-element/liven_box.php:190
+#: include-element/liven_button.php:215 include-element/liven_clients.php:304
+#: include-element/liven_contact_form.php:130
+#: include-element/liven_counter.php:217
+#: include-element/liven_diamond_services.php:258
+#: include-element/liven_icon_box.php:194
+#: include-element/liven_icon_box2.php:204 include-element/liven_list.php:339
+#: include-element/liven_paralax_with_content.php:278
+#: include-element/liven_popup.php:181 include-element/liven_portfolio.php:813
+#: include-element/liven_post_type_list.php:219
+#: include-element/liven_pricing_table.php:374
+#: include-element/liven_pricing_table_mc.php:186
+#: include-element/liven_progressbar.php:225
+#: include-element/liven_section.php:194 include-element/liven_service.php:234
+#: include-element/liven_slider.php:319
+#: include-element/liven_social_icons.php:157
+#: include-element/liven_table.php:214 include-element/liven_tabs.php:178
+#: include-element/liven_tag_cloud.php:195
+#: include-element/liven_team_member.php:330
+#: include-element/liven_testimonial.php:540
+#: include-element/liven_text_block.php:240
+msgid "Slide In Left"
+msgstr "Liu'uta vasemmalle"
+
+#: include-element/liven_accordian.php:218
+#: include-element/liven_alert_box.php:121 include-element/liven_box.php:191
+#: include-element/liven_button.php:216 include-element/liven_clients.php:305
+#: include-element/liven_contact_form.php:131
+#: include-element/liven_counter.php:218
+#: include-element/liven_diamond_services.php:259
+#: include-element/liven_icon_box.php:195
+#: include-element/liven_icon_box2.php:205 include-element/liven_list.php:340
+#: include-element/liven_paralax_with_content.php:279
+#: include-element/liven_popup.php:182 include-element/liven_portfolio.php:814
+#: include-element/liven_post_type_list.php:220
+#: include-element/liven_pricing_table.php:375
+#: include-element/liven_pricing_table_mc.php:187
+#: include-element/liven_progressbar.php:226
+#: include-element/liven_section.php:195 include-element/liven_service.php:235
+#: include-element/liven_slider.php:320
+#: include-element/liven_social_icons.php:158
+#: include-element/liven_table.php:215 include-element/liven_tabs.php:179
+#: include-element/liven_tag_cloud.php:196
+#: include-element/liven_team_member.php:331
+#: include-element/liven_testimonial.php:541
+#: include-element/liven_text_block.php:241
+msgid "Slide In Right"
+msgstr "Liu'uta oikealle"
+
+#: include-element/liven_accordian.php:219
+#: include-element/liven_alert_box.php:122 include-element/liven_box.php:192
+#: include-element/liven_button.php:217 include-element/liven_clients.php:306
+#: include-element/liven_contact_form.php:132
+#: include-element/liven_counter.php:219
+#: include-element/liven_diamond_services.php:260
+#: include-element/liven_icon_box.php:196
+#: include-element/liven_icon_box2.php:206 include-element/liven_list.php:341
+#: include-element/liven_paralax_with_content.php:280
+#: include-element/liven_popup.php:183 include-element/liven_portfolio.php:815
+#: include-element/liven_post_type_list.php:221
+#: include-element/liven_pricing_table.php:376
+#: include-element/liven_pricing_table_mc.php:188
+#: include-element/liven_progressbar.php:227
+#: include-element/liven_section.php:196 include-element/liven_service.php:236
+#: include-element/liven_slider.php:321
+#: include-element/liven_social_icons.php:159
+#: include-element/liven_table.php:216 include-element/liven_tabs.php:180
+#: include-element/liven_tag_cloud.php:197
+#: include-element/liven_team_member.php:332
+#: include-element/liven_testimonial.php:542
+#: include-element/liven_text_block.php:242
+msgid "Slide Out Left"
+msgstr "Liu'uta vasemmalle"
+
+#: include-element/liven_accordian.php:220
+#: include-element/liven_alert_box.php:123 include-element/liven_box.php:193
+#: include-element/liven_button.php:218 include-element/liven_clients.php:307
+#: include-element/liven_contact_form.php:133
+#: include-element/liven_counter.php:220
+#: include-element/liven_diamond_services.php:261
+#: include-element/liven_icon_box.php:197
+#: include-element/liven_icon_box2.php:207 include-element/liven_list.php:342
+#: include-element/liven_paralax_with_content.php:281
+#: include-element/liven_popup.php:184 include-element/liven_portfolio.php:816
+#: include-element/liven_post_type_list.php:222
+#: include-element/liven_pricing_table.php:377
+#: include-element/liven_pricing_table_mc.php:189
+#: include-element/liven_progressbar.php:228
+#: include-element/liven_section.php:197 include-element/liven_service.php:237
+#: include-element/liven_slider.php:322
+#: include-element/liven_social_icons.php:160
+#: include-element/liven_table.php:217 include-element/liven_tabs.php:181
+#: include-element/liven_tag_cloud.php:198
+#: include-element/liven_team_member.php:333
+#: include-element/liven_testimonial.php:543
+#: include-element/liven_text_block.php:243
+msgid "Slide Out Right"
+msgstr "Liu'uta oikealle"
+
+#: include-element/liven_accordian.php:221
+#: include-element/liven_alert_box.php:124 include-element/liven_box.php:194
+#: include-element/liven_button.php:219 include-element/liven_clients.php:308
+#: include-element/liven_contact_form.php:134
+#: include-element/liven_counter.php:221
+#: include-element/liven_diamond_services.php:262
+#: include-element/liven_icon_box.php:198
+#: include-element/liven_icon_box2.php:208 include-element/liven_list.php:343
+#: include-element/liven_paralax_with_content.php:282
+#: include-element/liven_popup.php:185 include-element/liven_portfolio.php:817
+#: include-element/liven_post_type_list.php:223
+#: include-element/liven_pricing_table.php:378
+#: include-element/liven_pricing_table_mc.php:190
+#: include-element/liven_progressbar.php:229
+#: include-element/liven_section.php:198 include-element/liven_service.php:238
+#: include-element/liven_slider.php:323
+#: include-element/liven_social_icons.php:161
+#: include-element/liven_table.php:218 include-element/liven_tabs.php:182
+#: include-element/liven_tag_cloud.php:199
+#: include-element/liven_team_member.php:334
+#: include-element/liven_testimonial.php:544
+#: include-element/liven_text_block.php:244
+msgid "Slide Out Up"
+msgstr "Liu'uta ylös"
+
+#: include-element/liven_accordian.php:222
+#: include-element/liven_alert_box.php:125 include-element/liven_box.php:195
+#: include-element/liven_button.php:220 include-element/liven_clients.php:309
+#: include-element/liven_contact_form.php:135
+#: include-element/liven_counter.php:222
+#: include-element/liven_diamond_services.php:263
+#: include-element/liven_icon_box.php:199
+#: include-element/liven_icon_box2.php:209 include-element/liven_list.php:344
+#: include-element/liven_paralax_with_content.php:283
+#: include-element/liven_popup.php:186 include-element/liven_portfolio.php:818
+#: include-element/liven_post_type_list.php:224
+#: include-element/liven_pricing_table.php:379
+#: include-element/liven_pricing_table_mc.php:191
+#: include-element/liven_progressbar.php:230
+#: include-element/liven_section.php:199 include-element/liven_service.php:239
+#: include-element/liven_slider.php:324
+#: include-element/liven_social_icons.php:162
+#: include-element/liven_table.php:219 include-element/liven_tabs.php:183
+#: include-element/liven_tag_cloud.php:200
+#: include-element/liven_team_member.php:335
+#: include-element/liven_testimonial.php:545
+#: include-element/liven_text_block.php:245
+msgid "Slide In Up"
+msgstr "Liu'uta ylös"
+
+#: include-element/liven_accordian.php:223
+#: include-element/liven_alert_box.php:126 include-element/liven_box.php:196
+#: include-element/liven_button.php:221 include-element/liven_clients.php:310
+#: include-element/liven_contact_form.php:136
+#: include-element/liven_counter.php:223
+#: include-element/liven_diamond_services.php:264
+#: include-element/liven_icon_box.php:200
+#: include-element/liven_icon_box2.php:210 include-element/liven_list.php:345
+#: include-element/liven_paralax_with_content.php:284
+#: include-element/liven_popup.php:187 include-element/liven_portfolio.php:819
+#: include-element/liven_post_type_list.php:225
+#: include-element/liven_pricing_table.php:380
+#: include-element/liven_pricing_table_mc.php:192
+#: include-element/liven_progressbar.php:231
+#: include-element/liven_section.php:200 include-element/liven_service.php:240
+#: include-element/liven_slider.php:325
+#: include-element/liven_social_icons.php:163
+#: include-element/liven_table.php:220 include-element/liven_tabs.php:184
+#: include-element/liven_tag_cloud.php:201
+#: include-element/liven_team_member.php:336
+#: include-element/liven_testimonial.php:546
+#: include-element/liven_text_block.php:246
+msgid "Slide Out Down"
+msgstr "Liu'uta alas"
+
+#: include-element/liven_accordian.php:224
+#: include-element/liven_alert_box.php:127 include-element/liven_box.php:197
+#: include-element/liven_button.php:222 include-element/liven_clients.php:311
+#: include-element/liven_contact_form.php:137
+#: include-element/liven_counter.php:224
+#: include-element/liven_diamond_services.php:265
+#: include-element/liven_icon_box.php:201
+#: include-element/liven_icon_box2.php:211 include-element/liven_list.php:346
+#: include-element/liven_paralax_with_content.php:285
+#: include-element/liven_popup.php:188 include-element/liven_portfolio.php:820
+#: include-element/liven_post_type_list.php:226
+#: include-element/liven_pricing_table.php:381
+#: include-element/liven_pricing_table_mc.php:193
+#: include-element/liven_progressbar.php:232
+#: include-element/liven_section.php:201 include-element/liven_service.php:241
+#: include-element/liven_slider.php:326
+#: include-element/liven_social_icons.php:164
+#: include-element/liven_table.php:221 include-element/liven_tabs.php:185
+#: include-element/liven_tag_cloud.php:202
+#: include-element/liven_team_member.php:337
+#: include-element/liven_testimonial.php:547
+#: include-element/liven_text_block.php:247
+msgid "Hinge"
+msgstr "Sarana"
+
+#: include-element/liven_accordian.php:225
+#: include-element/liven_alert_box.php:128 include-element/liven_box.php:198
+#: include-element/liven_button.php:223 include-element/liven_clients.php:312
+#: include-element/liven_contact_form.php:138
+#: include-element/liven_counter.php:225
+#: include-element/liven_diamond_services.php:266
+#: include-element/liven_icon_box.php:202
+#: include-element/liven_icon_box2.php:212 include-element/liven_list.php:347
+#: include-element/liven_paralax_with_content.php:286
+#: include-element/liven_popup.php:189 include-element/liven_portfolio.php:821
+#: include-element/liven_post_type_list.php:227
+#: include-element/liven_pricing_table.php:382
+#: include-element/liven_pricing_table_mc.php:194
+#: include-element/liven_progressbar.php:233
+#: include-element/liven_section.php:202 include-element/liven_service.php:242
+#: include-element/liven_slider.php:327
+#: include-element/liven_social_icons.php:165
+#: include-element/liven_table.php:222 include-element/liven_tabs.php:186
+#: include-element/liven_tag_cloud.php:203
+#: include-element/liven_team_member.php:338
+#: include-element/liven_testimonial.php:548
+#: include-element/liven_text_block.php:248
+msgid "Roll In"
+msgstr "Vierii esiin"
+
+#: include-element/liven_accordian.php:226
+#: include-element/liven_alert_box.php:129 include-element/liven_box.php:199
+#: include-element/liven_button.php:224 include-element/liven_clients.php:313
+#: include-element/liven_contact_form.php:139
+#: include-element/liven_counter.php:226
+#: include-element/liven_diamond_services.php:267
+#: include-element/liven_icon_box.php:203
+#: include-element/liven_icon_box2.php:213 include-element/liven_list.php:348
+#: include-element/liven_paralax_with_content.php:287
+#: include-element/liven_popup.php:190 include-element/liven_portfolio.php:822
+#: include-element/liven_post_type_list.php:228
+#: include-element/liven_pricing_table.php:383
+#: include-element/liven_pricing_table_mc.php:195
+#: include-element/liven_progressbar.php:234
+#: include-element/liven_section.php:203 include-element/liven_service.php:243
+#: include-element/liven_slider.php:328
+#: include-element/liven_social_icons.php:166
+#: include-element/liven_table.php:223 include-element/liven_tabs.php:187
+#: include-element/liven_tag_cloud.php:204
+#: include-element/liven_team_member.php:339
+#: include-element/liven_testimonial.php:549
+#: include-element/liven_text_block.php:249
+msgid "Roll Out"
+msgstr "laskukiito"
+
+#: include-element/liven_accordian.php:227
+#: include-element/liven_alert_box.php:130 include-element/liven_box.php:200
+#: include-element/liven_button.php:225 include-element/liven_clients.php:314
+#: include-element/liven_contact_form.php:140
+#: include-element/liven_counter.php:227
+#: include-element/liven_diamond_services.php:268
+#: include-element/liven_icon_box.php:204
+#: include-element/liven_icon_box2.php:214 include-element/liven_list.php:349
+#: include-element/liven_paralax_with_content.php:288
+#: include-element/liven_popup.php:191 include-element/liven_portfolio.php:823
+#: include-element/liven_post_type_list.php:229
+#: include-element/liven_pricing_table.php:384
+#: include-element/liven_pricing_table_mc.php:196
+#: include-element/liven_progressbar.php:235
+#: include-element/liven_section.php:204 include-element/liven_service.php:244
+#: include-element/liven_slider.php:329
+#: include-element/liven_social_icons.php:167
+#: include-element/liven_table.php:224 include-element/liven_tabs.php:188
+#: include-element/liven_tag_cloud.php:205
+#: include-element/liven_team_member.php:340
+#: include-element/liven_testimonial.php:550
+#: include-element/liven_text_block.php:250
+msgid "Zoom In"
+msgstr "Zoom-tehosteella esiin"
+
+#: include-element/liven_accordian.php:228
+#: include-element/liven_alert_box.php:131 include-element/liven_box.php:201
+#: include-element/liven_button.php:226 include-element/liven_clients.php:315
+#: include-element/liven_contact_form.php:141
+#: include-element/liven_counter.php:228
+#: include-element/liven_diamond_services.php:269
+#: include-element/liven_icon_box.php:205
+#: include-element/liven_icon_box2.php:215 include-element/liven_list.php:350
+#: include-element/liven_paralax_with_content.php:289
+#: include-element/liven_popup.php:192 include-element/liven_portfolio.php:824
+#: include-element/liven_post_type_list.php:230
+#: include-element/liven_pricing_table.php:385
+#: include-element/liven_pricing_table_mc.php:197
+#: include-element/liven_progressbar.php:236
+#: include-element/liven_section.php:205 include-element/liven_service.php:245
+#: include-element/liven_slider.php:330
+#: include-element/liven_social_icons.php:168
+#: include-element/liven_table.php:225 include-element/liven_tabs.php:189
+#: include-element/liven_tag_cloud.php:206
+#: include-element/liven_team_member.php:341
+#: include-element/liven_testimonial.php:551
+#: include-element/liven_text_block.php:251
+msgid "Zoom In Down"
+msgstr "Zoomaa alueella Down"
+
+#: include-element/liven_accordian.php:229
+#: include-element/liven_alert_box.php:132 include-element/liven_box.php:202
+#: include-element/liven_button.php:227 include-element/liven_clients.php:316
+#: include-element/liven_contact_form.php:142
+#: include-element/liven_counter.php:229
+#: include-element/liven_diamond_services.php:270
+#: include-element/liven_icon_box.php:206
+#: include-element/liven_icon_box2.php:216 include-element/liven_list.php:351
+#: include-element/liven_paralax_with_content.php:290
+#: include-element/liven_popup.php:193 include-element/liven_portfolio.php:825
+#: include-element/liven_post_type_list.php:231
+#: include-element/liven_pricing_table.php:386
+#: include-element/liven_pricing_table_mc.php:198
+#: include-element/liven_progressbar.php:237
+#: include-element/liven_section.php:206 include-element/liven_service.php:246
+#: include-element/liven_slider.php:331
+#: include-element/liven_social_icons.php:169
+#: include-element/liven_table.php:226 include-element/liven_tabs.php:190
+#: include-element/liven_tag_cloud.php:207
+#: include-element/liven_team_member.php:342
+#: include-element/liven_testimonial.php:552
+#: include-element/liven_text_block.php:252
+msgid "Zoom In Left"
+msgstr "Lähennä vasemmalle"
+
+#: include-element/liven_accordian.php:230
+#: include-element/liven_alert_box.php:133 include-element/liven_box.php:203
+#: include-element/liven_button.php:228 include-element/liven_clients.php:317
+#: include-element/liven_contact_form.php:143
+#: include-element/liven_counter.php:230
+#: include-element/liven_diamond_services.php:271
+#: include-element/liven_icon_box.php:207
+#: include-element/liven_icon_box2.php:217 include-element/liven_list.php:352
+#: include-element/liven_paralax_with_content.php:291
+#: include-element/liven_popup.php:194 include-element/liven_portfolio.php:826
+#: include-element/liven_post_type_list.php:232
+#: include-element/liven_pricing_table.php:387
+#: include-element/liven_pricing_table_mc.php:199
+#: include-element/liven_progressbar.php:238
+#: include-element/liven_section.php:207 include-element/liven_service.php:247
+#: include-element/liven_slider.php:332
+#: include-element/liven_social_icons.php:170
+#: include-element/liven_table.php:227 include-element/liven_tabs.php:191
+#: include-element/liven_tag_cloud.php:208
+#: include-element/liven_team_member.php:343
+#: include-element/liven_testimonial.php:553
+#: include-element/liven_text_block.php:253
+msgid "Zoom In Right"
+msgstr "Lähennä oikealle"
+
+#: include-element/liven_accordian.php:231
+#: include-element/liven_alert_box.php:134 include-element/liven_box.php:204
+#: include-element/liven_button.php:229 include-element/liven_clients.php:318
+#: include-element/liven_contact_form.php:144
+#: include-element/liven_counter.php:231
+#: include-element/liven_diamond_services.php:272
+#: include-element/liven_icon_box.php:208
+#: include-element/liven_icon_box2.php:218 include-element/liven_list.php:353
+#: include-element/liven_paralax_with_content.php:292
+#: include-element/liven_popup.php:195 include-element/liven_portfolio.php:827
+#: include-element/liven_post_type_list.php:233
+#: include-element/liven_pricing_table.php:388
+#: include-element/liven_pricing_table_mc.php:200
+#: include-element/liven_progressbar.php:239
+#: include-element/liven_section.php:208 include-element/liven_service.php:248
+#: include-element/liven_slider.php:333
+#: include-element/liven_social_icons.php:171
+#: include-element/liven_table.php:228 include-element/liven_tabs.php:192
+#: include-element/liven_tag_cloud.php:209
+#: include-element/liven_team_member.php:344
+#: include-element/liven_testimonial.php:554
+#: include-element/liven_text_block.php:254
+msgid "Zoom In Up"
+msgstr "Zoom kaupungissa Up"
+
+#: include-element/liven_accordian.php:232
+#: include-element/liven_alert_box.php:135 include-element/liven_box.php:205
+#: include-element/liven_button.php:230 include-element/liven_clients.php:319
+#: include-element/liven_contact_form.php:145
+#: include-element/liven_counter.php:232
+#: include-element/liven_diamond_services.php:273
+#: include-element/liven_icon_box.php:209
+#: include-element/liven_icon_box2.php:219 include-element/liven_list.php:354
+#: include-element/liven_paralax_with_content.php:293
+#: include-element/liven_popup.php:196 include-element/liven_portfolio.php:828
+#: include-element/liven_post_type_list.php:234
+#: include-element/liven_pricing_table.php:389
+#: include-element/liven_pricing_table_mc.php:201
+#: include-element/liven_progressbar.php:240
+#: include-element/liven_section.php:209 include-element/liven_service.php:249
+#: include-element/liven_slider.php:334
+#: include-element/liven_social_icons.php:172
+#: include-element/liven_table.php:229 include-element/liven_tabs.php:193
+#: include-element/liven_tag_cloud.php:210
+#: include-element/liven_team_member.php:345
+#: include-element/liven_testimonial.php:555
+#: include-element/liven_text_block.php:255
+msgid "Zoom Out"
+msgstr "Zoom-tehosteella pois"
+
+#: include-element/liven_accordian.php:233
+#: include-element/liven_alert_box.php:136 include-element/liven_box.php:206
+#: include-element/liven_button.php:231 include-element/liven_clients.php:320
+#: include-element/liven_contact_form.php:146
+#: include-element/liven_counter.php:233
+#: include-element/liven_diamond_services.php:274
+#: include-element/liven_icon_box.php:210
+#: include-element/liven_icon_box2.php:220 include-element/liven_list.php:355
+#: include-element/liven_paralax_with_content.php:294
+#: include-element/liven_popup.php:197 include-element/liven_portfolio.php:829
+#: include-element/liven_post_type_list.php:235
+#: include-element/liven_pricing_table.php:390
+#: include-element/liven_pricing_table_mc.php:202
+#: include-element/liven_progressbar.php:241
+#: include-element/liven_section.php:210 include-element/liven_service.php:250
+#: include-element/liven_slider.php:335
+#: include-element/liven_social_icons.php:173
+#: include-element/liven_table.php:230 include-element/liven_tabs.php:194
+#: include-element/liven_tag_cloud.php:211
+#: include-element/liven_team_member.php:346
+#: include-element/liven_testimonial.php:556
+#: include-element/liven_text_block.php:256
+msgid "Zoom Out Down"
+msgstr "Zoomaa ulos alas"
+
+#: include-element/liven_accordian.php:234
+#: include-element/liven_alert_box.php:137 include-element/liven_box.php:207
+#: include-element/liven_button.php:232 include-element/liven_clients.php:321
+#: include-element/liven_contact_form.php:147
+#: include-element/liven_counter.php:234
+#: include-element/liven_diamond_services.php:275
+#: include-element/liven_icon_box.php:211
+#: include-element/liven_icon_box2.php:221 include-element/liven_list.php:356
+#: include-element/liven_paralax_with_content.php:295
+#: include-element/liven_popup.php:198 include-element/liven_portfolio.php:830
+#: include-element/liven_post_type_list.php:236
+#: include-element/liven_pricing_table.php:391
+#: include-element/liven_pricing_table_mc.php:203
+#: include-element/liven_progressbar.php:242
+#: include-element/liven_section.php:211 include-element/liven_service.php:251
+#: include-element/liven_slider.php:336
+#: include-element/liven_social_icons.php:174
+#: include-element/liven_table.php:231 include-element/liven_tabs.php:195
+#: include-element/liven_tag_cloud.php:212
+#: include-element/liven_team_member.php:347
+#: include-element/liven_testimonial.php:557
+#: include-element/liven_text_block.php:257
+msgid "Zoom Out Left"
+msgstr "Loitontaa vasemmalle"
+
+#: include-element/liven_accordian.php:235
+#: include-element/liven_alert_box.php:138 include-element/liven_box.php:208
+#: include-element/liven_button.php:233 include-element/liven_clients.php:322
+#: include-element/liven_contact_form.php:148
+#: include-element/liven_counter.php:235
+#: include-element/liven_diamond_services.php:276
+#: include-element/liven_icon_box.php:212
+#: include-element/liven_icon_box2.php:222 include-element/liven_list.php:357
+#: include-element/liven_paralax_with_content.php:296
+#: include-element/liven_popup.php:199 include-element/liven_portfolio.php:831
+#: include-element/liven_post_type_list.php:237
+#: include-element/liven_pricing_table.php:392
+#: include-element/liven_pricing_table_mc.php:204
+#: include-element/liven_progressbar.php:243
+#: include-element/liven_section.php:212 include-element/liven_service.php:252
+#: include-element/liven_slider.php:337
+#: include-element/liven_social_icons.php:175
+#: include-element/liven_table.php:232 include-element/liven_tabs.php:196
+#: include-element/liven_tag_cloud.php:213
+#: include-element/liven_team_member.php:348
+#: include-element/liven_testimonial.php:558
+#: include-element/liven_text_block.php:258
+msgid "Zoom Out Right"
+msgstr "Loitonna oikealle"
+
+#: include-element/liven_accordian.php:236
+#: include-element/liven_alert_box.php:139 include-element/liven_box.php:209
+#: include-element/liven_button.php:234 include-element/liven_clients.php:323
+#: include-element/liven_contact_form.php:149
+#: include-element/liven_counter.php:236
+#: include-element/liven_diamond_services.php:277
+#: include-element/liven_icon_box.php:213
+#: include-element/liven_icon_box2.php:223 include-element/liven_list.php:358
+#: include-element/liven_paralax_with_content.php:297
+#: include-element/liven_popup.php:200 include-element/liven_portfolio.php:832
+#: include-element/liven_post_type_list.php:238
+#: include-element/liven_pricing_table.php:393
+#: include-element/liven_pricing_table_mc.php:205
+#: include-element/liven_progressbar.php:244
+#: include-element/liven_section.php:213 include-element/liven_service.php:253
+#: include-element/liven_slider.php:338
+#: include-element/liven_social_icons.php:176
+#: include-element/liven_table.php:233 include-element/liven_tabs.php:197
+#: include-element/liven_tag_cloud.php:214
+#: include-element/liven_team_member.php:349
+#: include-element/liven_testimonial.php:559
+#: include-element/liven_text_block.php:259
+msgid "Zoom Out Up"
+msgstr "Lähennä, ylös"
+
+#: include-element/liven_accordian.php:241
+#: include-element/liven_alert_box.php:150 include-element/liven_box.php:214
+#: include-element/liven_button.php:239 include-element/liven_clients.php:328
+#: include-element/liven_contact_form.php:154
+#: include-element/liven_counter.php:241
+#: include-element/liven_diamond_services.php:282
+#: include-element/liven_gogle_map.php:67
+#: include-element/liven_icon_box.php:222
+#: include-element/liven_icon_box2.php:232 include-element/liven_list.php:363
+#: include-element/liven_paralax_with_content.php:302
+#: include-element/liven_popup.php:205 include-element/liven_portfolio.php:837
+#: include-element/liven_post_type_list.php:243
+#: include-element/liven_pricing_table.php:219
+#: include-element/liven_pricing_table.php:398
+#: include-element/liven_pricing_table_mc.php:215
+#: include-element/liven_pricing_table_mc.php:308
+#: include-element/liven_progressbar.php:249
+#: include-element/liven_revslider.php:104
+#: include-element/liven_section.php:229 include-element/liven_service.php:258
+#: include-element/liven_slider.php:343
+#: include-element/liven_social_icons.php:185
+#: include-element/liven_table.php:238 include-element/liven_tabs.php:202
+#: include-element/liven_tag_cloud.php:223
+#: include-element/liven_team_member.php:354
+#: include-element/liven_testimonial.php:564
+msgid "Extra Class Name"
+msgstr "Kun luokkanimi"
+
+#: include-element/liven_accordian.php:243
+#: include-element/liven_alert_box.php:152 include-element/liven_box.php:216
+#: include-element/liven_button.php:242 include-element/liven_clients.php:330
+#: include-element/liven_counter.php:243
+#: include-element/liven_diamond_services.php:284
+#: include-element/liven_gogle_map.php:69
+#: include-element/liven_icon_box.php:224
+#: include-element/liven_icon_box2.php:234 include-element/liven_list.php:365
+#: include-element/liven_paralax_with_content.php:304
+#: include-element/liven_portfolio.php:839
+#: include-element/liven_post_type_list.php:245
+#: include-element/liven_progressbar.php:251
+#: include-element/liven_service.php:260 include-element/liven_slider.php:345
+#: include-element/liven_social_icons.php:187
+#: include-element/liven_table.php:240 include-element/liven_tabs.php:204
+#: include-element/liven_tag_cloud.php:225
+#: include-element/liven_testimonial.php:566
+#: include-element/liven_text_block.php:271
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your CSS file."
+msgstr ""
+"Jos haluat tietyn sisällön tyylielementti eri tavalla, tämän kentän avulla "
+"voit lisätä luokkanimi ja viitata siihen CSS-tiedosto."
+
+#: include-element/liven_accordian.php:248
+msgid "Accordian Title Color"
+msgstr "Accordian otsikon värin"
+
+#: include-element/liven_accordian.php:252
+#: include-element/liven_accordian.php:260
+#: include-element/liven_accordian.php:268
+#: include-element/liven_accordian.php:280
+#: include-element/liven_accordian.php:292 include-element/liven_box.php:228
+#: include-element/liven_box.php:239 include-element/liven_box.php:247
+#: include-element/liven_box.php:259 include-element/liven_box.php:272
+#: include-element/liven_box.php:283 include-element/liven_box.php:291
+#: include-element/liven_button.php:283 include-element/liven_button.php:297
+#: include-element/liven_button.php:304 include-element/liven_button.php:312
+#: include-element/liven_button.php:320 include-element/liven_button.php:328
+#: include-element/liven_button.php:337 include-element/liven_button.php:347
+#: include-element/liven_button.php:356 include-element/liven_button.php:363
+#: include-element/liven_button.php:371 include-element/liven_button.php:385
+#: include-element/liven_button.php:398
+#: include-element/liven_contact_form.php:166
+#: include-element/liven_contact_form.php:174
+#: include-element/liven_contact_form.php:183
+#: include-element/liven_contact_form.php:192
+#: include-element/liven_contact_form.php:201
+#: include-element/liven_popup.php:337 include-element/liven_popup.php:345
+#: include-element/liven_portfolio.php:849
+#: include-element/liven_portfolio.php:858
+#: include-element/liven_portfolio.php:867
+#: include-element/liven_portfolio.php:876
+#: include-element/liven_portfolio.php:884
+#: include-element/liven_portfolio.php:897
+#: include-element/liven_portfolio.php:910
+#: include-element/liven_portfolio.php:922
+#: include-element/liven_portfolio.php:935
+#: include-element/liven_portfolio.php:948
+#: include-element/liven_portfolio.php:961
+#: include-element/liven_portfolio.php:974
+#: include-element/liven_portfolio.php:987
+#: include-element/liven_pricing_table_mc.php:317
+#: include-element/liven_pricing_table_mc.php:325
+#: include-element/liven_pricing_table_mc.php:335
+#: include-element/liven_pricing_table_mc.php:344
+#: include-element/liven_pricing_table_mc.php:351
+#: include-element/liven_pricing_table_mc.php:360
+#: include-element/liven_pricing_table_mc.php:373
+#: include-element/liven_pricing_table_mc.php:386
+#: include-element/liven_progressbar.php:259
+#: include-element/liven_progressbar.php:267
+#: include-element/liven_progressbar.php:276
+#: include-element/liven_section.php:240 include-element/liven_section.php:248
+#: include-element/liven_section.php:257 include-element/liven_table.php:247
+#: include-element/liven_tabs.php:213 include-element/liven_tabs.php:221
+#: include-element/liven_tabs.php:229 include-element/liven_tabs.php:237
+#: include-element/liven_tabs.php:245 include-element/liven_tabs.php:253
+#: include-element/liven_testimonial.php:579
+#: include-element/liven_testimonial.php:592
+#: include-element/liven_testimonial.php:601
+#: include-element/liven_testimonial.php:610
+#: include-element/liven_testimonial.php:623
+#: include-element/liven_testimonial.php:636
+#: include-element/liven_testimonial.php:649
+#: include-element/liven_testimonial.php:662
+#: include-element/liven_testimonial.php:675
+#: include-element/liven_testimonial.php:688
+#: include-element/liven_testimonial.php:700
+#: include-element/liven_testimonial.php:711
+#: include-element/liven_testimonial.php:725
+#: include-element/liven_testimonial.php:738
+msgid "Design Options"
+msgstr "Suunnitelmavaihtoehtojen"
+
+#: include-element/liven_accordian.php:256
+msgid "Accordian Title Hover Color"
+msgstr "Accordian otsikko valintaväri"
+
+#: include-element/liven_accordian.php:264
+msgid "Accordian Title Background Color"
+msgstr "Otsikon taustaväri"
+
+#: include-element/liven_accordian.php:276
+msgid "Accordian Title Background Hover Color"
+msgstr "Accordian otsikko valintapainikkeen taustaväri"
+
+#: include-element/liven_accordian.php:288
+msgid "Accordian Title Border Color"
+msgstr "Otsikon reunaviivan väri"
+
+#: include-element/liven_alert_box.php:26
+msgid "Liven Alert Box"
+msgstr "Elävöittää Alert Box"
+
+#: include-element/liven_alert_box.php:34 include-element/liven_box.php:117
+#: include-element/liven_paralax_with_content.php:170
+#: include-element/liven_popup.php:102
+#: include-element/liven_text_block.php:147
+msgid "Content"
+msgstr "Sisältö"
+
+#: include-element/liven_alert_box.php:36 include-element/liven_box.php:119
+#: include-element/liven_text_block.php:149
+msgid "Enter your content."
+msgstr "Anna sisältö"
+
+#: include-element/liven_alert_box.php:40
+msgid "Alert Type"
+msgstr "Hälytyksen tyyppi"
+
+#: include-element/liven_alert_box.php:42
+msgid "Select alert box display."
+msgstr "Valitse ilmoitusruutu näyttö."
+
+#: include-element/liven_alert_box.php:45
+msgid "Success"
+msgstr "Onnistui"
+
+#: include-element/liven_alert_box.php:46
+msgid "Attention"
+msgstr "Tarkkaavaisuus"
+
+#: include-element/liven_alert_box.php:47
+msgid "Warning"
+msgstr "Varoitus"
+
+#: include-element/liven_alert_box.php:48
+msgid "Error"
+msgstr "Virhe"
+
+#: include-element/liven_alert_box.php:144
+msgid "Alert Box ID"
+msgstr "Hälytyslaatikko"
+
+#: include-element/liven_alert_box.php:146
+msgid "If you wish to add an ID to element, then use this field to add an ID."
+msgstr ""
+"Voit halutessasi lisätä tunnuksen elementtiin sitten lisätä kentän tunnus."
+
+#: include-element/liven_box.php:97
+msgid "Liven Box"
+msgstr "Elävöittää laatikko"
+
+#: include-element/liven_box.php:104
+msgid "Title Line"
+msgstr "otsikkoviiva"
+
+#: include-element/liven_box.php:110 include-element/liven_icon_box2.php:127
+#: include-element/liven_testimonial.php:596
+#: include-element/liven_text_block.php:117
+msgid "Title Color"
+msgstr "Otsikon väri"
+
+#: include-element/liven_box.php:221
+msgid "Box Alignment"
+msgstr "Keskusteluikkunan sijainti"
+
+#: include-element/liven_box.php:224 include-element/liven_box.php:414
+#: include-element/liven_button.php:125 include-element/liven_button.php:270
+#: include-element/liven_button.php:286 include-element/liven_counter.php:143
+#: include-element/liven_icon_box2.php:119 include-element/liven_popup.php:321
+#: include-element/liven_progressbar.php:125
+#: include-element/liven_section.php:94 include-element/liven_section.php:119
+#: include-element/liven_tag_cloud.php:103
+#: include-element/liven_team_member.php:226
+#: include-element/liven_text_block.php:98
+#: include-element/liven_text_block.php:170
+msgid "Left"
+msgstr "Vasemmalla"
+
+#: include-element/liven_box.php:225 include-element/liven_button.php:287
+#: include-element/liven_counter.php:144
+#: include-element/liven_icon_box2.php:120
+#: include-element/liven_progressbar.php:126
+#: include-element/liven_section.php:95 include-element/liven_section.php:120
+#: include-element/liven_tag_cloud.php:104
+#: include-element/liven_team_member.php:227
+#: include-element/liven_text_block.php:99
+#: include-element/liven_text_block.php:171
+msgid "Center"
+msgstr "Keskitetty"
+
+#: include-element/liven_box.php:226 include-element/liven_box.php:415
+#: include-element/liven_button.php:126 include-element/liven_button.php:271
+#: include-element/liven_button.php:288 include-element/liven_counter.php:145
+#: include-element/liven_icon_box2.php:121 include-element/liven_popup.php:322
+#: include-element/liven_progressbar.php:127
+#: include-element/liven_section.php:96 include-element/liven_section.php:121
+#: include-element/liven_tag_cloud.php:105
+#: include-element/liven_team_member.php:228
+#: include-element/liven_text_block.php:100
+#: include-element/liven_text_block.php:172
+msgid "Right"
+msgstr "Oikealla"
+
+#: include-element/liven_box.php:232
+#: include-element/liven_paralax_with_content.php:159
+#: include-element/liven_pricing_table.php:193
+#: include-element/liven_table.php:103
+msgid "Style"
+msgstr "Tyyli"
+
+#: include-element/liven_box.php:235 include-element/liven_box.php:332
+#: include-element/liven_button.php:333
+#: include-element/liven_contact_form.php:170
+#: include-element/liven_popup.php:245
+#: include-element/liven_pricing_table_mc.php:321
+msgid "BG Color"
+msgstr "BG väri"
+
+#: include-element/liven_box.php:236
+msgid "BG Pattern"
+msgstr "BG malli"
+
+#: include-element/liven_box.php:237
+msgid "BG Color with Pattern"
+msgstr "BG väri ja kuvio"
+
+#: include-element/liven_box.php:243 include-element/liven_clients.php:157
+#: include-element/liven_testimonial.php:571
+#: include-element/liven_testimonial.php:704
+msgid "Background Color"
+msgstr "Taustaväri"
+
+#: include-element/liven_box.php:245
+msgid "Select background color for your element."
+msgstr "Valitse taustaväri teidän elementti."
+
+#: include-element/liven_box.php:255
+msgid "Pattern 1 Color"
+msgstr "Kuvion 1 väri"
+
+#: include-element/liven_box.php:257 include-element/liven_box.php:270
+msgid "Select pattern color for your element."
+msgstr "Valitse kuvion väri teidän elementti."
+
+#: include-element/liven_box.php:268
+msgid "Pattern 2 Color"
+msgstr "Kuvion 2 väri"
+
+#: include-element/liven_box.php:281
+msgid "Add border?"
+msgstr "Lisää reuna"
+
+#: include-element/liven_box.php:287 include-element/liven_box.php:350
+#: include-element/liven_button.php:352 include-element/liven_clients.php:179
+#: include-element/liven_contact_form.php:179
+#: include-element/liven_diamond_services.php:337
+#: include-element/liven_popup.php:261
+#: include-element/liven_pricing_table_mc.php:340
+msgid "Border Color"
+msgstr "Reunaviivan väri"
+
+#: include-element/liven_box.php:289
+msgid "Select border color for your element."
+msgstr "Valitse reunaviivan väri teidän elementti."
+
+#: include-element/liven_box.php:300
+#: include-element/liven_diamond_services.php:183
+#: include-element/liven_service.php:147
+msgid "URL (Link)"
+msgstr "Url (linkki)"
+
+#: include-element/liven_box.php:302 include-element/liven_button.php:103
+msgid "Add link to button."
+msgstr "Lisää linkki-painiketta."
+
+#: include-element/liven_box.php:303 include-element/liven_box.php:317
+#: include-element/liven_box.php:328 include-element/liven_box.php:336
+#: include-element/liven_box.php:345 include-element/liven_box.php:354
+#: include-element/liven_box.php:361 include-element/liven_box.php:369
+#: include-element/liven_box.php:382 include-element/liven_box.php:395
+#: include-element/liven_box.php:406 include-element/liven_box.php:421
+#: include-element/liven_button.php:104 include-element/liven_button.php:110
+#: include-element/liven_button.php:116 include-element/liven_button.php:123
+#: include-element/liven_button.php:137 include-element/liven_button.php:148
+#: include-element/liven_button.php:155 include-element/liven_button.php:241
+#: include-element/liven_popup.php:215 include-element/liven_popup.php:229
+#: include-element/liven_popup.php:241 include-element/liven_popup.php:248
+#: include-element/liven_popup.php:256 include-element/liven_popup.php:264
+#: include-element/liven_popup.php:271 include-element/liven_popup.php:278
+#: include-element/liven_popup.php:290 include-element/liven_popup.php:302
+#: include-element/liven_popup.php:313 include-element/liven_popup.php:328
+msgid "Button"
+msgstr "Painike"
+
+#: include-element/liven_box.php:307
+msgid "Size"
+msgstr "Koko"
+
+#: include-element/liven_box.php:309 include-element/liven_popup.php:221
+msgid "Select button display size."
+msgstr "Valitse painike näyttökoko."
+
+#: include-element/liven_box.php:312 include-element/liven_popup.php:225
+msgid "Mini"
+msgstr "Mini"
+
+#: include-element/liven_box.php:313 include-element/liven_popup.php:224
+msgid "Small"
+msgstr "Pieni"
+
+#: include-element/liven_box.php:314 include-element/liven_popup.php:226
+msgid "Normal"
+msgstr "Normaali"
+
+#: include-element/liven_box.php:315 include-element/liven_popup.php:227
+msgid "large"
+msgstr "Iso"
+
+#: include-element/liven_box.php:321 include-element/liven_popup.php:233
+msgid "Shape"
+msgstr "Muoto"
+
+#: include-element/liven_box.php:322 include-element/liven_popup.php:234
+msgid "Select button shape."
+msgstr "Valitse painikkeen muodon."
+
+#: include-element/liven_box.php:325 include-element/liven_popup.php:239
+msgid "Rounded"
+msgstr "Pyöristetty"
+
+#: include-element/liven_box.php:326 include-element/liven_list.php:230
+#: include-element/liven_popup.php:238
+msgid "Square"
+msgstr "Neliö"
+
+#: include-element/liven_box.php:334 include-element/liven_button.php:335
+#: include-element/liven_popup.php:247
+#: include-element/liven_pricing_table_mc.php:323
+msgid "Select background color for button."
+msgstr "Valitse taustaväri napille."
+
+#: include-element/liven_box.php:341 include-element/liven_button.php:343
+#: include-element/liven_contact_form.php:188
+#: include-element/liven_counter.php:131 include-element/liven_popup.php:253
+#: include-element/liven_pricing_table_mc.php:331
+msgid "Text Color"
+msgstr "Tekstin väri"
+
+#: include-element/liven_box.php:343 include-element/liven_button.php:345
+#: include-element/liven_popup.php:255
+#: include-element/liven_pricing_table_mc.php:333
+msgid "Select text color for button."
+msgstr "Valitse tekstiväri-painiketta."
+
+#: include-element/liven_box.php:352 include-element/liven_button.php:354
+#: include-element/liven_popup.php:263
+#: include-element/liven_pricing_table_mc.php:342
+msgid "Select border color for button."
+msgstr "Valitse reunan väritys napille."
+
+#: include-element/liven_box.php:359
+#: include-element/liven_pricing_table_mc.php:349
+msgid "Hover effect?"
+msgstr "Hover-tehoste"
+
+#: include-element/liven_box.php:365 include-element/liven_button.php:367
+#: include-element/liven_popup.php:275
+#: include-element/liven_pricing_table_mc.php:356
+msgid "Hover BG Color"
+msgstr "Tekstin väri kun osoitin kohdalla"
+
+#: include-element/liven_box.php:367 include-element/liven_button.php:369
+#: include-element/liven_popup.php:277
+#: include-element/liven_pricing_table_mc.php:358
+msgid "Select hover background color for button."
+msgstr "Valitse taustaväri napille."
+
+#: include-element/liven_box.php:378 include-element/liven_button.php:381
+#: include-element/liven_popup.php:287
+#: include-element/liven_pricing_table_mc.php:369
+msgid "Hover Text Color"
+msgstr "Tekstin väri kun osoitin kohdalla"
+
+#: include-element/liven_box.php:380 include-element/liven_button.php:383
+#: include-element/liven_popup.php:289
+#: include-element/liven_pricing_table_mc.php:371
+msgid "Select hover text color for button."
+msgstr "Valitse valintapainikkeen tekstiväri-painiketta."
+
+#: include-element/liven_box.php:391 include-element/liven_button.php:394
+#: include-element/liven_clients.php:190 include-element/liven_popup.php:299
+#: include-element/liven_pricing_table_mc.php:382
+msgid "Hover Border Color"
+msgstr "Laatikon hover-reunaviivan väri"
+
+#: include-element/liven_box.php:393 include-element/liven_button.php:396
+#: include-element/liven_popup.php:301
+#: include-element/liven_pricing_table_mc.php:384
+msgid "Select hover border color for button."
+msgstr "Valitse reunan väritys napille."
+
+#: include-element/liven_box.php:404 include-element/liven_progressbar.php:137
+msgid "Add icon?"
+msgstr "Lisää kuvake"
+
+#: include-element/liven_box.php:410 include-element/liven_button.php:120
+#: include-element/liven_popup.php:317
+msgid "Icon Alignment"
+msgstr "Kuvakkeen tasaus"
+
+#: include-element/liven_box.php:411 include-element/liven_button.php:121
+#: include-element/liven_popup.php:318
+msgid "Select icon alignment."
+msgstr "Valitse tasaus."
+
+#: include-element/liven_button.php:94
+msgid "Liven Button"
+msgstr "Elävöittää painiketta"
+
+#: include-element/liven_button.php:101
+msgid "Button Link"
+msgstr "Painikkeen osoitelinkki"
+
+#: include-element/liven_button.php:108
+msgid "Button Title Size"
+msgstr "Napin otsikko"
+
+#: include-element/liven_button.php:114 include-element/liven_popup.php:311
+msgid "Add Icon?"
+msgstr "Lisää kuvake"
+
+#: include-element/liven_button.php:135
+msgid "Choose Icon"
+msgstr "Valitse Ikoni"
+
+#: include-element/liven_button.php:247
+msgid "Add Tooltip?"
+msgstr "Lisätä työkaluvihjeen?"
+
+#: include-element/liven_button.php:249 include-element/liven_button.php:253
+#: include-element/liven_button.php:255 include-element/liven_button.php:265
+msgid "Tooltip"
+msgstr "Työkaluvinkki"
+
+#: include-element/liven_button.php:263
+msgid "Tooltip Position"
+msgstr "Tooltip kanta"
+
+#: include-element/liven_button.php:268
+msgid "Bottom"
+msgstr "Alhaalla"
+
+#: include-element/liven_button.php:269
+msgid "Top"
+msgstr "Ylhäällä"
+
+#: include-element/liven_button.php:281
+msgid "Button Alignment"
+msgstr "Painikkeen tasaus"
+
+#: include-element/liven_button.php:293
+msgid "Border Radius"
+msgstr "Reunaviivan pyöristys"
+
+#: include-element/liven_button.php:295
+msgid "Insert 0 for square button."
+msgstr "Aseta 0 neliönäppäintä."
+
+#: include-element/liven_button.php:301
+msgid "Padding Top"
+msgstr "Sisämarginaali ylhäällä"
+
+#: include-element/liven_button.php:309
+msgid "Padding Right"
+msgstr "Sisämarginaali oikealla"
+
+#: include-element/liven_button.php:317
+msgid "Padding Bottom"
+msgstr "Sisämarginaali alhaalla"
+
+#: include-element/liven_button.php:325
+msgid "Padding Left"
+msgstr "Sisämarginaali vasemmalla"
+
+#: include-element/liven_button.php:361 include-element/liven_popup.php:269
+msgid "Hover Effect?"
+msgstr "Hover-tehoste"
+
+#: include-element/liven_clients.php:118
+msgid "Liven Clients"
+msgstr "Elävöittää asiakkaiden"
+
+#: include-element/liven_clients.php:125
+#: include-element/liven_portfolio.php:687
+#: include-element/liven_team_member.php:210
+#: include-element/liven_testimonial.php:391
+msgid "Display Option"
+msgstr "Näyttöasetus"
+
+#: include-element/liven_clients.php:127
+msgid "Select client display option."
+msgstr "Valitse asiakkaan näyttöasetukset."
+
+#: include-element/liven_clients.php:129
+#: include-element/liven_portfolio.php:691
+#: include-element/liven_testimonial.php:395
+msgid "Slider"
+msgstr "Vaihtuva teksti"
+
+#: include-element/liven_clients.php:130
+#: include-element/liven_portfolio.php:692
+#: include-element/liven_testimonial.php:396
+msgid "List"
+msgstr "Sähköpostilista"
+
+#: include-element/liven_clients.php:150
+#: include-element/liven_portfolio.php:739
+#: include-element/liven_tag_cloud.php:125
+#: include-element/liven_team_member.php:203
+#: include-element/liven_testimonial.php:455
+msgid "Count"
+msgstr "Määrä"
+
+#: include-element/liven_clients.php:153
+msgid "How many clients you would like to show? (-1 means unlimited)"
+msgstr "Kuinka moni asiakas haluat näyttää? (1 tarkoittaa rajoittamaton)"
+
+#: include-element/liven_clients.php:159
+msgid "Select background color for client logo."
+msgstr "Valitse taustaväri asiakkaan logo."
+
+#: include-element/liven_clients.php:168
+msgid "Hover Background Color"
+msgstr "Taustaväri kun osoitin kohdalla"
+
+#: include-element/liven_clients.php:170
+msgid "Select hover background color for client logo."
+msgstr "Valitse valintapainikkeen taustaväri asiakkaan logo."
+
+#: include-element/liven_clients.php:181
+msgid "Select border color for client logo box."
+msgstr "Valitse reunaviivan väri asiakkaan logo ruutuun."
+
+#: include-element/liven_clients.php:192
+msgid "Select Hover border color for client logo box."
+msgstr "Valitse valintapainikkeen reunaviivan väri asiakkaan logo ruutuun."
+
+#: include-element/liven_clients.php:201
+msgid "Image Opacity Value"
+msgstr "Näköistiedoston opasiteetti arvo"
+
+#: include-element/liven_clients.php:203
+msgid "Type opacity value from 0 to 1"
+msgstr "Tyyppi opasiteetti arvo 0-1"
+
+#: include-element/liven_clients.php:213
+msgid "Image Hover Opacity Value"
+msgstr "Näköistiedoston Hover opasiteetti arvo"
+
+#: include-element/liven_clients.php:215
+msgid "Type hover opacity value from 0 to 1"
+msgstr "Hover opasiteetti arvo 0-1"
+
+#: include-element/liven_clients.php:225
+msgid "Margin"
+msgstr "Marginaali"
+
+#: include-element/liven_clients.php:228
+msgid "Margin in px. Ex: 0px 0px 30px"
+msgstr "Marginaali px. Ex: 0px 0px 30px"
+
+#: include-element/liven_contact_form.php:47
+msgid "Liven Contact Forms"
+msgstr "Elävöittää yhteystiedot lomakkeet"
+
+#: include-element/liven_contact_form.php:54
+msgid "Contact Forms"
+msgstr "Yhteydenottolomakkeet"
+
+#: include-element/liven_contact_form.php:59
+msgid "Select your Contact Form."
+msgstr "Valitse yhteydenottolomake"
+
+#: include-element/liven_contact_form.php:156
+#: include-element/liven_revslider.php:106
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+"Tyyli erityisesti sisältöelementti eri tavalla - lisätä luokkanimi ja "
+"viitata siihen custom CSS."
+
+#: include-element/liven_contact_form.php:162
+msgid "Label Color"
+msgstr "Etiketin väri"
+
+#: include-element/liven_contact_form.php:164
+msgid "Select label color in your contant form."
+msgstr "Valitse otsikon väri contant-lomakkeessa."
+
+#: include-element/liven_contact_form.php:172
+msgid "Select background color for contact form."
+msgstr "Valitse taustaväri yhteydenottolomakkeella."
+
+#: include-element/liven_contact_form.php:181
+msgid "Select border color for contact form."
+msgstr "Valitse reunaviivan väri yhteydenottolomakkeella."
+
+#: include-element/liven_contact_form.php:190
+msgid "Select text color for input boxes in contact form."
+msgstr "Valitse tekstivärin syöttökenttien yhteydenottolomakkeella."
+
+#: include-element/liven_contact_form.php:197
+msgid "Placeholder Color"
+msgstr "Placeholder Color"
+
+#: include-element/liven_contact_form.php:199
+msgid "Select placeholder color for input boxes in contact form."
+msgstr "Valitse paikkamerkki väri syöttökenttien yhteystietolomakkeen."
+
+#: include-element/liven_counter.php:61
+msgid "Liven Counter"
+msgstr "Elävöittää Counter"
+
+#: include-element/liven_counter.php:68
+msgid "Total Counts"
+msgstr "Yhteensä laskee"
+
+#: include-element/liven_counter.php:70
+msgid "Enter only integer value. "
+msgstr "Kirjoita vain kokonaisluku."
+
+#: include-element/liven_counter.php:74
+msgid "Counter Color"
+msgstr "counter Color"
+
+#: include-element/liven_counter.php:76
+msgid "Select color for counter."
+msgstr "Valitse väri Counter."
+
+#: include-element/liven_counter.php:81
+msgid "Image Or Icon"
+msgstr "Kuvakkeen kuva"
+
+#: include-element/liven_counter.php:85
+#: include-element/liven_paralax_with_content.php:176
+msgid "Icon"
+msgstr "Ikoni"
+
+#: include-element/liven_counter.php:86 include-element/liven_counter.php:114
+#: include-element/liven_post_type_list.php:146
+msgid "Image"
+msgstr "Kuva"
+
+#: include-element/liven_counter.php:91 include-element/liven_icon_box.php:88
+#: include-element/liven_icon_box2.php:89
+#: include-element/liven_portfolio.php:862
+#: include-element/liven_progressbar.php:147
+#: include-element/liven_service.php:115
+#: include-element/liven_testimonial.php:627
+#: include-element/liven_testimonial.php:716
+msgid "Select Icon:"
+msgstr "Valitse kuvake"
+
+#: include-element/liven_counter.php:102
+#: include-element/liven_diamond_services.php:305
+#: include-element/liven_icon_box.php:95
+#: include-element/liven_icon_box2.php:97
+#: include-element/liven_portfolio.php:871
+#: include-element/liven_testimonial.php:640
+#: include-element/liven_testimonial.php:729
+msgid "Icon Color"
+msgstr "Kuvakkeen väri"
+
+#: include-element/liven_counter.php:104
+msgid "Select color for icon."
+msgstr "Valitse väri kuvake."
+
+#: include-element/liven_counter.php:124 include-element/liven_list.php:132
+#: include-element/liven_list.php:182
+msgid "Text"
+msgstr "Teksti"
+
+#: include-element/liven_counter.php:126
+msgid "Enter text for counter."
+msgstr "Kirjoita teksti counter."
+
+#: include-element/liven_counter.php:133
+#: include-element/liven_progressbar.php:257
+msgid "Select color for text."
+msgstr "Valitse tekstin väri."
+
+#: include-element/liven_counter.php:139
+#: include-element/liven_progressbar.php:122
+msgid "Text Alignment"
+msgstr "Tekstin tasaus"
+
+#: include-element/liven_counter.php:248 include-element/liven_service.php:265
+#: include-element/liven_social_icons.php:192
+#: include-element/liven_table.php:245 include-element/liven_tag_cloud.php:280
+#: include-element/liven_text_block.php:276
+msgid "Css"
+msgstr "Cascading Style Sheets"
+
+#: include-element/liven_counter.php:250
+#: include-element/liven_icon_box2.php:273
+#: include-element/liven_service.php:267
+#: include-element/liven_social_icons.php:194
+#: include-element/liven_tag_cloud.php:282
+#: include-element/liven_text_block.php:278
+msgid "Design options"
+msgstr "Vaihtoehdot"
+
+#: include-element/liven_diamond_services.php:130
+msgid "Liven Diamond Services"
+msgstr "Elävöittää Diamond palvelut"
+
+#: include-element/liven_diamond_services.php:137
+msgid "Place Services in Diamond shape."
+msgstr "Paikka Palvelut timantti muoto."
+
+#: include-element/liven_diamond_services.php:141
+#: include-element/liven_service.php:84 include-element/liven_tabs.php:85
+msgid "Display Style"
+msgstr "Esitystyyli"
+
+#: include-element/liven_diamond_services.php:151
+msgid "Services"
+msgstr "Palvelut"
+
+#: include-element/liven_diamond_services.php:153
+msgid ""
+"Place Services in Diamond shape. [NOTE: You can add maximum 9 Service to "
+"style 1 for proper design otherwise it will display style 2 design]"
+msgstr ""
+"Paikka Palvelut timantti muoto. [HUOMAUTUS: voit lisätä enintään 9 palvelua "
+"tyyli 1 asianmukainen suunnittelu muuten se näyttää tyyli 2 design]"
+
+#: include-element/liven_diamond_services.php:156
+msgid "Diamond Service"
+msgstr "Diamond Service"
+
+#: include-element/liven_diamond_services.php:161
+msgid "Diamond Service 2"
+msgstr "Diamond palvelu 2"
+
+#: include-element/liven_diamond_services.php:170
+#: include-element/liven_service.php:94
+msgid "Service Name"
+msgstr "Palvelun nimi"
+
+#: include-element/liven_diamond_services.php:172
+msgid "Enter Individual Service Name."
+msgstr "Kirjoita palvelunimi."
+
+#: include-element/liven_diamond_services.php:177
+#: include-element/liven_list.php:158
+msgid "Icon For Service"
+msgstr "Palvelun kuvaketta"
+
+#: include-element/liven_diamond_services.php:178
+msgid "Select icon for service."
+msgstr "Valitse palvelu."
+
+#: include-element/liven_diamond_services.php:185
+msgid "Add link to service."
+msgstr "Lisää linkki palveluun."
+
+#: include-element/liven_diamond_services.php:289
+msgid "Main Background Color"
+msgstr "Taustaväri"
+
+#: include-element/liven_diamond_services.php:293
+#: include-element/liven_diamond_services.php:301
+#: include-element/liven_diamond_services.php:309
+#: include-element/liven_diamond_services.php:317
+#: include-element/liven_diamond_services.php:325
+#: include-element/liven_diamond_services.php:333
+#: include-element/liven_diamond_services.php:341
+#: include-element/liven_diamond_services.php:353
+msgid "Service Colors"
+msgstr "Palvelun värit"
+
+#: include-element/liven_diamond_services.php:297
+msgid "Main Background Hover Color"
+msgstr "Taustan väri kun osoitin kohdalla"
+
+#: include-element/liven_diamond_services.php:313
+msgid "Icon Hover Color"
+msgstr "Kuvakkeen väri osoitin kohdalla"
+
+#: include-element/liven_diamond_services.php:321
+msgid "Service Title Color"
+msgstr "Otsikon värin"
+
+#: include-element/liven_diamond_services.php:329
+msgid "Service Title Hover Color"
+msgstr "Palvelun nimi valintaväri"
+
+#: include-element/liven_diamond_services.php:349
+msgid "Border Hover Color"
+msgstr "Reunaviivan väri kun osoitin kohdalla"
+
+#: include-element/liven_gogle_map.php:27
+msgid "Liven Google Map"
+msgstr "Elävöittää Google kartta"
+
+#: include-element/liven_gogle_map.php:36
+msgid "Map Style"
+msgstr "Kartan tyyli"
+
+#: include-element/liven_gogle_map.php:39
+msgid "Gray"
+msgstr "Harmaa"
+
+#: include-element/liven_gogle_map.php:40
+msgid "Dark Gray"
+msgstr "Tummanharmaa"
+
+#: include-element/liven_gogle_map.php:41
+msgid "Blue"
+msgstr "Sininen"
+
+#: include-element/liven_gogle_map.php:46
+msgid "Map Latitude"
+msgstr "kartta Latitude"
+
+#: include-element/liven_gogle_map.php:51
+msgid "Map Longitude"
+msgstr "Kartta Leveysaste"
+
+#: include-element/liven_gogle_map.php:56
+msgid "Zoom Level"
+msgstr "Zoomauksen taso"
+
+#: include-element/liven_gogle_map.php:61
+msgid "Map Height"
+msgstr "Kartan korkeus"
+
+#: include-element/liven_icon_box.php:78
+msgid "Liven Icon Box"
+msgstr "Elävöittää kuvake on valittuna"
+
+#: include-element/liven_icon_box.php:91
+#: include-element/liven_icon_box2.php:93
+#: include-element/liven_portfolio.php:864
+#: include-element/liven_progressbar.php:149
+#: include-element/liven_service.php:118
+#: include-element/liven_testimonial.php:629
+#: include-element/liven_testimonial.php:718
+msgid "Select the icon from the list."
+msgstr "Valitse kuvake luettelosta."
+
+#: include-element/liven_icon_box.php:103
+msgid "Icon Background Color"
+msgstr "Kuvakkeen taustaväri"
+
+#: include-element/liven_icon_box.php:111
+#: include-element/liven_icon_box2.php:135
+#: include-element/liven_service.php:141 include-element/liven_table.php:56
+msgid "Table HTML content."
+msgstr "HTML sisältö."
+
+#: include-element/liven_icon_box.php:113
+#: include-element/liven_icon_box2.php:137
+msgid "Insert box content here."
+msgstr "Lisää ruutuun sisältö tähän."
+
+#: include-element/liven_icon_box.php:117
+msgid "Box Content Color"
+msgstr "Sisällön väri"
+
+#: include-element/liven_icon_box.php:124
+msgid "Box Border Color"
+msgstr "Laatikon reunaviivan väri"
+
+#: include-element/liven_icon_box.php:229
+#: include-element/liven_icon_box2.php:239
+#: include-element/liven_social_icons.php:68
+msgid "Facebook"
+msgstr "Facebook"
+
+#: include-element/liven_icon_box.php:231
+#: include-element/liven_icon_box.php:237
+#: include-element/liven_icon_box.php:243
+#: include-element/liven_icon_box.php:249
+#: include-element/liven_icon_box.php:255
+#: include-element/liven_icon_box2.php:241
+#: include-element/liven_icon_box2.php:247
+#: include-element/liven_icon_box2.php:253
+#: include-element/liven_icon_box2.php:259
+#: include-element/liven_icon_box2.php:265
+msgid "Social Links"
+msgstr "Somelinkit"
+
+#: include-element/liven_icon_box.php:235
+#: include-element/liven_icon_box2.php:245
+#: include-element/liven_social_icons.php:73
+msgid "Twitter"
+msgstr "Twitter"
+
+#: include-element/liven_icon_box.php:241
+#: include-element/liven_icon_box2.php:251
+#: include-element/liven_social_icons.php:78
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: include-element/liven_icon_box.php:247
+#: include-element/liven_social_icons.php:83
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: include-element/liven_icon_box.php:253
+#: include-element/liven_icon_box2.php:263
+#: include-element/liven_social_icons.php:88
+msgid "Spacing"
+msgstr "Välistys"
+
+#: include-element/liven_icon_box.php:256
+#: include-element/liven_icon_box2.php:266
+#: include-element/liven_social_icons.php:90
+msgid "Space between two icons in px."
+msgstr "Väli kaksi kuvaketta px."
+
+#: include-element/liven_icon_box2.php:79
+msgid "Liven Icon Box 2"
+msgstr "Elävöittää ikoni Box 2"
+
+#: include-element/liven_icon_box2.php:103
+msgid "Icon Box Title"
+msgstr "Ikoni ﻿Laatikon otsikko"
+
+#: include-element/liven_icon_box2.php:109
+#: include-element/liven_text_block.php:89
+msgid "Title Font Size"
+msgstr "Otsikon fontin koko"
+
+#: include-element/liven_icon_box2.php:116
+#: include-element/liven_text_block.php:95
+msgid "Title Alignment"
+msgstr "Otsikon tasaus"
+
+#: include-element/liven_icon_box2.php:257
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: include-element/liven_icon_box2.php:271
+msgid "Css of Icon Box"
+msgstr "CSS kuvake on valittuna"
+
+#: include-element/liven_list.php:98
+msgid "Liven List"
+msgstr "Elävöittää luettelo"
+
+#: include-element/liven_list.php:108
+msgid "List Display Style"
+msgstr "Esitystyyli"
+
+#: include-element/liven_list.php:112 include-element/liven_list.php:118
+msgid "List Icon"
+msgstr "Listan kuvake"
+
+#: include-element/liven_list.php:113
+msgid "List Simple"
+msgstr "Luettelo yksinkertainen"
+
+#: include-element/liven_list.php:128 include-element/liven_list.php:178
+msgid "Item Type"
+msgstr "Tuotteen tyyppi:"
+
+#: include-element/liven_list.php:133 include-element/liven_list.php:183
+msgid "Link"
+msgstr "Linkki"
+
+#: include-element/liven_list.php:138
+msgid "List Icon Item"
+msgstr "Kuvake luettelokohde"
+
+#: include-element/liven_list.php:149 include-element/liven_list.php:198
+msgid "Link Item"
+msgstr "Linkki-kuvake"
+
+#: include-element/liven_list.php:169
+msgid "List "
+msgstr "Sähköpostilista"
+
+#: include-element/liven_list.php:188
+msgid "List Item"
+msgstr "Luettelon kohta"
+
+#: include-element/liven_list.php:210
+msgid "List Stype"
+msgstr "Luettelo Stype"
+
+#: include-element/liven_list.php:214
+msgid "Unordered"
+msgstr "Järjestämätön"
+
+#: include-element/liven_list.php:215
+msgid "Ordered"
+msgstr "Tilattu"
+
+#: include-element/liven_list.php:224
+msgid "Unordered List Style Type"
+msgstr "Järjestämätön lista tyyliä"
+
+#: include-element/liven_list.php:228
+msgid "Disc"
+msgstr "Irrot."
+
+#: include-element/liven_list.php:229
+msgid "Circle"
+msgstr "Ympyrä"
+
+#: include-element/liven_list.php:231
+msgid "None"
+msgstr "non"
+
+#: include-element/liven_list.php:240
+msgid "Ordered List Style Type"
+msgstr "Tilata luettelon tyylin tyyppi"
+
+#: include-element/liven_list.php:244
+msgid "Numbers"
+msgstr "Numerot"
+
+#: include-element/liven_list.php:245
+msgid "Uppercase "
+msgstr "Isot kirjaimet"
+
+#: include-element/liven_list.php:246
+msgid "Lowercase "
+msgstr "Pienet kirjaimet"
+
+#: include-element/liven_list.php:247
+msgid "Uppercase Roman Numbers"
+msgstr "Isot roomalaiset numerot"
+
+#: include-element/liven_list.php:248
+msgid "Lowercase Roman Numbers"
+msgstr "Pienet roomalaiset numerot"
+
+#: include-element/liven_list.php:257
+msgid "Display As Horizontal List?"
+msgstr "Näytä vaakasuora luettelo?"
+
+#: include-element/liven_list.php:262
+msgid "Spacing between items"
+msgstr "Osien välien"
+
+#: include-element/liven_list.php:263
+msgid "Size unit will be px."
+msgstr "Koon yksikkö on px."
+
+#: include-element/liven_list.php:370
+msgid "List Color"
+msgstr "Luettelo väri"
+
+#: include-element/liven_list.php:373 include-element/liven_list.php:381
+#: include-element/liven_list.php:393 include-element/liven_list.php:405
+#: include-element/liven_list.php:413
+msgid "Design Option"
+msgstr "Muotoilu vaihtoehto"
+
+#: include-element/liven_list.php:377
+msgid "List Icon Color"
+msgstr "Kuvakkeen väri"
+
+#: include-element/liven_list.php:389
+msgid "List Icon Hover Color"
+msgstr "Kuvakkeiden hover-väri"
+
+#: include-element/liven_list.php:401
+msgid "List Link Color"
+msgstr "Linkin väri"
+
+#: include-element/liven_list.php:409
+msgid "List Link Hover Color"
+msgstr "Linkin väri kun osoitin kohdalla"
+
+#: include-element/liven_paralax_with_content.php:149
+msgid "Liven Parallax Content"
+msgstr "Elävöittää parallaksi sisältöä"
+
+#: include-element/liven_paralax_with_content.php:160
+msgid "Select style."
+msgstr "Valitse tyyli"
+
+#: include-element/liven_paralax_with_content.php:172
+msgid "Maximum of 6 elements can be shown properly."
+msgstr "Enintään 6 elementtiä voidaan näyttää oikein."
+
+#: include-element/liven_paralax_with_content.php:177
+msgid "Select icon."
+msgstr "Valitse kuvake"
+
+#: include-element/liven_paralax_with_content.php:182
+#: include-element/liven_testimonial.php:430
+#: include-element/liven_text_block.php:68
+msgid "Title"
+msgstr "Otsikko"
+
+#: include-element/liven_paralax_with_content.php:184
+msgid "Enter title."
+msgstr "Anna otsikko"
+
+#: include-element/liven_paralax_with_content.php:189
+msgid "Info"
+msgstr "Tietoa"
+
+#: include-element/liven_paralax_with_content.php:191
+msgid "Enter information."
+msgstr "Kirjoita tiedot."
+
+#: include-element/liven_paralax_with_content.php:197
+msgid "Paralax Image"
+msgstr "Paralax kuva"
+
+#: include-element/liven_paralax_with_content.php:204
+msgid "Object Image"
+msgstr "Objektin kuva"
+
+#: include-element/liven_popup.php:84
+msgid "Liven Popup"
+msgstr "Elävöittää Popup"
+
+#: include-element/liven_popup.php:91
+msgid "Place content elements inside the popup"
+msgstr "Sisällön osien sisällä ponnahdusikkuna"
+
+#: include-element/liven_popup.php:95
+msgid "Popup Title"
+msgstr "Popup otsikko"
+
+#: include-element/liven_popup.php:97
+msgid "This is display as Popup Title at front side"
+msgstr "Tämä on näyttö Popup otsikko etupuolella"
+
+#: include-element/liven_popup.php:104
+msgid "Enter your popup content."
+msgstr "Kirjoita popup sisältöä."
+
+#: include-element/liven_popup.php:108
+msgid "Popup ID"
+msgstr "Popup tunnus"
+
+#: include-element/liven_popup.php:110 include-element/liven_section.php:225
+msgid ""
+"This option comes handy when you are creating One page scroll website and "
+"here you can set ID which you used in your navigation anchor tag."
+msgstr ""
+"Tämä vaihtoehto tulee kätevä, kun luot yhden sivun Siirry verkkosivuilla ja "
+"täällä voit asettaa ID, jota käytit navigointi ankkuri tag."
+
+#: include-element/liven_popup.php:207
+#: include-element/liven_pricing_table.php:221
+#: include-element/liven_pricing_table.php:400
+#: include-element/liven_pricing_table_mc.php:217
+#: include-element/liven_pricing_table_mc.php:310
+#: include-element/liven_section.php:231
+#: include-element/liven_team_member.php:356
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Jos haluat tietyn sisällön tyylielementti eri tavalla, tämän kentän avulla "
+"voit lisätä luokkanimi ja viitata siihen css-tiedosto."
+
+#: include-element/liven_popup.php:212
+msgid "Popup Buton Text"
+msgstr "Popup Buton teksti"
+
+#: include-element/liven_popup.php:214
+msgid "This is display as button title at front side."
+msgstr "Tämä on kuin painikkeen otsikko etupuolella."
+
+#: include-element/liven_popup.php:219
+msgid "Buton Size"
+msgstr "Buton kokoa"
+
+#: include-element/liven_popup.php:333
+msgid "Popup Title Color"
+msgstr "Popup otsikon värin"
+
+#: include-element/liven_popup.php:335
+msgid "Select title color for your popup."
+msgstr "Valitse otsikon värin ponnahdusikkunan."
+
+#: include-element/liven_popup.php:341
+msgid "Popup Title Background Color"
+msgstr "Ponnahdusikkunan taustaväri"
+
+#: include-element/liven_popup.php:343
+msgid "Select title background color for your popup."
+msgstr "Valitse otsikon taustavärin ponnahdusikkunan."
+
+#: include-element/liven_portfolio.php:679
+msgid "Liven Portfolio"
+msgstr "Elävöittää Portfolio"
+
+#: include-element/liven_portfolio.php:683
+msgid "Adds styles to portfolio."
+msgstr "Lisää tyylejä salkun."
+
+#: include-element/liven_portfolio.php:689
+msgid "Select portfolio display option."
+msgstr "Valitse portfolio näyttöasetukset."
+
+#: include-element/liven_portfolio.php:697
+msgid "Style Option"
+msgstr "Tyyliasetus"
+
+#: include-element/liven_portfolio.php:699
+msgid "Select portfolio style option for listing."
+msgstr "Valitse portfolio tyyli listalle."
+
+#: include-element/liven_portfolio.php:703
+#: include-element/liven_revslider.php:90
+#: include-element/liven_testimonial.php:421
+msgid "Style 3"
+msgstr "Tyyli 3"
+
+#: include-element/liven_portfolio.php:704
+msgid "Style 4"
+msgstr "Tyyli 4"
+
+#: include-element/liven_portfolio.php:705
+msgid "Style 5"
+msgstr "Tyyli 5"
+
+#: include-element/liven_portfolio.php:729
+msgid "Filter Tabs?"
+msgstr "Suodattaa välilehtien?"
+
+#: include-element/liven_portfolio.php:735
+msgid "Enable or disable filter gallery tabs"
+msgstr "Otetaanko suodatin Galleria-välilehteä"
+
+#: include-element/liven_portfolio.php:742
+msgid "How many portfolios you would like to show? (-1 means unlimited)"
+msgstr "Kuinka monta salkkujen haluat näyttää? (1 tarkoittaa rajoittamaton)"
+
+#: include-element/liven_portfolio.php:844
+msgid "Portfolio Title Color"
+msgstr "Portfolion otsikko väri"
+
+#: include-element/liven_portfolio.php:846
+msgid "Select color for portfolio title."
+msgstr "Valitse väri portfolion otsikko."
+
+#: include-element/liven_portfolio.php:853
+msgid "Category Color"
+msgstr "Luokan väri"
+
+#: include-element/liven_portfolio.php:855
+msgid "Select color for portfolio category."
+msgstr "Valitse väri salkun luokalle."
+
+#: include-element/liven_portfolio.php:873
+msgid "Select color for portfolio icon."
+msgstr "Valitse väri salkku-kuvake."
+
+#: include-element/liven_portfolio.php:880
+msgid "Portfolio Hover Color"
+msgstr "Portfolio valintaväri"
+
+#: include-element/liven_portfolio.php:882
+msgid "Select color for hover effect."
+msgstr "Valitse valintapainikkeen tehosteen väri."
+
+#: include-element/liven_portfolio.php:888
+#: include-element/liven_testimonial.php:653
+msgid "Slider Arrow Bacground"
+msgstr "Liukusäädintä nuoli Bacground"
+
+#: include-element/liven_portfolio.php:890
+#: include-element/liven_testimonial.php:655
+msgid "Select color for slider arrows."
+msgstr "Valitse väri liukusäädintä nuolia."
+
+#: include-element/liven_portfolio.php:901
+#: include-element/liven_testimonial.php:666
+msgid "Slider Arrow Hover Bacground"
+msgstr "Liukusäädintä nuoli Hover Bacground"
+
+#: include-element/liven_portfolio.php:903
+#: include-element/liven_testimonial.php:668
+msgid "Select hover color for slider arrows."
+msgstr "Valitse valintaväri liukusäädintä nuolia."
+
+#: include-element/liven_portfolio.php:914
+msgid "Filter Tab BG Color"
+msgstr "Suodata välilehden BG väri"
+
+#: include-element/liven_portfolio.php:916
+msgid "Select background color for filter tab"
+msgstr "Valitse Suodata-välilehdessä taustaväri"
+
+#: include-element/liven_portfolio.php:927
+msgid "Filter Tab Hover BG Color"
+msgstr "Suodata-välilehdessä Hover BG väri"
+
+#: include-element/liven_portfolio.php:929
+msgid "Select hover background color for filter tab"
+msgstr "Valitse valintapainikkeen taustaväri Suodata-välilehdessä"
+
+#: include-element/liven_portfolio.php:940
+msgid "Filter Tab Text Color"
+msgstr "Suodattimen tekstin väri"
+
+#: include-element/liven_portfolio.php:942
+msgid "Select text color for filter tab"
+msgstr "Valitse tekstin v\\u00E4ri Suodata-välilehdessä"
+
+#: include-element/liven_portfolio.php:953
+msgid "Filter Tab Hover Text Color"
+msgstr "Suodata välilehden Hover tekstiväri"
+
+#: include-element/liven_portfolio.php:955
+msgid "Select hover text color for filter tab"
+msgstr "Valitse valintapainikkeen tekstivärin Suodata-välilehdessä"
+
+#: include-element/liven_portfolio.php:966
+msgid "Date Filter BG Color"
+msgstr "Päivämäärä suodatin BG väri"
+
+#: include-element/liven_portfolio.php:968
+msgid "Select background color for month filter"
+msgstr "Valitse taustaväri kuukauden suodatin"
+
+#: include-element/liven_portfolio.php:979
+msgid "Date Filter Text Color"
+msgstr "Suodattimen tekstin väri"
+
+#: include-element/liven_portfolio.php:981
+msgid "Select text color for month filter"
+msgstr "Valitse tekstiväri kuukauden suodatin"
+
+#: include-element/liven_post_type_list.php:120
+msgid "Liven Post List"
+msgstr "Elävöittää tekstiluettelo"
+
+#: include-element/liven_post_type_list.php:127
+msgid "Background Style"
+msgstr "Taustan tyyli"
+
+#: include-element/liven_post_type_list.php:137
+msgid "Data Source"
+msgstr "Rivin lähde"
+
+#: include-element/liven_post_type_list.php:141
+msgid "Select content type for your grid."
+msgstr "Valitse sisältötyyppi ruudukko."
+
+#: include-element/liven_pricing_table.php:179
+msgid "Liven Pricing Tables Group"
+msgstr "Elävöittää hinnoittelu taulukot-ryhmässä"
+
+#: include-element/liven_pricing_table.php:197
+msgid "Two Color"
+msgstr "Kaksivärinen"
+
+#: include-element/liven_pricing_table.php:198
+msgid "One Color"
+msgstr "Yksi väri"
+
+#: include-element/liven_pricing_table.php:203
+msgid "Default Table Color"
+msgstr "Taulukon oletusväri"
+
+#: include-element/liven_pricing_table.php:209
+msgid "Header Background Color"
+msgstr "Headerin taustaväri"
+
+#: include-element/liven_pricing_table.php:228
+#: include-element/liven_pricing_table_mc.php:224
+msgid "Liven Pricing Table"
+msgstr "Elävöittää hinnoittelu taulukko"
+
+#: include-element/liven_pricing_table.php:239
+#: include-element/liven_pricing_table_mc.php:235
+msgid "Table Title"
+msgstr "Taulukon otsikko"
+
+#: include-element/liven_pricing_table.php:244
+#: include-element/liven_pricing_table_mc.php:240
+msgid "Select Icon"
+msgstr "Valitse kuvake"
+
+#: include-element/liven_pricing_table.php:250
+#: include-element/liven_pricing_table_mc.php:246
+msgid "Table Price"
+msgstr "Pöydän hinta"
+
+#: include-element/liven_pricing_table.php:256
+#: include-element/liven_pricing_table_mc.php:252
+msgid "Price Period"
+msgstr "Hinta ajan"
+
+#: include-element/liven_pricing_table.php:263
+#: include-element/liven_pricing_table_mc.php:259
+msgid "Pricing Table Content"
+msgstr "Hinnoittelu sisältö"
+
+#: include-element/liven_pricing_table.php:267
+#: include-element/liven_pricing_table_mc.php:263
+msgid "Point 1"
+msgstr "1 kohta"
+
+#: include-element/liven_pricing_table.php:275
+#: include-element/liven_pricing_table_mc.php:271
+msgid "Table Point"
+msgstr "Taulukon kohta"
+
+#: include-element/liven_pricing_table.php:281
+#: include-element/liven_pricing_table_mc.php:277
+msgid "Select List Icon"
+msgstr "Valitse kuvake"
+
+#: include-element/liven_pricing_table.php:287
+#: include-element/liven_pricing_table_mc.php:283
+msgid "Is Bold ?"
+msgstr "On rohkea?"
+
+#: include-element/liven_pricing_table.php:296
+#: include-element/liven_pricing_table_mc.php:297
+msgid "Table Note*"
+msgstr "Taulukon Huomautus *"
+
+#: include-element/liven_pricing_table.php:297
+#: include-element/liven_pricing_table_mc.php:298
+msgid "Enter your Pricing Table Note."
+msgstr "Syötä hinnoittelu-taulukon huomautus."
+
+#: include-element/liven_pricing_table.php:302
+#: include-element/liven_pricing_table_mc.php:303
+msgid "Pricing Table Forward Link"
+msgstr "Hinnoittelu taulukko linkki eteenpäin"
+
+#: include-element/liven_pricing_table_mc.php:110
+msgid "Liven Pricing Tables Group - Multicolor"
+msgstr "Elävöittää hinnoittelu taulukot-ryhmässä - monivärinen"
+
+#: include-element/liven_pricing_table_mc.php:291
+msgid "Is Selected?"
+msgstr "Valitaan?"
+
+#: include-element/liven_pricing_table_mc.php:315
+msgid "Table Header Background Color"
+msgstr "Ylätunnisteen taustaväri"
+
+#: include-element/liven_progressbar.php:75
+msgid "Liven Progress Bar"
+msgstr "Elävöittää edetä aisa"
+
+#: include-element/liven_progressbar.php:83
+msgid "Progress Bar Count"
+msgstr "Edistymispalkki määrä"
+
+#: include-element/liven_progressbar.php:85
+msgid "Enter only integer value in percentage. "
+msgstr "Kirjoita vain kokonaislukuarvo prosentteina."
+
+#: include-element/liven_progressbar.php:90
+msgid "Add Text?"
+msgstr "Lisää teksti"
+
+#: include-element/liven_progressbar.php:96
+msgid "Progress Bar Title"
+msgstr "Palkin otsikko"
+
+#: include-element/liven_progressbar.php:98
+msgid "Enter Progress Bar Title."
+msgstr "Kirjoita edistymispalkki otsikko."
+
+#: include-element/liven_progressbar.php:107
+msgid "Text Position"
+msgstr "Tekstin sijainti"
+
+#: include-element/liven_progressbar.php:110
+msgid "Above Progress Bar"
+msgstr "Edellä edistymispalkki"
+
+#: include-element/liven_progressbar.php:111
+msgid "Inside Progress Bar"
+msgstr "Sisältä tilanneilmaisin"
+
+#: include-element/liven_progressbar.php:112
+msgid "Below Progress Bar"
+msgstr "Alla edetä aisa"
+
+#: include-element/liven_progressbar.php:255
+#: include-element/liven_testimonial.php:614
+msgid "Content Color"
+msgstr "Sisällön väri"
+
+#: include-element/liven_progressbar.php:263
+msgid "Progress Bar Foreground Color"
+msgstr "Edistymispalkki edustaväri"
+
+#: include-element/liven_progressbar.php:265
+msgid "Select front color for progress bar."
+msgstr "Valitse edessä väri edetä aisa."
+
+#: include-element/liven_progressbar.php:272
+msgid "Progress Bar Background Color"
+msgstr "Edistymispalkin taustaväri"
+
+#: include-element/liven_progressbar.php:274
+msgid "Select bg color for progress bar."
+msgstr "Valitse bg väri edetä aisa."
+
+#: include-element/liven_revslider.php:72
+msgid "No sliders found"
+msgstr "Slidereitä ei löydy"
+
+#: include-element/liven_revslider.php:76
+msgid "Liven Revolution Slider"
+msgstr "Elävöittää vallankumous liukusäädintä"
+
+#: include-element/liven_revslider.php:80
+msgid "Adds different styles to revolution slider."
+msgstr "Lisää eri tyylejä vallankumous liukusäädintä."
+
+#: include-element/liven_revslider.php:84 include-element/liven_slider.php:150
+msgid "Slider Style"
+msgstr "Dia muotoilla"
+
+#: include-element/liven_revslider.php:86
+msgid "Select style for slider."
+msgstr "Valitse liukusäädintä."
+
+#: include-element/liven_revslider.php:95
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: include-element/liven_revslider.php:100
+msgid "Select your Revolution Slider."
+msgstr "Valitse vallankumous-liukusäädintä."
+
+#: include-element/liven_section.php:52
+msgid "Liven Section"
+msgstr "Elävöittää jakso"
+
+#: include-element/liven_section.php:58
+msgid "Place content elements inside the section"
+msgstr "Sisällön osien osaan"
+
+#: include-element/liven_section.php:62
+msgid "Section Title"
+msgstr "Osion otsikko"
+
+#: include-element/liven_section.php:64
+msgid "This is display as Section Title at front side"
+msgstr "Tämä on näyttö kuin otsikon etupuolella"
+
+#: include-element/liven_section.php:68
+#: include-element/liven_text_block.php:75
+msgid "Select Heading Tag"
+msgstr "Valitse otsikon tagi"
+
+#: include-element/liven_section.php:72
+#: include-element/liven_text_block.php:79
+msgid "h1"
+msgstr "H1"
+
+#: include-element/liven_section.php:73
+#: include-element/liven_text_block.php:80
+msgid "h2"
+msgstr "H2"
+
+#: include-element/liven_section.php:74
+#: include-element/liven_text_block.php:81
+msgid "h3"
+msgstr "H3"
+
+#: include-element/liven_section.php:75
+#: include-element/liven_text_block.php:82
+msgid "h4"
+msgstr "H4"
+
+#: include-element/liven_section.php:76
+#: include-element/liven_text_block.php:83
+msgid "h5"
+msgstr "H5"
+
+#: include-element/liven_section.php:77
+#: include-element/liven_text_block.php:84
+msgid "h6"
+msgstr "H6"
+
+#: include-element/liven_section.php:83
+msgid "Section Title Size"
+msgstr "Osion otsikko"
+
+#: include-element/liven_section.php:85
+msgid "Size unit will be in px."
+msgstr "Koon yksikkö on px."
+
+#: include-element/liven_section.php:90
+msgid "Section Title Alignment"
+msgstr "Jakson otsikon tasaus"
+
+#: include-element/liven_section.php:102
+msgid "Section Content"
+msgstr "Osion sisältö"
+
+#: include-element/liven_section.php:107
+#: include-element/liven_text_block.php:153
+msgid "Is Content Fullwidth?"
+msgstr "On sisällön leveät?"
+
+#: include-element/liven_section.php:113
+msgid "Section Content Alignment"
+msgstr "Osan sisällön kohdistus"
+
+#: include-element/liven_section.php:114
+msgid "Select section content alignment."
+msgstr "Valitse-osassa sisällön kohdistus."
+
+#: include-element/liven_section.php:126
+msgid "Use As Fullwidth Overlay Section?"
+msgstr "Käyttö leveät päällekkäin jaksossa?"
+
+#: include-element/liven_section.php:223
+msgid "Section ID"
+msgstr "Osio ID"
+
+#: include-element/liven_section.php:236
+msgid "Section Title Color"
+msgstr "Osan otsikko väri"
+
+#: include-element/liven_section.php:238
+msgid "Select title color for your section."
+msgstr "Valitse otsikon värin osan."
+
+#: include-element/liven_section.php:244
+msgid "Section Title Background Color"
+msgstr "Otsikon taustaväri"
+
+#: include-element/liven_section.php:246
+msgid "Select title background color for your section."
+msgstr "Valitse otsikon taustavärin osan."
+
+#: include-element/liven_section.php:253
+msgid "Section Description Color"
+msgstr "Osan kuvaus väri"
+
+#: include-element/liven_section.php:255
+msgid "Select description color for your section."
+msgstr "Kuvaus väri osan valitseminen"
+
+#: include-element/liven_service.php:76
+msgid "Liven Service"
+msgstr "Elävöittää palvelu"
+
+#: include-element/liven_service.php:80
+#: include-element/liven_social_icons.php:64
+msgid "Place information about Service"
+msgstr "Paikkaan tietoa palvelun"
+
+#: include-element/liven_service.php:86
+msgid "Select display style for service element at front side."
+msgstr "Valitse näyttötyyli Palveluelementillä etupuolella."
+
+#: include-element/liven_service.php:97
+msgid "This is display as Service name."
+msgstr "Tämä on palvelun nimi."
+
+#: include-element/liven_service.php:101
+msgid "Service Name Font Color"
+msgstr "Palvelun nimi fonttiväri"
+
+#: include-element/liven_service.php:108
+msgid "Service Name Background Color"
+msgstr "Palvelun nimi taustaväri"
+
+#: include-element/liven_service.php:122
+msgid "Service Icon Color"
+msgstr "Kuvakkeen väri"
+
+#: include-element/liven_service.php:129
+msgid "Service Icon Background Color"
+msgstr "Palvelun kuvaketta taustaväri"
+
+#: include-element/liven_service.php:143
+msgid "Write service description here."
+msgstr "Kirjoita palvelun kuvaus täällä."
+
+#: include-element/liven_service.php:149
+msgid "Add link to service detail."
+msgstr "Lisää linkki palvelun tiedot."
+
+#: include-element/liven_service.php:153
+msgid "Link Color"
+msgstr "Linkin väri"
+
+#: include-element/liven_service.php:160
+msgid "Link Hover Color"
+msgstr "Linkin väri kun osoitin kohdalla"
+
+#: include-element/liven_slider.php:143
+msgid "Liven Slider"
+msgstr "Elävöittää liukusäädintä"
+
+#: include-element/liven_slider.php:162
+msgid "Image Slider Containt"
+msgstr "Kuva liukusäädintä Containt"
+
+#: include-element/liven_slider.php:167 include-element/liven_slider.php:185
+#: include-element/liven_slider.php:208
+msgid "Slide Image"
+msgstr "Sliden kuva"
+
+#: include-element/liven_slider.php:180
+msgid "Image & Title Slider Containt"
+msgstr "Kuva & otsikko liukusäädintä Containt"
+
+#: include-element/liven_slider.php:191 include-element/liven_slider.php:214
+#: include-element/liven_slider.php:236
+msgid "Slide Title"
+msgstr "Dian otsikko"
+
+#: include-element/liven_slider.php:203
+msgid "Image & Title With Description Containt"
+msgstr "Kuva & otsikko ja kuvaus Containt"
+
+#: include-element/liven_slider.php:219 include-element/liven_slider.php:241
+msgid "Description"
+msgstr "Kuvaus"
+
+#: include-element/liven_slider.php:231
+msgid "Title With Description Containt"
+msgstr "Otsikko ja kuvaus Containt"
+
+#: include-element/liven_social_icons.php:57
+msgid "Liven Social Icons"
+msgstr "Elävöittää sosiaalinen kuvakkeet"
+
+#: include-element/liven_table.php:47
+msgid "Liven Table"
+msgstr "Elävöittää taulukko"
+
+#: include-element/liven_table.php:51
+msgid "Adds styles to your data tables."
+msgstr "Lisää tyylejä tiedot taulukoista."
+
+#: include-element/liven_table.php:99
+msgid "Paste your table HTML code here."
+msgstr "Liitä taulukon HTML koodi tähän."
+
+#: include-element/liven_table.php:113
+msgid "Table Border Color"
+msgstr "Taulukon reunaviivan väri"
+
+#: include-element/liven_table.php:120
+msgid "Table Header & Footer Background Color"
+msgstr "Otsikon & alatunnisteen taustaväri"
+
+#: include-element/liven_table.php:127
+msgid "First Background Color"
+msgstr "Ensimmäisen painikkeen taustaväri"
+
+#: include-element/liven_table.php:137
+msgid "Second Background Color "
+msgstr "Toinen taustaväri"
+
+#: include-element/liven_tabs.php:75
+msgid "Liven Tabs"
+msgstr "Elävöittää välilehdet"
+
+#: include-element/liven_tabs.php:89
+msgid "Horizontal Tab"
+msgstr "Vaakasuora kaistale"
+
+#: include-element/liven_tabs.php:90
+msgid "Vertical Tab"
+msgstr "Pystysuora kaistale"
+
+#: include-element/liven_tabs.php:209
+msgid "Tab Background Color"
+msgstr "Taustaväri"
+
+#: include-element/liven_tabs.php:217
+msgid "Tab Title Color"
+msgstr "Otsikon väri"
+
+#: include-element/liven_tabs.php:225
+msgid "Tab Border Color"
+msgstr "Välilehden reunaviivan väri"
+
+#: include-element/liven_tabs.php:233
+msgid "Tab Background Hover Color"
+msgstr "Taustan väri kun osoitin kohdalla"
+
+#: include-element/liven_tabs.php:241
+msgid "Tab Title Hover Color"
+msgstr "Välilehden otsikko valintaväri"
+
+#: include-element/liven_tabs.php:249
+msgid "Tab Border Hover Color"
+msgstr "Reunaviivan väri kun osoitin kohdalla"
+
+#: include-element/liven_tag_cloud.php:75
+msgid "Liven Tag Cloud"
+msgstr "Elävöittää Tag Cloud"
+
+#: include-element/liven_tag_cloud.php:79
+msgid "Adds styles to your element."
+msgstr "Lisää tyylejä sinun tekijä."
+
+#: include-element/liven_tag_cloud.php:83
+msgid "Tag Cloud Name"
+msgstr "Avainsanapilvi"
+
+#: include-element/liven_tag_cloud.php:88
+msgid "Tag Cloud Name Color"
+msgstr "Tag Cloud nimi väri"
+
+#: include-element/liven_tag_cloud.php:94
+msgid "Tag Cloud Name Size"
+msgstr "Tag Cloud Name koko"
+
+#: include-element/liven_tag_cloud.php:100
+msgid "Tag Cloud Name Alignment"
+msgstr "Tag Cloud nimi tasaus"
+
+#: include-element/liven_tag_cloud.php:110
+msgid "Tags"
+msgstr "Avainsanat"
+
+#: include-element/liven_tag_cloud.php:128
+msgid "How many tags you would like to show? (-1 means unlimited)"
+msgstr "Miten monta merkintää haluat näyttää? (1 tarkoittaa rajoittamaton)"
+
+#: include-element/liven_tag_cloud.php:230
+msgid "Tags Color"
+msgstr "Tunnisteet väri"
+
+#: include-element/liven_tag_cloud.php:234
+#: include-element/liven_tag_cloud.php:242
+#: include-element/liven_tag_cloud.php:250
+#: include-element/liven_tag_cloud.php:258
+#: include-element/liven_tag_cloud.php:266
+#: include-element/liven_tag_cloud.php:274
+msgid "Tags Colors Settings"
+msgstr "Tunnisteet värit asetukset"
+
+#: include-element/liven_tag_cloud.php:238
+msgid "Tags Hover Color"
+msgstr "Tekstin väri kun osoitin kohdalla"
+
+#: include-element/liven_tag_cloud.php:246
+msgid "Tags Border Color"
+msgstr "Reunaviivan väri"
+
+#: include-element/liven_tag_cloud.php:254
+msgid "Tags Border Hover Color"
+msgstr "Reunaviivan väri kun osoitin kohdalla"
+
+#: include-element/liven_tag_cloud.php:262
+msgid "Tags Background Color"
+msgstr "Taustaväri"
+
+#: include-element/liven_tag_cloud.php:270
+msgid "Tags Background Hover Color"
+msgstr "Taustan väri kun osoitin kohdalla"
+
+#: include-element/liven_team_member.php:176
+msgid "Liven Team Member"
+msgstr "Elävöittää ryhmän jäsen"
+
+#: include-element/liven_team_member.php:183
+msgid "Place information about team member"
+msgstr "Paikkaan tietoa ryhmän jäsen"
+
+#: include-element/liven_team_member.php:199
+msgid "Select Team members"
+msgstr "﻿Valitse kategoria"
+
+#: include-element/liven_team_member.php:206
+msgid "How many team members you would like to show? (-1 means unlimited)"
+msgstr ""
+"Kuinka monta tiimin jäsentä haluat näyttää? (1 tarkoittaa rajoittamaton)"
+
+#: include-element/liven_team_member.php:212
+msgid "Select display style for display at front side."
+msgstr "Valitse näyttötyyli näytön etupuolella."
+
+#: include-element/liven_team_member.php:221
+msgid "Alignment"
+msgstr "Tasaus"
+
+#: include-element/liven_team_member.php:223
+msgid "Select details alignment left, center or right."
+msgstr "Valitse tiedot tasaus vasemmalle, keskellä tai oikealla."
+
+#: include-element/liven_team_member.php:237
+msgid "Background Layer Color"
+msgstr "Kerros taustaväri"
+
+#: include-element/liven_team_member.php:239
+msgid "Select background layer color for hover."
+msgstr "Valitse valintapainikkeen taustaväri kerros."
+
+#: include-element/liven_team_member.php:248
+msgid "Name Font Color"
+msgstr "Fontin väri"
+
+#: include-element/liven_team_member.php:250
+msgid "Select font color for Name."
+msgstr "Valitse fonttivärin nimi."
+
+#: include-element/liven_team_member.php:256
+msgid "Designation Font Color"
+msgstr "Nimitys fonttiväri"
+
+#: include-element/liven_team_member.php:258
+msgid "Select font color for Designation."
+msgstr "Valitse fonttiväri nimitys."
+
+#: include-element/liven_testimonial.php:383
+msgid "Liven Testimonial"
+msgstr "Elävöittää suosittelu"
+
+#: include-element/liven_testimonial.php:387
+msgid "Adds styles to testimonials."
+msgstr "Lisää tyylejä suosittelut."
+
+#: include-element/liven_testimonial.php:393
+msgid "Select testimonial display option."
+msgstr "Valitse suosittelun näyttöasetukset."
+
+#: include-element/liven_testimonial.php:401
+msgid "Slider Style Option"
+msgstr "Liukusäädintä tyyliasetus"
+
+#: include-element/liven_testimonial.php:403
+msgid "Select testimonial slider style option for listing."
+msgstr "Valitse suosittelun liukusäädintä tyyli listalle."
+
+#: include-element/liven_testimonial.php:415
+msgid "List Style Option"
+msgstr "Luettelon tyyli vaihtoehto"
+
+#: include-element/liven_testimonial.php:417
+msgid "Select testimonial style option for listing."
+msgstr "Valitse luettelon-tyyliasetus suosittelun."
+
+#: include-element/liven_testimonial.php:458
+msgid "How many testimonials you would like to show? (-1 means unlimited)"
+msgstr "Kuinka monta suosittelut haluat näyttää? (1 tarkoittaa rajoittamaton)"
+
+#: include-element/liven_testimonial.php:462
+msgid "Show Navigation?"
+msgstr "Näytetäänkö navigointipisteet?"
+
+#: include-element/liven_testimonial.php:573
+msgid "Select background color for testimonial slider."
+msgstr "Valitse taustaväri suosittelun liukusäädintä."
+
+#: include-element/liven_testimonial.php:583
+msgid "Main Heading Color"
+msgstr "Otsikon väri"
+
+#: include-element/liven_testimonial.php:585
+msgid "Select color for main heading title."
+msgstr "Valitse väri pääotsikon otsikko."
+
+#: include-element/liven_testimonial.php:598
+msgid "Select color for testimonial title."
+msgstr "Valitse väri suosittelun otsikko."
+
+#: include-element/liven_testimonial.php:605
+msgid "Designation Color"
+msgstr "Nimetty väri"
+
+#: include-element/liven_testimonial.php:607
+msgid "Select color for testimonial designation."
+msgstr "Valitse väri suosittelun nimeämiseksi."
+
+#: include-element/liven_testimonial.php:616
+msgid "Select color for content."
+msgstr "Valitse väri sisältöä."
+
+#: include-element/liven_testimonial.php:642
+#: include-element/liven_testimonial.php:731
+msgid "Select color for testimonial icon."
+msgstr "Valitse väri suosittelun kuvake."
+
+#: include-element/liven_testimonial.php:679
+msgid "Odd Background Color"
+msgstr "Taustaväri"
+
+#: include-element/liven_testimonial.php:681
+msgid "Select odd background color for testimonial."
+msgstr "Valitse suosittelu-taustaväri outoa."
+
+#: include-element/liven_testimonial.php:692
+msgid "Even Background Color"
+msgstr "Taustaväri"
+
+#: include-element/liven_testimonial.php:694
+msgid "Select even background color for testimonial."
+msgstr "Valitse jopa taustavärin suosittelu."
+
+#: include-element/liven_testimonial.php:706
+msgid "Select background color for testimonial."
+msgstr "Valitse taustaväri suosittelu."
+
+#: include-element/liven_text_block.php:60
+msgid "Liven Title Content"
+msgstr "Elävöittää otsikon sisältö"
+
+#: include-element/liven_text_block.php:64
+msgid "Adds styles to your text block element."
+msgstr "Lisää tyylejä teksti lohkoelementtiin."
+
+#: include-element/liven_text_block.php:70
+msgid "Enter title for text block."
+msgstr "Kirjoita otsikko tekstilohkon."
+
+#: include-element/liven_text_block.php:105
+msgid "Is Title Uppercase?"
+msgstr "On otsikko isoja?"
+
+#: include-element/liven_text_block.php:111
+msgid "Apply Letter Spacing?"
+msgstr "Sovelletaan välit?"
+
+#: include-element/liven_text_block.php:124
+msgid "Title Background Color"
+msgstr "Otsikon taustaväri"
+
+#: include-element/liven_text_block.php:130
+msgid "Title Padding"
+msgstr "Otsikko täyte"
+
+#: include-element/liven_text_block.php:138
+msgid "Title & Content Spacing"
+msgstr "Otsikko/Teachers & sisällön välistys"
+
+#: include-element/liven_text_block.php:160
+msgid "Text Box Content Color"
+msgstr "Teksti ruudun sisällön väri"
+
+#: include-element/liven_text_block.php:167
+msgid "Content Alignment"
+msgstr "Sisällön tasaus"
+
+#: include-element/liven_text_block.php:260
+msgid "Move"
+msgstr "Siirry tilaukseen"
+
+#: include-element/liven_text_block.php:269
+msgid "Extra class name"
+msgstr "Kun luokkanimi"
+
+#: include-metabox/liven_custom_breadcrumb_meta_box.php:43
+msgid "Page Title"
+msgstr "Sivun otsikko"
+
+#: include-metabox/liven_custom_breadcrumb_meta_box.php:44
+#: include-metabox/liven_custom_breadcrumb_meta_box.php:48
+msgid "On"
+msgstr "Kirjoitettu:"
+
+#: include-metabox/liven_custom_breadcrumb_meta_box.php:45
+#: include-metabox/liven_custom_breadcrumb_meta_box.php:49
+msgid "Off"
+msgstr "Pois"
+
+#: include-metabox/liven_custom_breadcrumb_meta_box.php:47
+msgid "Breadcrumb"
+msgstr "Korppujauho"
+
+#: include-metabox/liven_custom_footer_meta_box.php:47
+msgid "Footer Page"
+msgstr "footer Page"
+
+#: include-metabox/liven_custom_footer_meta_box.php:49
+msgid "Select Footer"
+msgstr "Valitse alatunniste"
+
+#. Plugin Name of the plugin/theme
+msgid "Liven Extenstion"
+msgstr "Elävöittää Extenstion"
+
+#. Description of the plugin/theme
+msgid "Liven Extenstion."
+msgstr "Elävöittää Extenstion."
+
+#. Author of the plugin/theme
+msgid "Nirav And Hardik | Litmus Branding"
+msgstr "Nirav ja Hanna | Litmus Branding"
+
+#. Author URI of the plugin/theme
+msgid "https://lithemes.com/"
+msgstr "https://lithemes.com/"

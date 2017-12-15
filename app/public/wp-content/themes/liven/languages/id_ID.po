@@ -1,0 +1,1063 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: liven\n"
+"POT-Creation-Date: 2016-10-18 17:02+0530\n"
+"PO-Revision-Date: 2016-10-18 17:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: id_ID\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "404"
+msgstr "404"
+
+#: 404.php:12
+msgid "Oops! Page not found"
+msgstr "Ups ... Halaman Tidak Ditemukan!"
+
+#: 404.php:13
+msgid "We're sorry, the page you requested cannot be found."
+msgstr "Maaf, halaman yang Anda minta tidak dapat ditemukan."
+
+#: 404.php:14
+msgid "You can go back to"
+msgstr "Anda dapat kembali ke"
+
+#: 404.php:15
+msgid "go to homepage "
+msgstr "Pergi ke halaman depan"
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Satu pemikiran pada \"%s\""
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:75
+msgid "Name *"
+msgstr "Nama *"
+
+#: comments.php:76
+msgid "Email *"
+msgstr "Alamat surel*"
+
+#: comments.php:79
+msgid "Comment..."
+msgstr "Komentar"
+
+#: functions.php:68
+msgid "Top primary menu"
+msgstr "Menu utama atas"
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:122
+msgid "Sidebar of Blog"
+msgstr "Sidebar Blog"
+
+#: functions.php:140
+msgid "Search...."
+msgstr "Cari"
+
+#: functions.php:182
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr "<span class=\"fn\">%s</span>"
+
+#: functions.php:185
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s di %2$s"
+
+#: functions.php:188
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: functions.php:194
+msgid "Your comment is awaiting moderation."
+msgstr "Komentarmu menunggu moderasi"
+
+#: functions.php:213
+msgid "Recent Posts"
+msgstr "Pos Terbaru"
+
+#: functions.php:253 functions.php:282 templates/content-blog.php:46
+#: templates/content-blog.php:95 templates/content-blog.php:145
+#: templates/content-blog.php:215 templates/content-blog.php:289
+#: templates/content-blog.php:320 templates/single-blog.php:22
+msgid " Comments "
+msgstr "Komentar"
+
+#: inc/add_default_plugin.php:18
+msgid "Visual Composer"
+msgstr "Visual komposer"
+
+#: inc/add_default_plugin.php:22
+msgid "4.12.1"
+msgstr "4.12.1"
+
+#: inc/add_default_plugin.php:27
+msgid "Liven Extenstion"
+msgstr "Menghidupkan Extenstion"
+
+#: inc/add_default_plugin.php:31
+msgid "1.0"
+msgstr "1.0"
+
+#: inc/add_default_plugin.php:36
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: inc/add_default_plugin.php:40
+msgid "5.2.6"
+msgstr "5.2.6"
+
+#: inc/add_default_plugin.php:45
+msgid "Contact Form 7"
+msgstr "Formulir Kontak"
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Perbarui Plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Terjadi kesalahan dengan plugin API"
+
+#: inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Installer Plugin diperlukan"
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan."
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak ada tindakan yang diambil. Plugin %1$s sudah aktif."
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin tidak diaktifkan. Sebuah versi yang lebih tinggi dari %s diperlukan "
+"untuk tema ini. Silakan update plugin."
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Seluruh plugin yang berhasil diinstall dan diaktifkan. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Singkirkan pemberitahuan ini"
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Ada satu atau lebih diperlukan atau yang disarankan plugin untuk diinstal, "
+"diperbarui atau diaktifkan."
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin ini perlu diperbarui agar kompatibel dengan tema Anda."
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Pembaruan Diperlukan"
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Paket Plugin remote tidak mengandung folder dengan slug yang diinginkan dan "
+"penggantian nama tidak bekerja."
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Silahkan hubungi penyedia Plugin dan meminta mereka untuk paket plugin yang "
+"sesuai dengan pedoman WordPress."
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Paket plugin remote terdiri dari lebih dari satu file, tetapi file tidak "
+"dikemas dalam sebuah folder."
+
+#: inc/class-tgm-plugin-activation.php:1206
+#: inc/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "dan"
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v %s"
+
+#: inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Dibutuhkan"
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Disarankan"
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "Pranala Luar"
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Tidak terinstal"
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Terinstal Tapi Tidak Aktif"
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Pembaruan yang diperlukan Tak Tersedia"
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Membutuhkan Pembaruan"
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Perbarui rekomendasi"
+
+#: inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "Takdiketahui"
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Versi terpasang:"
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Minimum versi yang diperlukan:"
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Versi tersedia:"
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "Tidak ada plugin untuk menginstal, memperbarui atau mengaktifkan."
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Sumber"
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "Jenis"
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Versi"
+
+#: inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Perbarui %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade pesan dari penulis Plugin:"
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Pasang"
+
+#: inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Update"
+
+#: inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih untuk diinstal. Tidak ada tindakan yang "
+"diambil."
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih yang akan diperbarui. Tidak ada tindakan yang "
+"diambil."
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diinstal pada saat ini."
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diperbarui saat ini."
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih harus diaktifkan. Tidak ada tindakan yang "
+"diambil."
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diaktifkan pada saat ini."
+
+#: inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Gagal mengaktifkan plugin."
+
+#: inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Perbarui Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi kesalahan saat menginstal %1$s: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Installasi %1$s gagal."
+
+#: inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proses instalasi dan aktivasi dimulai. Proses ini mungkin memakan waktu "
+"cukup lama pada beberapa host, jadi harap bersabar."
+
+#: inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s berhasil diinstal dan diaktifkan."
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "Tampilkan Rincian"
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "Sembunyikan Rincian"
+
+#: inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Semua instalasi dan aktivasi telah selesai."
+
+#: inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Install dan mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proses instalasi dimulai. Proses ini dapat berlangsung beberapa saat pada "
+"beberapa host, jadi harap bersabar."
+
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s berhasil diinstall."
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "Semua instalasi telah selesai."
+
+#: inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Menginstall Plugin %1$s (%2$d/%3$d)"
+
+#: inc/customizer.php:18
+msgid "Liven Theme Option"
+msgstr "Meriahkan Pilihan Tema"
+
+#: inc/customizer.php:20
+msgid ""
+"The Customizer allows you to preview changes to your site before publishing "
+"them. You can also navigate to different pages on your site to preview them."
+msgstr ""
+"The Customizer memungkinkan Anda untuk melihat perubahan ke situs Anda "
+"sebelum mempublikasikannya. Anda juga dapat menavigasi ke halaman yang "
+"berbeda di situs Anda untuk melihat mereka."
+
+#: inc/customizer.php:28
+msgid "Global Colors"
+msgstr "Warna global"
+
+#: inc/customizer.php:38
+msgid "Page Background Color"
+msgstr "Warna Latar Belakang"
+
+#: inc/customizer.php:48 inc/customizer.php:185
+msgid "Font Color"
+msgstr "Warna Font Utama"
+
+#: inc/customizer.php:58
+msgid "Link Color"
+msgstr "Link Color"
+
+#: inc/customizer.php:68
+msgid "Link Hover Color"
+msgstr "Link Hover Color"
+
+#: inc/customizer.php:78
+msgid "Button Color"
+msgstr "Warna Tombol"
+
+#: inc/customizer.php:88
+msgid "Button Font Color"
+msgstr "Warna Tombol"
+
+#: inc/customizer.php:98
+msgid "Heading Color"
+msgstr "Warna Font judul"
+
+#: inc/customizer.php:101
+msgid "Default Heading color for h1 to h6"
+msgstr "Default Pos warna untuk h1 sampai h6"
+
+#: inc/customizer.php:113 inc/customizer.php:124
+msgid "Header Toolbar"
+msgstr "Header Toolbar"
+
+#: inc/customizer.php:127 inc/customizer.php:300 inc/customizer.php:315
+#: inc/customizer.php:477 inc/customizer.php:503 inc/customizer.php:698
+#: inc/customizer.php:789
+msgid "On"
+msgstr "Matikan"
+
+#: inc/customizer.php:128 inc/customizer.php:301 inc/customizer.php:316
+#: inc/customizer.php:478 inc/customizer.php:504 inc/customizer.php:699
+#: inc/customizer.php:790
+msgid "Off"
+msgstr "Hidupkan"
+
+#: inc/customizer.php:140
+msgid "Phone Number"
+msgstr "Nomer Telepon"
+
+#: inc/customizer.php:142
+msgid "Enter phone number in standard format"
+msgstr "Masukkan nomor telepon dalam format standar"
+
+#: inc/customizer.php:153
+msgid "Email"
+msgstr "Surel"
+
+#: inc/customizer.php:155
+msgid "Enter email address in standard format"
+msgstr "Masukkan alamat email dalam format standar"
+
+#: inc/customizer.php:163 inc/customizer.php:462
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: inc/customizer.php:174
+msgid "Icon Color"
+msgstr "Warna Icon"
+
+#: inc/customizer.php:206
+msgid "Header"
+msgstr "Bagian Atas"
+
+#: inc/customizer.php:216
+msgid "Upload Your Logo"
+msgstr "Unggah logo Anda"
+
+#: inc/customizer.php:227
+msgid "Select Your Header Style"
+msgstr "Pilih Gaya header Anda"
+
+#: inc/customizer.php:230 inc/customizer.php:518 inc/customizer.php:639
+msgid "Style 1"
+msgstr "Style 1"
+
+#: inc/customizer.php:231 inc/customizer.php:519 inc/customizer.php:640
+msgid "Style 2"
+msgstr "Style 2"
+
+#: inc/customizer.php:232 inc/customizer.php:520 inc/customizer.php:641
+msgid "Style 3"
+msgstr "Style 3"
+
+#: inc/customizer.php:233 inc/customizer.php:642
+msgid "Style 4"
+msgstr "Style 4"
+
+#: inc/customizer.php:234 inc/customizer.php:643
+msgid "Style 5"
+msgstr "Style 5"
+
+#: inc/customizer.php:245
+msgid "Header Background Color"
+msgstr "Header Warna Latar Belakang"
+
+#: inc/customizer.php:255
+msgid "Menu Font Color"
+msgstr "Wana Menu"
+
+#: inc/customizer.php:265
+msgid "Menu Font Hover Color"
+msgstr "Menu Font Hover Color"
+
+#: inc/customizer.php:275
+msgid "Active Menu Font Color"
+msgstr "Active menu Font Color"
+
+#: inc/customizer.php:285
+msgid "Menu Background Color"
+msgstr "Warna Latar Belakang"
+
+#: inc/customizer.php:297
+msgid "Header Searchbar"
+msgstr "Header Searchbar"
+
+#: inc/customizer.php:312
+msgid "Social Icons"
+msgstr "Jejaring Sosial"
+
+#: inc/customizer.php:330
+msgid "Facebook Link"
+msgstr "Facebook Tautan"
+
+#: inc/customizer.php:332
+msgid "Enter your facebook link to show icon."
+msgstr "Masukkan Link facebook untuk menampilkan icon."
+
+#: inc/customizer.php:342
+msgid "Twitter Link"
+msgstr "Twitter Tautan"
+
+#: inc/customizer.php:344
+msgid "Enter your twitter link to show icon."
+msgstr "Masukkan Link twitter untuk menampilkan icon."
+
+#: inc/customizer.php:354
+msgid "Google Plus Link"
+msgstr "Google Plus"
+
+#: inc/customizer.php:356
+msgid "Enter your google plus link to show icon."
+msgstr "Masukkan google plus link untuk menampilkan ikon."
+
+#: inc/customizer.php:366
+msgid "LinkedIn Link"
+msgstr "LinkedIn Tautan"
+
+#: inc/customizer.php:368
+msgid "Enter your linkedin link to show icon."
+msgstr "Masukkan Link linkedin untuk menampilkan icon."
+
+#: inc/customizer.php:377
+msgid "Social Icons Style"
+msgstr "Sosial Ikon Style"
+
+#: inc/customizer.php:380
+msgid "Dark"
+msgstr "Gelap"
+
+#: inc/customizer.php:381
+msgid "Light"
+msgstr "Terang"
+
+#: inc/customizer.php:427
+msgid "Page Title & Breadcrumb Settings"
+msgstr "Halaman Judul & Pengaturan Breadcrumb"
+
+#: inc/customizer.php:438
+msgid "Page Title Background"
+msgstr "Halaman Judul Latar Belakang"
+
+#: inc/customizer.php:441
+msgid "Image"
+msgstr "Gambar"
+
+#: inc/customizer.php:442
+msgid "Color"
+msgstr "Warna"
+
+#: inc/customizer.php:451
+msgid "Background Image"
+msgstr "Gambar Latar Belakang"
+
+#: inc/customizer.php:474
+msgid "Page Title"
+msgstr "Judul Deskripsi"
+
+#: inc/customizer.php:480
+msgid ""
+"You can disable page title globally using this option, or you may need to "
+"disable it in a particular page."
+msgstr ""
+"Anda dapat menonaktifkan judul halaman global menggunakan opsi ini, atau "
+"Anda mungkin perlu menonaktifkan dalam halaman tertentu."
+
+#: inc/customizer.php:488
+msgid "Page Title Color"
+msgstr "Warna judul"
+
+#: inc/customizer.php:500
+msgid "Breadcrumb"
+msgstr "Tepung roti"
+
+#: inc/customizer.php:506
+msgid ""
+"You can disable breadcrumb navigation globally using this option, or you may "
+"need to disable it in a particular page."
+msgstr ""
+"Anda dapat menonaktifkan navigasi breadcrumb global menggunakan opsi ini, "
+"atau Anda mungkin perlu menonaktifkan dalam halaman tertentu."
+
+#: inc/customizer.php:515
+msgid "Select Your Breadcrumb Style"
+msgstr "Pilih Gaya Breadcrumb Anda"
+
+#: inc/customizer.php:530
+msgid "Breadcrumb Page Color"
+msgstr "Breadcrumb Warna Halaman"
+
+#: inc/customizer.php:541
+msgid "Breadcrumb Hover Color"
+msgstr "Breadcrumb Hover Color"
+
+#: inc/customizer.php:552
+msgid "Breadcrumb Active Page Color"
+msgstr "Breadcrumb Active Warna Halaman"
+
+#: inc/customizer.php:565
+msgid "Select Breadcrumb Separator"
+msgstr "Pilih Breadcrumb Separator"
+
+#: inc/customizer.php:568
+msgid "/"
+msgstr "/"
+
+#: inc/customizer.php:569
+msgid "|"
+msgstr "|"
+
+#: inc/customizer.php:570
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:583
+msgid "Label For Home"
+msgstr "Label Untuk Rumah"
+
+#: inc/customizer.php:625 templates/breadcrumb.php:43
+#: templates/breadcrumb.php:220 templates/breadcrumb.php:282
+#: templates/breadcrumb.php:356
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer.php:636
+msgid "Select Your Blog Style"
+msgstr "Pilih Style"
+
+#: inc/customizer.php:652
+msgid "Blog Title Color"
+msgstr "Warna judul"
+
+#: inc/customizer.php:662
+msgid "Blog Title Hover Color"
+msgstr "Blog Judul Hover Color"
+
+#: inc/customizer.php:673
+msgid "Blog Info Color"
+msgstr "Blog Info Color"
+
+#: inc/customizer.php:683
+msgid "Date Color"
+msgstr "Tanggal Warna"
+
+#: inc/customizer.php:695
+msgid "Blog Sidebar"
+msgstr "Blog Sidebar"
+
+#: inc/customizer.php:709
+msgid "Blog Sidebar Position"
+msgstr "Posisi Sidebar"
+
+#: inc/customizer.php:712
+msgid "Left"
+msgstr "Tersisa"
+
+#: inc/customizer.php:713
+msgid "Right"
+msgstr "Kanan"
+
+#: inc/customizer.php:749
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer.php:775
+msgid "Footer Page"
+msgstr "Footer Halaman"
+
+#: inc/customizer.php:786
+msgid "Back To Top"
+msgstr "Kembali ke atas"
+
+#: inc/customizer.php:792
+msgid "Using this option you can enable or disable back to top button."
+msgstr ""
+"Menggunakan opsi ini Anda dapat mengaktifkan atau menonaktifkan kembali ke "
+"tombol atas."
+
+#: inc/customizer.php:806
+msgid "Theme Optimization"
+msgstr "Tema optimasi"
+
+#: inc/customizer.php:818
+msgid "Minified CSS"
+msgstr "Minified CSS"
+
+#: inc/customizer.php:822
+msgid "Check this option to load minified CSS"
+msgstr "Cek pilihan ini untuk memuat minified CSS"
+
+#: inc/customizer.php:831
+msgid "Minified Javascript"
+msgstr "Minified Javascript"
+
+#: inc/customizer.php:835
+msgid "Check this option to load minified Javascript"
+msgstr "Cek pilihan ini untuk beban Javascript minified"
+
+#: inc/enqueue-front-styles.php:23 inc/enqueue-front-styles.php:31
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "pada"
+
+#: searchform.php:10 searchform.php:14
+msgid "Search for:"
+msgstr "Mencari"
+
+#: searchform.php:12
+msgid "Search..."
+msgstr "Cari..."
+
+#: templates/breadcrumb.php:21
+msgid " / "
+msgstr "/"
+
+#: templates/breadcrumb.php:27 templates/breadcrumb.php:213
+#: templates/breadcrumb.php:275 templates/breadcrumb.php:349
+msgid "Home"
+msgstr "Beranda"
+
+#: templates/breadcrumb.php:147 templates/breadcrumb.php:150
+#: templates/breadcrumb.php:153 templates/breadcrumb.php:157
+#: templates/breadcrumb.php:159 templates/breadcrumb.php:163
+msgid " Archives"
+msgstr "Arsip"
+
+#: templates/breadcrumb.php:168
+msgid "Author: "
+msgstr "Penulis:"
+
+#: templates/breadcrumb.php:171
+msgid "Page"
+msgstr "Halaman"
+
+#: templates/breadcrumb.php:175
+msgid "Search results for: "
+msgstr "Search results for:"
+
+#: templates/breadcrumb.php:179
+msgid "Error 404"
+msgstr "Kesalahan 404"
+
+#: templates/breadcrumb.php:228 templates/breadcrumb.php:290
+#: templates/breadcrumb.php:364 templates/content-search.php:15
+msgid " Search Results For : "
+msgstr "Search results for:"
+
+#: templates/content-blog.php:28 templates/content-blog.php:76
+#: templates/content-blog.php:128 templates/content-blog.php:195
+#: templates/content-blog.php:270 templates/content-blog.php:301
+msgid "post-"
+msgstr "Kirim"
+
+#: templates/content-blog.php:161 templates/single-blog.php:38
+msgid ", "
+msgstr ","
+
+#: templates/content-none.php:9
+msgid "No results found"
+msgstr "Tak ditemukan hasil"
+
+#: templates/content-search.php:24
+msgid " by "
+msgstr "oleh"
+
+#: templates/content-search.php:24
+msgid " on "
+msgstr "pada"
+
+#: templates/content-search.php:29 templates/content-search.php:48
+msgid " in "
+msgstr "di"
+
+#: templates/portfolio.php:24
+msgid "Categories"
+msgstr "Kategori"
+
+#: templates/portfolio.php:36
+msgid "Description"
+msgstr "Keterangan"
+
+#: templates/portfolio.php:64
+msgid "Related Portfolio"
+msgstr "Portofolio terkait"
+
+#: templates/single-blog.php:18
+msgid "by "
+msgstr "oleh"
+
+#: templates/single-blog.php:18 templates/single-blog.php:19
+msgid " | "
+msgstr "|"
+
+#: templates/single-blog.php:22
+msgid " Comment "
+msgstr "Komentar"
+
+#. Theme Name of the plugin/theme
+msgid "liven"
+msgstr "menghidupkan"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeforest.net/user/lithemes"
+msgstr "http://ThemeForest.net/user/lithemes"
+
+#. Description of the plugin/theme
+msgid "Great Business WordPress theme with many new design and functionality."
+msgstr ""
+"Besar bisnis WordPress theme dengan banyak desain baru dan fungsionalitas."
+
+#. Author of the plugin/theme
+msgid "Lithemes"
+msgstr "Lithemes"
+
+#. Author URI of the plugin/theme
+msgid "https://lithemes.com/"
+msgstr "https://lithemes.com/"
